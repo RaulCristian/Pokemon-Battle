@@ -1,0 +1,412 @@
+Au intrat in arena antrenorii: Alexandra 20 si Maria 23
+DUEL 1
+Se dueleaza pokemonii:
+name:Snorlax hp:62 attack:3 special_attack:null defense:6 special_defense:7 abilities:[ Dmg:4 Stun:true Dodge:false Cd:5,  Dmg:0 Stun:false Dodge:true Cd:5] items:[Pelerina]
+name:Vulpix hp:36 attack:5 special_attack:null defense:2 special_defense:7 abilities:[ Dmg:8 Stun:true Dodge:false Cd:6,  Dmg:2 Stun:false Dodge:true Cd:7] items:[Pelerina]
+
+Snorlax vs Vulpix
+
+1. Snorlax abilitate 1 / Vulpix abilitate 1
+Snorlax HP 60 si este stuned   abilitate 1->cooldown: 5 
+Vulpix HP 34 si este stuned   abilitate 1->cooldown: 6 
+
+2. Snorlax nimic / Vulpix nimic
+Snorlax HP 60   abilitate 1->cooldown: 4 
+Vulpix HP 34   abilitate 1->cooldown: 5 
+
+3. Snorlax atac normal / Vulpix atac normal
+Snorlax HP 55 abilitate 1->cooldown: 3 
+Vulpix HP 31 abilitate 1->cooldown: 4 
+
+4. Snorlax abilitate 2 / Vulpix atac normal
+Snorlax HP 55 (abilitatea 2 are dodge),  abilitate 1->cooldown: 2  abilitate 2->cooldown: 5
+Vulpix HP 31  abilitate 1->cooldown: 3 
+
+5. Snorlax atac normal / Vulpix atac normal
+Snorlax HP 50 abilitate 1->cooldown: 1  abilitate 2->cooldown: 4
+Vulpix HP 28 abilitate 1->cooldown: 2 
+
+6. Snorlax atac normal / Vulpix abilitate 2
+Snorlax HP 48  abilitate 1->cooldown: 0  abilitate 2->cooldown: 3
+Vulpix HP 28 (abilitatea 2 are dodge),  abilitate 1->cooldown: 1  abilitate 2->cooldown: 7
+
+7. Snorlax abilitate 1 / Vulpix atac normal
+Snorlax HP 43 abilitate 1->cooldown: 5  abilitate 2->cooldown: 2
+Vulpix HP 24 si este stuned  abilitate 1->cooldown: 0  abilitate 2->cooldown: 6
+
+8. Snorlax atac normal / Vulpix nimic
+Snorlax HP 43  abilitate 1->cooldown: 4  abilitate 2->cooldown: 1
+Vulpix HP 21  abilitate 2->cooldown: 5
+
+9. Snorlax atac normal / Vulpix abilitate 1
+Snorlax HP 35 si este stuned  abilitate 1->cooldown: 3  abilitate 2->cooldown: 0
+Vulpix HP 18 abilitate 1->cooldown: 6  abilitate 2->cooldown: 4
+
+10. Snorlax nimic / Vulpix atac normal
+Snorlax HP 30 abilitate 1->cooldown: 2 
+Vulpix HP 18 abilitate 1->cooldown: 5  abilitate 2->cooldown: 3
+
+11. Snorlax atac normal / Vulpix atac normal
+Snorlax HP 25 abilitate 1->cooldown: 1 
+Vulpix HP 15 abilitate 1->cooldown: 4  abilitate 2->cooldown: 2
+
+12. Snorlax abilitate 2 / Vulpix atac normal
+Snorlax HP 25 (abilitatea 2 are dodge),  abilitate 1->cooldown: 0  abilitate 2->cooldown: 5
+Vulpix HP 15  abilitate 1->cooldown: 3  abilitate 2->cooldown: 1
+
+13. Snorlax abilitate 1 / Vulpix atac normal
+Snorlax HP 20 abilitate 1->cooldown: 5  abilitate 2->cooldown: 4
+Vulpix HP 11 si este stuned  abilitate 1->cooldown: 2  abilitate 2->cooldown: 0
+
+14. Snorlax atac normal / Vulpix nimic
+Snorlax HP 20  abilitate 1->cooldown: 4  abilitate 2->cooldown: 3
+Vulpix HP 11  abilitate 1->cooldown: 1 
+
+15. Snorlax atac normal / Vulpix abilitate 2
+Snorlax HP 18  abilitate 1->cooldown: 3  abilitate 2->cooldown: 2
+Vulpix HP 11 (abilitatea 2 are dodge),  abilitate 1->cooldown: 0  abilitate 2->cooldown: 7
+
+16. Snorlax atac normal / Vulpix atac normal
+Snorlax HP 13 abilitate 1->cooldown: 2  abilitate 2->cooldown: 1
+Vulpix HP 8  abilitate 2->cooldown: 6
+
+17. Snorlax atac normal / Vulpix abilitate 1
+Snorlax HP 5 si este stuned  abilitate 1->cooldown: 1  abilitate 2->cooldown: 0
+Vulpix HP 5 abilitate 1->cooldown: 6  abilitate 2->cooldown: 5
+
+18. Snorlax nimic / Vulpix atac normal
+Snorlax HP 5 abilitate 1->cooldown: 0 
+Vulpix HP 5  abilitate 1->cooldown: 5  abilitate 2->cooldown: 4
+
+19. Snorlax abilitate 2 / Vulpix atac normal
+Snorlax HP 5 (abilitatea 2 are dodge),   abilitate 2->cooldown: 5
+Vulpix HP 5  abilitate 1->cooldown: 4  abilitate 2->cooldown: 3
+
+20. Snorlax abilitate 1 / Vulpix atac normal
+Snorlax HP 0 abilitate 1->cooldown: 5  abilitate 2->cooldown: 4
+Vulpix HP 1 si este stuned  abilitate 1->cooldown: 3  abilitate 2->cooldown: 2
+
+Vulpix a castigat!
+name:Vulpix hp:37 attack:6 special_attack:null defense:3 special_defense:8 abilities:[ Dmg:8 Stun:true Dodge:false Cd:6,  Dmg:2 Stun:false Dodge:true Cd:7] items:[Pelerina]
+
+DUELUL 1 s-a terminat!
+
+DUEL 2
+Se dueleaza pokemonii:
+name:Squirtle hp:70 attack:null special_attack:3 defense:5 special_defense:5 abilities:[ Dmg:4 Stun:false Dodge:false Cd:3,  Dmg:2 Stun:true Dodge:false Cd:2] items:[Vesta, Sabiuta]
+name:Pikachu hp:37 attack:null special_attack:6 defense:2 special_defense:3 abilities:[ Dmg:6 Stun:false Dodge:false Cd:4,  Dmg:4 Stun:true Dodge:true Cd:5] items:[Vitamine, Brad de Craciun]
+
+Squirtle vs Neutrel2
+
+1. Squirtle abilitate 2 / Neutrel2 atac normal
+Squirtle HP 71 abilitate 2 cooldown 2
+Neutrel2 HP 19 si este stuned
+
+2. Squirtle atac special / Neutrel2 nimic
+Squirtle HP 71  abilitate 2 cooldown 1
+Neutrel2 HP 16
+
+3. Squirtle atac special / Neutrel2 atac normal
+Squirtle HP 67  abilitate 2 cooldown 0
+Neutrel2 HP 13
+
+4. Squirtle abilitate 2 / Neutrel2 atac normal
+Squirtle HP 63 abilitate 2 cooldown 2
+Neutrel2 HP 11 si este stuned
+
+5. Squirtle abilitate 1 / Neutrel2 nimic
+Squirtle HP 63 abilitate 1 cooldown 3 abilitate 2 cooldown 1
+Neutrel2 HP 7
+
+6. Squirtle atac special / Neutrel2 atac normal
+Squirtle HP 59 abilitate 1 cooldown 2  abilitate 2 cooldown 0
+Neutrel2 HP 4
+
+7. Squirtle abilitate 2 / Neutrel2 atac normal
+Squirtle HP 55 abilitate 1 cooldown 1 abilitate 2 cooldown 2
+Neutrel2 HP 2 si este stuned
+
+8. Squirtle atac special / Neutrel2 nimic
+Squirtle HP 55 abilitate 1 cooldown 0  abilitate 2 cooldown 1
+Neutrel2 HP -1
+Squirtle a castigat!
+name:Squirtle hp:71 attack:null special_attack:4 defense:6 special_defense:6 abilities:[ Dmg:4 Stun:false Dodge:false Cd:3,  Dmg:2 Stun:true Dodge:false Cd:2] items:[Vesta, Sabiuta]
+
+Pikachu vs Neutrel2
+
+1. Pikachu abilitate 2 / Neutrel2 atac normal
+Pikachu HP 39 (abilitatea 2 are dodge),  abilitate 2 cooldown 5
+Neutrel2 HP 17 si este stuned
+
+2. Pikachu abilitate 1 / Neutrel2 nimic
+Pikachu HP 39 abilitate 1 cooldown 4 abilitate 2 cooldown 4
+Neutrel2 HP 11
+
+3. Pikachu atac special / Neutrel2 atac normal
+Pikachu HP 35 abilitate 1 cooldown 3  abilitate 2 cooldown 3
+Neutrel2 HP 5
+
+4. Pikachu atac special / Neutrel2 atac normal
+Pikachu HP 31 abilitate 1 cooldown 2  abilitate 2 cooldown 2
+Neutrel2 HP -1
+Pikachu a castigat!
+name:Pikachu hp:38 attack:null special_attack:7 defense:3 special_defense:4 abilities:[ Dmg:6 Stun:false Dodge:false Cd:4,  Dmg:4 Stun:true Dodge:true Cd:5] items:[Vitamine, Brad de Craciun]
+
+Squirtle vs Neutrel1
+
+1. Squirtle abilitate 1 / Neutrel1 atac normal
+Squirtle HP 74 abilitate 1 cooldown 3
+Neutrel1 HP 7
+
+2. Squirtle atac special / Neutrel1 atac normal
+Squirtle HP 71 abilitate 1 cooldown 2 
+Neutrel1 HP 3
+
+3. Squirtle abilitate 2 / Neutrel1 atac normal
+Squirtle HP 68 abilitate 1 cooldown 1 abilitate 2 cooldown 2
+Neutrel1 HP 1 si este stuned
+
+4. Squirtle atac special / Neutrel1 nimic
+Squirtle HP 68 abilitate 1 cooldown 0  abilitate 2 cooldown 1
+Neutrel1 HP -3
+Squirtle a castigat!
+name:Squirtle hp:72 attack:null special_attack:5 defense:7 special_defense:7 abilities:[ Dmg:4 Stun:false Dodge:false Cd:3,  Dmg:2 Stun:true Dodge:false Cd:2] items:[Vesta, Sabiuta]
+
+Pikachu vs Neutrel1
+
+1. Pikachu abilitate 1 / Neutrel1 atac normal
+Pikachu HP 38 abilitate 1 cooldown 4
+Neutrel1 HP 5
+
+2. Pikachu atac special / Neutrel1 atac normal
+Pikachu HP 35 abilitate 1 cooldown 3 
+Neutrel1 HP -2
+Pikachu a castigat!
+name:Pikachu hp:39 attack:null special_attack:8 defense:4 special_defense:5 abilities:[ Dmg:6 Stun:false Dodge:false Cd:4,  Dmg:4 Stun:true Dodge:true Cd:5] items:[Vitamine, Brad de Craciun]
+
+Squirtle vs Neutrel1
+
+1. Squirtle abilitate 1 / Neutrel1 atac normal
+Squirtle HP 76 abilitate 1 cooldown 3
+Neutrel1 HP 7
+
+2. Squirtle abilitate 2 / Neutrel1 atac normal
+Squirtle HP 73 abilitate 1 cooldown 2 abilitate 2 cooldown 2
+Neutrel1 HP 5 si este stuned
+
+3. Squirtle atac special / Neutrel1 nimic
+Squirtle HP 73 abilitate 1 cooldown 1  abilitate 2 cooldown 1
+Neutrel1 HP 0
+Squirtle a castigat!
+name:Squirtle hp:73 attack:null special_attack:6 defense:8 special_defense:8 abilities:[ Dmg:4 Stun:false Dodge:false Cd:3,  Dmg:2 Stun:true Dodge:false Cd:2] items:[Vesta, Sabiuta]
+
+Pikachu vs Neutrel1
+
+1. Pikachu abilitate 2 / Neutrel1 atac normal
+Pikachu HP 43 (abilitatea 2 are dodge),  abilitate 2 cooldown 5
+Neutrel1 HP 7 si este stuned
+
+2. Pikachu abilitate 1 / Neutrel1 nimic
+Pikachu HP 43 abilitate 1 cooldown 4 abilitate 2 cooldown 4
+Neutrel1 HP 1
+
+3. Pikachu atac special / Neutrel1 atac normal
+Pikachu HP 40 abilitate 1 cooldown 3  abilitate 2 cooldown 3
+Neutrel1 HP -7
+Pikachu a castigat!
+name:Pikachu hp:40 attack:null special_attack:9 defense:5 special_defense:6 abilities:[ Dmg:6 Stun:false Dodge:false Cd:4,  Dmg:4 Stun:true Dodge:true Cd:5] items:[Vitamine, Brad de Craciun]
+
+Squirtle vs Neutrel2
+
+1. Squirtle abilitate 1 / Neutrel2 atac normal
+Squirtle HP 77 abilitate 1 cooldown 3
+Neutrel2 HP 17
+
+2. Squirtle abilitate 2 / Neutrel2 atac normal
+Squirtle HP 73 abilitate 1 cooldown 2 abilitate 2 cooldown 2
+Neutrel2 HP 15 si este stuned
+
+3. Squirtle atac special / Neutrel2 nimic
+Squirtle HP 73 abilitate 1 cooldown 1  abilitate 2 cooldown 1
+Neutrel2 HP 9
+
+4. Squirtle atac special / Neutrel2 atac normal
+Squirtle HP 69 abilitate 1 cooldown 0  abilitate 2 cooldown 0
+Neutrel2 HP 3
+
+5. Squirtle abilitate 1 / Neutrel2 atac normal
+Squirtle HP 65 abilitate 1 cooldown 3
+Neutrel2 HP -1
+Squirtle a castigat!
+name:Squirtle hp:74 attack:null special_attack:7 defense:9 special_defense:9 abilities:[ Dmg:4 Stun:false Dodge:false Cd:3,  Dmg:2 Stun:true Dodge:false Cd:2] items:[Vesta, Sabiuta]
+
+Pikachu vs Neutrel2
+
+1. Pikachu abilitate 2 / Neutrel2 atac normal
+Pikachu HP 45 (abilitatea 2 are dodge),  abilitate 2 cooldown 5
+Neutrel2 HP 17 si este stuned
+
+2. Pikachu abilitate 1 / Neutrel2 nimic
+Pikachu HP 45 abilitate 1 cooldown 4 abilitate 2 cooldown 4
+Neutrel2 HP 11
+
+3. Pikachu atac special / Neutrel2 atac normal
+Pikachu HP 41 abilitate 1 cooldown 3  abilitate 2 cooldown 3
+Neutrel2 HP 2
+
+4. Pikachu atac special / Neutrel2 atac normal
+Pikachu HP 37 abilitate 1 cooldown 2  abilitate 2 cooldown 2
+Neutrel2 HP -7
+Pikachu a castigat!
+name:Pikachu hp:41 attack:null special_attack:10 defense:6 special_defense:7 abilities:[ Dmg:6 Stun:false Dodge:false Cd:4,  Dmg:4 Stun:true Dodge:true Cd:5] items:[Vitamine, Brad de Craciun]
+
+Squirtle vs Pikachu
+
+1. Squirtle abilitate 2 / Pikachu abilitate 1
+Squirtle HP 77    abilitate 2->cooldown: 2
+Pikachu HP 46 si este stuned   abilitate 1->cooldown: 4 
+
+2. Squirtle atac special / Pikachu nimic
+Squirtle HP 77  abilitate 2->cooldown: 1
+Pikachu HP 39 abilitate 1->cooldown: 3 
+
+3. Squirtle atac special / Pikachu atac special
+Squirtle HP 67  abilitate 2->cooldown: 0
+Pikachu HP 32 abilitate 1->cooldown: 2 
+
+4. Squirtle abilitate 2 / Pikachu abilitate 2
+Squirtle HP 63 si este stuned    abilitate 2->cooldown: 2
+Pikachu HP 32  (abilitatea 2 are dodge),  abilitate 1->cooldown: 1  abilitate 2->cooldown: 5
+
+5. Squirtle nimic / Pikachu atac special
+Squirtle HP 53  abilitate 2->cooldown: 1
+Pikachu HP 32 abilitate 1->cooldown: 0  abilitate 2->cooldown: 4
+
+6. Squirtle abilitate 1 / Pikachu atac special
+Squirtle HP 43 abilitate 1->cooldown: 3  abilitate 2->cooldown: 0
+Pikachu HP 28   abilitate 2->cooldown: 3
+
+7. Squirtle abilitate 2 / Pikachu atac special
+Squirtle HP 33 abilitate 1->cooldown: 2  abilitate 2->cooldown: 2
+Pikachu HP 26 si este stuned   abilitate 2->cooldown: 2
+
+8. Squirtle atac special / Pikachu nimic
+Squirtle HP 33  abilitate 1->cooldown: 1  abilitate 2->cooldown: 1
+Pikachu HP 19  abilitate 2->cooldown: 1
+
+9. Squirtle atac special / Pikachu atac special
+Squirtle HP 23 abilitate 1->cooldown: 0  abilitate 2->cooldown: 0
+Pikachu HP 12  abilitate 2->cooldown: 0
+
+10. Squirtle abilitate 1 / Pikachu abilitate 1
+Squirtle HP 17   abilitate 1->cooldown: 3 
+Pikachu HP 8   abilitate 1->cooldown: 4 
+
+11. Squirtle abilitate 2 / Pikachu atac special
+Squirtle HP 7 abilitate 1->cooldown: 2  abilitate 2->cooldown: 2
+Pikachu HP 6 si este stuned  abilitate 1->cooldown: 3 
+
+12. Squirtle atac special / Pikachu nimic
+Squirtle HP 7 abilitate 1->cooldown: 1  abilitate 2->cooldown: 1
+Pikachu HP -1 abilitate 1->cooldown: 2 
+
+Squirtle a castigat!
+name:Squirtle hp:75 attack:null special_attack:8 defense:10 special_defense:10 abilities:[ Dmg:4 Stun:false Dodge:false Cd:3,  Dmg:2 Stun:true Dodge:false Cd:2] items:[Vesta, Sabiuta]
+
+DUELUL 2 s-a terminat!
+
+DUEL 3
+Se dueleaza pokemonii:
+name:Vulpix hp:36 attack:5 special_attack:null defense:2 special_defense:4 abilities:[ Dmg:8 Stun:true Dodge:false Cd:6,  Dmg:2 Stun:false Dodge:true Cd:7] items:[]
+name:Bulbasaur hp:54 attack:null special_attack:7 defense:5 special_defense:3 abilities:[ Dmg:6 Stun:false Dodge:false Cd:4,  Dmg:5 Stun:false Dodge:false Cd:3] items:[Scut, Vesta, Vitamine]
+
+Vulpix vs Bulbasaur
+
+1. Vulpix atac normal / Bulbasaur abilitate 2
+Vulpix HP 35  
+Bulbasaur HP 54   abilitate 2->cooldown: 3
+
+2. Vulpix abilitate 2 / Bulbasaur atac special
+Vulpix HP 35 (abilitatea 2 are dodge),   abilitate 2->cooldown: 7
+Bulbasaur HP 52   abilitate 2->cooldown: 2
+
+3. Vulpix abilitate 1 / Bulbasaur atac special
+Vulpix HP 28 abilitate 1->cooldown: 6  abilitate 2->cooldown: 6
+Bulbasaur HP 44 si este stuned   abilitate 2->cooldown: 1
+
+4. Vulpix atac normal / Bulbasaur nimic
+Vulpix HP 28  abilitate 1->cooldown: 5  abilitate 2->cooldown: 5
+Bulbasaur HP 39  abilitate 2->cooldown: 0
+
+5. Vulpix atac normal / Bulbasaur abilitate 1
+Vulpix HP 22  abilitate 1->cooldown: 4  abilitate 2->cooldown: 4
+Bulbasaur HP 34 abilitate 1->cooldown: 4 
+
+6. Vulpix atac normal / Bulbasaur atac special
+Vulpix HP 15 abilitate 1->cooldown: 3  abilitate 2->cooldown: 3
+Bulbasaur HP 29 abilitate 1->cooldown: 3 
+
+7. Vulpix atac normal / Bulbasaur abilitate 2
+Vulpix HP 10  abilitate 1->cooldown: 2  abilitate 2->cooldown: 2
+Bulbasaur HP 24  abilitate 1->cooldown: 2  abilitate 2->cooldown: 3
+
+8. Vulpix atac normal / Bulbasaur atac special
+Vulpix HP 3 abilitate 1->cooldown: 1  abilitate 2->cooldown: 1
+Bulbasaur HP 19 abilitate 1->cooldown: 1  abilitate 2->cooldown: 2
+
+9. Vulpix atac normal / Bulbasaur atac special
+Vulpix HP -4 abilitate 1->cooldown: 0  abilitate 2->cooldown: 0
+Bulbasaur HP 14 abilitate 1->cooldown: 0  abilitate 2->cooldown: 1
+
+Bulbasaur a castigat!
+name:Bulbasaur hp:55 attack:null special_attack:8 defense:6 special_defense:4 abilities:[ Dmg:6 Stun:false Dodge:false Cd:4,  Dmg:5 Stun:false Dodge:false Cd:3] items:[Scut, Vesta, Vitamine]
+
+DUELUL 3 s-a terminat!
+
+
+Batalia suprema se da intre: Squirtle si Bulbasaur
+Se dueleaza pokemonii:
+name:Squirtle hp:75 attack:null special_attack:8 defense:10 special_defense:10 abilities:[ Dmg:4 Stun:false Dodge:false Cd:3,  Dmg:2 Stun:true Dodge:false Cd:2] items:[Vesta, Sabiuta]
+name:Bulbasaur hp:55 attack:null special_attack:8 defense:6 special_defense:4 abilities:[ Dmg:6 Stun:false Dodge:false Cd:4,  Dmg:5 Stun:false Dodge:false Cd:3] items:[Scut, Vesta, Vitamine]
+
+Squirtle vs Bulbasaur
+
+1. Squirtle abilitate 2 / Bulbasaur abilitate 2
+Squirtle HP 80    abilitate 2->cooldown: 2
+Bulbasaur HP 57 si este stuned    abilitate 2->cooldown: 3
+
+2. Squirtle atac special / Bulbasaur nimic
+Squirtle HP 80   abilitate 2->cooldown: 1
+Bulbasaur HP 49  abilitate 2->cooldown: 2
+
+3. Squirtle atac special / Bulbasaur atac special
+Squirtle HP 72  abilitate 2->cooldown: 0
+Bulbasaur HP 41  abilitate 2->cooldown: 1
+
+4. Squirtle atac special / Bulbasaur atac special
+Squirtle HP 64 
+Bulbasaur HP 33  abilitate 2->cooldown: 0
+
+5. Squirtle atac special / Bulbasaur atac special
+Squirtle HP 56 
+Bulbasaur HP 25 
+
+6. Squirtle atac special / Bulbasaur atac special
+Squirtle HP 48 
+Bulbasaur HP 17 
+
+7. Squirtle abilitate 2 / Bulbasaur abilitate 1
+Squirtle HP 42    abilitate 2->cooldown: 2
+Bulbasaur HP 15 si este stuned   abilitate 1->cooldown: 4 
+
+8. Squirtle atac special / Bulbasaur nimic
+Squirtle HP 42  abilitate 2->cooldown: 1
+Bulbasaur HP 7 abilitate 1->cooldown: 3 
+
+9. Squirtle atac special / Bulbasaur abilitate 2
+Squirtle HP 37   abilitate 2->cooldown: 0
+Bulbasaur HP -1  abilitate 1->cooldown: 2  abilitate 2->cooldown: 3
+
+Squirtle a castigat!
+name:Squirtle hp:76 attack:null special_attack:9 defense:11 special_defense:11 abilities:[ Dmg:4 Stun:false Dodge:false Cd:3,  Dmg:2 Stun:true Dodge:false Cd:2] items:[Vesta, Sabiuta]
+

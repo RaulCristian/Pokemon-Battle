@@ -1,0 +1,312 @@
+Au intrat in arena antrenorii: Tony 45 si Peter 16
+DUEL 1
+Se dueleaza pokemonii:
+name:Pikachu hp:45 attack:null special_attack:4 defense:2 special_defense:6 abilities:[ Dmg:6 Stun:false Dodge:false Cd:4,  Dmg:4 Stun:true Dodge:true Cd:5] items:[Pelerina, Sabiuta, Vesta]
+name:Jigglypuff hp:34 attack:4 special_attack:null defense:2 special_defense:6 abilities:[ Dmg:4 Stun:true Dodge:false Cd:4,  Dmg:3 Stun:true Dodge:false Cd:4] items:[Pelerina]
+
+Pikachu vs Jigglypuff
+
+1. Pikachu atac special / Jigglypuff atac normal
+Pikachu HP 43 
+Jigglypuff HP 36 
+
+2. Pikachu abilitate 1 / Jigglypuff abilitate 2
+Pikachu HP 40 si este stuned   abilitate 1->cooldown: 4 
+Jigglypuff HP 30    abilitate 2->cooldown: 4
+
+3. Pikachu nimic / Jigglypuff abilitate 1
+Pikachu HP 36 si este stuned  abilitate 1->cooldown: 3 
+Jigglypuff HP 30 abilitate 1->cooldown: 4  abilitate 2->cooldown: 3
+
+4. Pikachu nimic / Jigglypuff atac normal
+Pikachu HP 36 abilitate 1->cooldown: 2 
+Jigglypuff HP 30  abilitate 1->cooldown: 3  abilitate 2->cooldown: 2
+
+5. Pikachu abilitate 2 / Jigglypuff atac normal
+Pikachu HP 36 (abilitatea 2 are dodge),  abilitate 1->cooldown: 1  abilitate 2->cooldown: 5
+Jigglypuff HP 26 si este stuned  abilitate 1->cooldown: 2  abilitate 2->cooldown: 1
+
+6. Pikachu atac special / Jigglypuff nimic
+Pikachu HP 36 abilitate 1->cooldown: 0  abilitate 2->cooldown: 4
+Jigglypuff HP 22 abilitate 1->cooldown: 1  abilitate 2->cooldown: 0
+
+7. Pikachu abilitate 1 / Jigglypuff atac normal
+Pikachu HP 32 abilitate 1->cooldown: 4  abilitate 2->cooldown: 3
+Jigglypuff HP 16  abilitate 1->cooldown: 0 
+
+8. Pikachu atac special / Jigglypuff atac normal
+Pikachu HP 28 abilitate 1->cooldown: 3  abilitate 2->cooldown: 2
+Jigglypuff HP 12 
+
+9. Pikachu atac special / Jigglypuff atac normal
+Pikachu HP 24 abilitate 1->cooldown: 2  abilitate 2->cooldown: 1
+Jigglypuff HP 8 
+
+10. Pikachu atac special / Jigglypuff abilitate 1
+Pikachu HP 20 si este stuned  abilitate 1->cooldown: 1  abilitate 2->cooldown: 0
+Jigglypuff HP 4 abilitate 1->cooldown: 4 
+
+11. Pikachu nimic / Jigglypuff abilitate 2
+Pikachu HP 17 si este stuned  abilitate 1->cooldown: 0 
+Jigglypuff HP 4  abilitate 1->cooldown: 3  abilitate 2->cooldown: 4
+
+12. Pikachu nimic / Jigglypuff atac normal
+Pikachu HP 13 
+Jigglypuff HP 4 abilitate 1->cooldown: 2  abilitate 2->cooldown: 3
+
+13. Pikachu atac special / Jigglypuff atac normal
+Pikachu HP 9 
+Jigglypuff HP 0 abilitate 1->cooldown: 1  abilitate 2->cooldown: 2
+
+Pikachu a castigat!
+name:Pikachu hp:46 attack:null special_attack:5 defense:3 special_defense:7 abilities:[ Dmg:6 Stun:false Dodge:false Cd:4,  Dmg:4 Stun:true Dodge:true Cd:5] items:[Pelerina, Sabiuta, Vesta]
+
+DUELUL 1 s-a terminat!
+
+DUEL 2
+Se dueleaza pokemonii:
+name:Bulbasaur hp:44 attack:null special_attack:7 defense:3 special_defense:1 abilities:[ Dmg:6 Stun:false Dodge:false Cd:4,  Dmg:5 Stun:false Dodge:false Cd:3] items:[Brad de Craciun, Vitamine]
+name:Meowth hp:43 attack:8 special_attack:null defense:5 special_defense:2 abilities:[ Dmg:5 Stun:false Dodge:true Cd:4,  Dmg:1 Stun:false Dodge:true Cd:3] items:[Vitamine, Brad de Craciun]
+
+Bulbasaur vs Meowth
+
+1. Bulbasaur abilitate 1 / Meowth atac normal
+Bulbasaur HP 39 abilitate 1->cooldown: 4 
+Meowth HP 39  
+
+2. Bulbasaur abilitate 2 / Meowth atac normal
+Bulbasaur HP 31 abilitate 1->cooldown: 3  abilitate 2->cooldown: 3
+Meowth HP 34  
+
+3. Bulbasaur atac special / Meowth atac normal
+Bulbasaur HP 23 abilitate 1->cooldown: 2  abilitate 2->cooldown: 2
+Meowth HP 27 
+
+4. Bulbasaur atac special / Meowth abilitate 1
+Bulbasaur HP 18  abilitate 1->cooldown: 1  abilitate 2->cooldown: 1
+Meowth HP 27 (abilitatea 1 are dodge),  abilitate 1->cooldown: 4 
+
+5. Bulbasaur atac special / Meowth atac normal
+Bulbasaur HP 10 abilitate 1->cooldown: 0  abilitate 2->cooldown: 0
+Meowth HP 20 abilitate 1->cooldown: 3 
+
+6. Bulbasaur abilitate 2 / Meowth abilitate 2
+Bulbasaur HP 9    abilitate 2->cooldown: 3
+Meowth HP 20  (abilitatea 2 are dodge),  abilitate 1->cooldown: 2  abilitate 2->cooldown: 3
+
+7. Bulbasaur atac special / Meowth atac normal
+Bulbasaur HP 1  abilitate 2->cooldown: 2
+Meowth HP 13 abilitate 1->cooldown: 1  abilitate 2->cooldown: 2
+
+8. Bulbasaur atac special / Meowth atac normal
+Bulbasaur HP -7  abilitate 2->cooldown: 1
+Meowth HP 6 abilitate 1->cooldown: 0  abilitate 2->cooldown: 1
+
+Meowth a castigat!
+name:Meowth hp:44 attack:9 special_attack:null defense:6 special_defense:3 abilities:[ Dmg:5 Stun:false Dodge:true Cd:4,  Dmg:1 Stun:false Dodge:true Cd:3] items:[Vitamine, Brad de Craciun]
+
+DUELUL 2 s-a terminat!
+
+DUEL 3
+Se dueleaza pokemonii:
+name:Charmander hp:50 attack:4 special_attack:null defense:3 special_defense:2 abilities:[ Dmg:4 Stun:true Dodge:false Cd:4,  Dmg:7 Stun:false Dodge:false Cd:6] items:[Bagheta Magica]
+name:Eevee hp:51 attack:null special_attack:6 defense:5 special_defense:5 abilities:[ Dmg:5 Stun:false Dodge:false Cd:3,  Dmg:3 Stun:true Dodge:false Cd:3] items:[Scut, Vesta, Vitamine]
+
+Charmander vs Eevee
+
+1. Charmander abilitate 2 / Eevee atac special
+Charmander HP 46  abilitate 2->cooldown: 6
+Eevee HP 49  
+
+2. Charmander abilitate 1 / Eevee abilitate 2
+Charmander HP 43 si este stuned   abilitate 1->cooldown: 4  abilitate 2->cooldown: 5
+Eevee HP 45 si este stuned    abilitate 2->cooldown: 3
+
+3. Charmander nimic / Eevee nimic
+Charmander HP 43 abilitate 1->cooldown: 3  abilitate 2->cooldown: 4
+Eevee HP 45  abilitate 2->cooldown: 2
+
+4. Charmander atac normal / Eevee atac special
+Charmander HP 37 abilitate 1->cooldown: 2  abilitate 2->cooldown: 3
+Eevee HP 41  abilitate 2->cooldown: 1
+
+5. Charmander atac normal / Eevee atac special
+Charmander HP 31 abilitate 1->cooldown: 1  abilitate 2->cooldown: 2
+Eevee HP 37  abilitate 2->cooldown: 0
+
+6. Charmander atac normal / Eevee abilitate 2
+Charmander HP 28 si este stuned  abilitate 1->cooldown: 0  abilitate 2->cooldown: 1
+Eevee HP 33   abilitate 2->cooldown: 3
+
+7. Charmander nimic / Eevee atac special
+Charmander HP 22  abilitate 2->cooldown: 0
+Eevee HP 33   abilitate 2->cooldown: 2
+
+8. Charmander abilitate 2 / Eevee abilitate 1
+Charmander HP 17    abilitate 2->cooldown: 6
+Eevee HP 26   abilitate 1->cooldown: 3  abilitate 2->cooldown: 1
+
+9. Charmander atac normal / Eevee atac special
+Charmander HP 11  abilitate 2->cooldown: 5
+Eevee HP 22 abilitate 1->cooldown: 2  abilitate 2->cooldown: 0
+
+10. Charmander atac normal / Eevee abilitate 2
+Charmander HP 8 si este stuned   abilitate 2->cooldown: 4
+Eevee HP 18  abilitate 1->cooldown: 1  abilitate 2->cooldown: 3
+
+11. Charmander nimic / Eevee atac special
+Charmander HP 2  abilitate 2->cooldown: 3
+Eevee HP 18  abilitate 1->cooldown: 0  abilitate 2->cooldown: 2
+
+12. Charmander abilitate 1 / Eevee abilitate 1
+Charmander HP -3   abilitate 1->cooldown: 4  abilitate 2->cooldown: 2
+Eevee HP 14 si este stuned   abilitate 1->cooldown: 3  abilitate 2->cooldown: 1
+
+Eevee a castigat!
+name:Eevee hp:52 attack:null special_attack:7 defense:6 special_defense:6 abilities:[ Dmg:5 Stun:false Dodge:false Cd:3,  Dmg:3 Stun:true Dodge:false Cd:3] items:[Scut, Vesta, Vitamine]
+
+DUELUL 3 s-a terminat!
+
+
+Batalia suprema se da intre: Pikachu si Eevee
+Se dueleaza pokemonii:
+name:Pikachu hp:46 attack:null special_attack:5 defense:3 special_defense:7 abilities:[ Dmg:6 Stun:false Dodge:false Cd:4,  Dmg:4 Stun:true Dodge:true Cd:5] items:[Pelerina, Sabiuta, Vesta]
+name:Eevee hp:52 attack:null special_attack:7 defense:6 special_defense:6 abilities:[ Dmg:5 Stun:false Dodge:false Cd:3,  Dmg:3 Stun:true Dodge:false Cd:3] items:[Scut, Vesta, Vitamine]
+
+Pikachu vs Neutrel2
+
+1. Pikachu abilitate 2 / Neutrel2 atac normal
+Pikachu HP 49 (abilitatea 2 are dodge),  abilitate 2 cooldown 5
+Neutrel2 HP 17 si este stuned
+
+2. Pikachu abilitate 1 / Neutrel2 nimic
+Pikachu HP 49 abilitate 1 cooldown 4 abilitate 2 cooldown 4
+Neutrel2 HP 11
+
+3. Pikachu atac special / Neutrel2 atac normal
+Pikachu HP 45 abilitate 1 cooldown 3  abilitate 2 cooldown 3
+Neutrel2 HP 6
+
+4. Pikachu atac special / Neutrel2 atac normal
+Pikachu HP 41 abilitate 1 cooldown 2  abilitate 2 cooldown 2
+Neutrel2 HP 1
+
+5. Pikachu atac special / Neutrel2 atac normal
+Pikachu HP 37 abilitate 1 cooldown 1  abilitate 2 cooldown 1
+Neutrel2 HP -4
+Pikachu a castigat!
+name:Pikachu hp:47 attack:null special_attack:6 defense:4 special_defense:8 abilities:[ Dmg:6 Stun:false Dodge:false Cd:4,  Dmg:4 Stun:true Dodge:true Cd:5] items:[Pelerina, Sabiuta, Vesta]
+
+Eevee vs Neutrel2
+
+1. Eevee abilitate 1 / Neutrel2 atac normal
+Eevee HP 54 abilitate 1 cooldown 3
+Neutrel2 HP 16
+
+2. Eevee atac special / Neutrel2 atac normal
+Eevee HP 50 abilitate 1 cooldown 2 
+Neutrel2 HP 9
+
+3. Eevee atac special / Neutrel2 atac normal
+Eevee HP 46 abilitate 1 cooldown 1 
+Neutrel2 HP 2
+
+4. Eevee atac special / Neutrel2 atac normal
+Eevee HP 42 abilitate 1 cooldown 0 
+Neutrel2 HP -5
+Eevee a castigat!
+name:Eevee hp:53 attack:null special_attack:8 defense:7 special_defense:7 abilities:[ Dmg:5 Stun:false Dodge:false Cd:3,  Dmg:3 Stun:true Dodge:false Cd:3] items:[Scut, Vesta, Vitamine]
+
+Pikachu vs Neutrel2
+
+1. Pikachu atac special / Neutrel2 atac normal
+Pikachu HP 47 
+Neutrel2 HP 15
+
+2. Pikachu atac special / Neutrel2 atac normal
+Pikachu HP 43 
+Neutrel2 HP 9
+
+3. Pikachu atac special / Neutrel2 atac normal
+Pikachu HP 39 
+Neutrel2 HP 3
+
+4. Pikachu abilitate 2 / Neutrel2 atac normal
+Pikachu HP 39 (abilitatea 2 are dodge),  abilitate 2 cooldown 5
+Neutrel2 HP -1 si este stuned
+Pikachu a castigat!
+name:Pikachu hp:48 attack:null special_attack:7 defense:5 special_defense:9 abilities:[ Dmg:6 Stun:false Dodge:false Cd:4,  Dmg:4 Stun:true Dodge:true Cd:5] items:[Pelerina, Sabiuta, Vesta]
+
+Eevee vs Neutrel2
+
+1. Eevee abilitate 2 / Neutrel2 atac normal
+Eevee HP 56 abilitate 2 cooldown 3
+Neutrel2 HP 18 si este stuned
+
+2. Eevee atac special / Neutrel2 nimic
+Eevee HP 56  abilitate 2 cooldown 2
+Neutrel2 HP 10
+
+3. Eevee atac special / Neutrel2 atac normal
+Eevee HP 52  abilitate 2 cooldown 1
+Neutrel2 HP 2
+
+4. Eevee atac special / Neutrel2 atac normal
+Eevee HP 48  abilitate 2 cooldown 0
+Neutrel2 HP -6
+Eevee a castigat!
+name:Eevee hp:54 attack:null special_attack:9 defense:8 special_defense:8 abilities:[ Dmg:5 Stun:false Dodge:false Cd:3,  Dmg:3 Stun:true Dodge:false Cd:3] items:[Scut, Vesta, Vitamine]
+
+Pikachu vs Eevee
+
+1. Pikachu atac special / Eevee atac special
+Pikachu HP 48 
+Eevee HP 55 
+
+2. Pikachu abilitate 2 / Eevee abilitate 1
+Pikachu HP 48  (abilitatea 2 are dodge),   abilitate 2->cooldown: 5
+Eevee HP 51 si este stuned   abilitate 1->cooldown: 3 
+
+3. Pikachu atac special / Eevee nimic
+Pikachu HP 48   abilitate 2->cooldown: 4
+Eevee HP 44  abilitate 1->cooldown: 2 
+
+4. Pikachu abilitate 1 / Eevee atac special
+Pikachu HP 39 abilitate 1->cooldown: 4  abilitate 2->cooldown: 3
+Eevee HP 38  abilitate 1->cooldown: 1 
+
+5. Pikachu atac special / Eevee abilitate 2
+Pikachu HP 36 si este stuned  abilitate 1->cooldown: 3  abilitate 2->cooldown: 2
+Eevee HP 31  abilitate 1->cooldown: 0  abilitate 2->cooldown: 3
+
+6. Pikachu nimic / Eevee abilitate 1
+Pikachu HP 31  abilitate 1->cooldown: 2  abilitate 2->cooldown: 1
+Eevee HP 31 abilitate 1->cooldown: 3  abilitate 2->cooldown: 2
+
+7. Pikachu atac special / Eevee atac special
+Pikachu HP 22 abilitate 1->cooldown: 1  abilitate 2->cooldown: 0
+Eevee HP 24 abilitate 1->cooldown: 2  abilitate 2->cooldown: 1
+
+8. Pikachu abilitate 2 / Eevee atac special
+Pikachu HP 22 (abilitatea 2 are dodge),  abilitate 1->cooldown: 0  abilitate 2->cooldown: 5
+Eevee HP 20 si este stuned  abilitate 1->cooldown: 1  abilitate 2->cooldown: 0
+
+9. Pikachu abilitate 1 / Eevee nimic
+Pikachu HP 22 abilitate 1->cooldown: 4  abilitate 2->cooldown: 4
+Eevee HP 14  abilitate 1->cooldown: 0 
+
+10. Pikachu atac special / Eevee abilitate 2
+Pikachu HP 19 si este stuned  abilitate 1->cooldown: 3  abilitate 2->cooldown: 3
+Eevee HP 7   abilitate 2->cooldown: 3
+
+11. Pikachu nimic / Eevee atac special
+Pikachu HP 10 abilitate 1->cooldown: 2  abilitate 2->cooldown: 2
+Eevee HP 7  abilitate 2->cooldown: 2
+
+12. Pikachu atac special / Eevee atac special
+Pikachu HP 1 abilitate 1->cooldown: 1  abilitate 2->cooldown: 1
+Eevee HP 0  abilitate 2->cooldown: 1
+
+Pikachu a castigat!
+name:Pikachu hp:49 attack:null special_attack:8 defense:6 special_defense:10 abilities:[ Dmg:6 Stun:false Dodge:false Cd:4,  Dmg:4 Stun:true Dodge:true Cd:5] items:[Pelerina, Sabiuta, Vesta]
+

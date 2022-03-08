@@ -1,0 +1,612 @@
+Au intrat in arena antrenorii: Cristina 25 si Irina 45
+DUEL 1
+Se dueleaza pokemonii:
+name:Jigglypuff hp:34 attack:7 special_attack:null defense:2 special_defense:6 abilities:[ Dmg:4 Stun:true Dodge:false Cd:4,  Dmg:3 Stun:true Dodge:false Cd:4] items:[Pelerina, Sabiuta]
+name:Pikachu hp:45 attack:null special_attack:7 defense:4 special_defense:5 abilities:[ Dmg:6 Stun:false Dodge:false Cd:4,  Dmg:4 Stun:true Dodge:true Cd:5] items:[Bagheta Magica, Scut, Vesta]
+
+Jigglypuff vs Pikachu
+
+1. Jigglypuff abilitate 1 / Pikachu abilitate 1
+Jigglypuff HP 34   abilitate 1->cooldown: 4 
+Pikachu HP 45 si este stuned   abilitate 1->cooldown: 4 
+
+2. Jigglypuff abilitate 2 / Pikachu nimic
+Jigglypuff HP 34 abilitate 1->cooldown: 3  abilitate 2->cooldown: 4
+Pikachu HP 42 si este stuned  abilitate 1->cooldown: 3 
+
+3. Jigglypuff atac normal / Pikachu nimic
+Jigglypuff HP 34 abilitate 1->cooldown: 2  abilitate 2->cooldown: 3
+Pikachu HP 35 abilitate 1->cooldown: 2 
+
+4. Jigglypuff atac normal / Pikachu abilitate 2
+Jigglypuff HP 30 si este stuned  abilitate 1->cooldown: 1  abilitate 2->cooldown: 2
+Pikachu HP 35 (abilitatea 2 are dodge),  abilitate 1->cooldown: 1  abilitate 2->cooldown: 5
+
+5. Jigglypuff nimic / Pikachu atac special
+Jigglypuff HP 23 abilitate 1->cooldown: 0  abilitate 2->cooldown: 1
+Pikachu HP 35 abilitate 1->cooldown: 0  abilitate 2->cooldown: 4
+
+6. Jigglypuff atac normal / Pikachu abilitate 1
+Jigglypuff HP 17   abilitate 2->cooldown: 0
+Pikachu HP 28 abilitate 1->cooldown: 4  abilitate 2->cooldown: 3
+
+7. Jigglypuff abilitate 1 / Pikachu atac special
+Jigglypuff HP 10 abilitate 1->cooldown: 4 
+Pikachu HP 24 si este stuned  abilitate 1->cooldown: 3  abilitate 2->cooldown: 2
+
+8. Jigglypuff atac normal / Pikachu nimic
+Jigglypuff HP 10 abilitate 1->cooldown: 3 
+Pikachu HP 17 abilitate 1->cooldown: 2  abilitate 2->cooldown: 1
+
+9. Jigglypuff atac normal / Pikachu atac special
+Jigglypuff HP 3 abilitate 1->cooldown: 2 
+Pikachu HP 10 abilitate 1->cooldown: 1  abilitate 2->cooldown: 0
+
+10. Jigglypuff atac normal / Pikachu atac special
+Jigglypuff HP -4 abilitate 1->cooldown: 1 
+Pikachu HP 3 abilitate 1->cooldown: 0 
+
+Pikachu a castigat!
+name:Pikachu hp:46 attack:null special_attack:8 defense:5 special_defense:6 abilities:[ Dmg:6 Stun:false Dodge:false Cd:4,  Dmg:4 Stun:true Dodge:true Cd:5] items:[Bagheta Magica, Scut, Vesta]
+
+DUELUL 1 s-a terminat!
+
+DUEL 2
+Se dueleaza pokemonii:
+name:Meowth hp:41 attack:6 special_attack:null defense:5 special_defense:2 abilities:[ Dmg:5 Stun:false Dodge:true Cd:4,  Dmg:1 Stun:false Dodge:true Cd:3] items:[Brad de Craciun, Bagheta Magica]
+name:Vulpix hp:38 attack:10 special_attack:null defense:5 special_defense:6 abilities:[ Dmg:8 Stun:true Dodge:false Cd:6,  Dmg:2 Stun:false Dodge:true Cd:7] items:[Vitamine, Brad de Craciun, Scut]
+
+Meowth vs Neutrel2
+
+1. Meowth abilitate 1 / Neutrel2 atac normal
+Meowth HP 46 (abilitatea 1 are dodge),  abilitate 1 cooldown 4
+Neutrel2 HP 16
+
+2. Meowth atac normal / Neutrel2 atac normal
+Meowth HP 42 abilitate 1 cooldown 3 
+Neutrel2 HP 10
+
+3. Meowth atac normal / Neutrel2 atac normal
+Meowth HP 38 abilitate 1 cooldown 2 
+Neutrel2 HP 4
+
+4. Meowth abilitate 2 / Neutrel2 atac normal
+Meowth HP 38 (abilitatea 2 are dodge),  abilitate 1 cooldown 1 abilitate 2 cooldown 3
+Neutrel2 HP 3
+
+5. Meowth atac normal / Neutrel2 atac normal
+Meowth HP 34 abilitate 1 cooldown 0  abilitate 2 cooldown 2
+Neutrel2 HP -3
+Meowth a castigat!
+name:Meowth hp:42 attack:7 special_attack:null defense:6 special_defense:3 abilities:[ Dmg:5 Stun:false Dodge:true Cd:4,  Dmg:1 Stun:false Dodge:true Cd:3] items:[Brad de Craciun, Bagheta Magica]
+
+Vulpix vs Neutrel2
+
+1. Vulpix atac normal / Neutrel2 atac normal
+Vulpix HP 39 
+Neutrel2 HP 11
+
+2. Vulpix atac normal / Neutrel2 atac normal
+Vulpix HP 35 
+Neutrel2 HP 1
+
+3. Vulpix abilitate 1 / Neutrel2 atac normal
+Vulpix HP 31 abilitate 1 cooldown 6
+Neutrel2 HP -7 si este stuned
+Vulpix a castigat!
+name:Vulpix hp:39 attack:11 special_attack:null defense:6 special_defense:7 abilities:[ Dmg:8 Stun:true Dodge:false Cd:6,  Dmg:2 Stun:false Dodge:true Cd:7] items:[Vitamine, Brad de Craciun, Scut]
+
+Meowth vs Neutrel1
+
+1. Meowth abilitate 2 / Neutrel1 atac normal
+Meowth HP 48 (abilitatea 2 are dodge),  abilitate 2 cooldown 3
+Neutrel1 HP 10
+
+2. Meowth atac normal / Neutrel1 atac normal
+Meowth HP 45  abilitate 2 cooldown 2
+Neutrel1 HP 3
+
+3. Meowth atac normal / Neutrel1 atac normal
+Meowth HP 42  abilitate 2 cooldown 1
+Neutrel1 HP -4
+Meowth a castigat!
+name:Meowth hp:43 attack:8 special_attack:null defense:7 special_defense:4 abilities:[ Dmg:5 Stun:false Dodge:true Cd:4,  Dmg:1 Stun:false Dodge:true Cd:3] items:[Brad de Craciun, Bagheta Magica]
+
+Vulpix vs Neutrel1
+
+1. Vulpix abilitate 1 / Neutrel1 atac normal
+Vulpix HP 42 abilitate 1 cooldown 6
+Neutrel1 HP 3 si este stuned
+
+2. Vulpix abilitate 2 / Neutrel1 nimic
+Vulpix HP 42 (abilitatea 2 are dodge),  abilitate 1 cooldown 5 abilitate 2 cooldown 7
+Neutrel1 HP 1
+
+3. Vulpix atac normal / Neutrel1 atac normal
+Vulpix HP 39 abilitate 1 cooldown 4  abilitate 2 cooldown 6
+Neutrel1 HP -10
+Vulpix a castigat!
+name:Vulpix hp:40 attack:12 special_attack:null defense:7 special_defense:8 abilities:[ Dmg:8 Stun:true Dodge:false Cd:6,  Dmg:2 Stun:false Dodge:true Cd:7] items:[Vitamine, Brad de Craciun, Scut]
+
+Meowth vs Neutrel1
+
+1. Meowth atac normal / Neutrel1 atac normal
+Meowth HP 47 
+Neutrel1 HP 3
+
+2. Meowth abilitate 1 / Neutrel1 atac normal
+Meowth HP 47 (abilitatea 1 are dodge),  abilitate 1 cooldown 4
+Neutrel1 HP -2
+Meowth a castigat!
+name:Meowth hp:44 attack:9 special_attack:null defense:8 special_defense:5 abilities:[ Dmg:5 Stun:false Dodge:true Cd:4,  Dmg:1 Stun:false Dodge:true Cd:3] items:[Brad de Craciun, Bagheta Magica]
+
+Vulpix vs Neutrel1
+
+1. Vulpix abilitate 2 / Neutrel1 atac normal
+Vulpix HP 47 (abilitatea 2 are dodge),  abilitate 2 cooldown 7
+Neutrel1 HP 9
+
+2. Vulpix atac normal / Neutrel1 atac normal
+Vulpix HP 44  abilitate 2 cooldown 6
+Neutrel1 HP -3
+Vulpix a castigat!
+name:Vulpix hp:41 attack:13 special_attack:null defense:8 special_defense:9 abilities:[ Dmg:8 Stun:true Dodge:false Cd:6,  Dmg:2 Stun:false Dodge:true Cd:7] items:[Vitamine, Brad de Craciun, Scut]
+
+Meowth vs Neutrel2
+
+1. Meowth abilitate 1 / Neutrel2 atac normal
+Meowth HP 52 (abilitatea 1 are dodge),  abilitate 1 cooldown 4
+Neutrel2 HP 16
+
+2. Meowth atac normal / Neutrel2 atac normal
+Meowth HP 48 abilitate 1 cooldown 3 
+Neutrel2 HP 7
+
+3. Meowth atac normal / Neutrel2 atac normal
+Meowth HP 44 abilitate 1 cooldown 2 
+Neutrel2 HP -2
+Meowth a castigat!
+name:Meowth hp:45 attack:10 special_attack:null defense:9 special_defense:6 abilities:[ Dmg:5 Stun:false Dodge:true Cd:4,  Dmg:1 Stun:false Dodge:true Cd:3] items:[Brad de Craciun, Bagheta Magica]
+
+Vulpix vs Neutrel2
+
+1. Vulpix abilitate 2 / Neutrel2 atac normal
+Vulpix HP 49 (abilitatea 2 are dodge),  abilitate 2 cooldown 7
+Neutrel2 HP 19
+
+2. Vulpix atac normal / Neutrel2 atac normal
+Vulpix HP 45  abilitate 2 cooldown 6
+Neutrel2 HP 6
+
+3. Vulpix abilitate 1 / Neutrel2 atac normal
+Vulpix HP 41 abilitate 1 cooldown 6 abilitate 2 cooldown 5
+Neutrel2 HP -2 si este stuned
+Vulpix a castigat!
+name:Vulpix hp:42 attack:14 special_attack:null defense:9 special_defense:10 abilities:[ Dmg:8 Stun:true Dodge:false Cd:6,  Dmg:2 Stun:false Dodge:true Cd:7] items:[Vitamine, Brad de Craciun, Scut]
+
+Meowth vs Vulpix
+
+1. Meowth abilitate 1 / Vulpix abilitate 1
+Meowth HP 54  (abilitatea 1 are dodge),   abilitate 1->cooldown: 4 
+Vulpix HP 46   abilitate 1->cooldown: 6 
+
+2. Meowth atac normal / Vulpix abilitate 2
+Meowth HP 52  abilitate 1->cooldown: 3 
+Vulpix HP 46 (abilitatea 2 are dodge),  abilitate 1->cooldown: 5  abilitate 2->cooldown: 7
+
+3. Meowth atac normal / Vulpix atac normal
+Meowth HP 38 abilitate 1->cooldown: 2 
+Vulpix HP 36 abilitate 1->cooldown: 4  abilitate 2->cooldown: 6
+
+4. Meowth atac normal / Vulpix atac normal
+Meowth HP 24 abilitate 1->cooldown: 1 
+Vulpix HP 26 abilitate 1->cooldown: 3  abilitate 2->cooldown: 5
+
+5. Meowth atac normal / Vulpix atac normal
+Meowth HP 10 abilitate 1->cooldown: 0 
+Vulpix HP 16 abilitate 1->cooldown: 2  abilitate 2->cooldown: 4
+
+6. Meowth abilitate 1 / Vulpix atac normal
+Meowth HP 10 (abilitatea 1 are dodge),  abilitate 1->cooldown: 4 
+Vulpix HP 11  abilitate 1->cooldown: 1  abilitate 2->cooldown: 3
+
+7. Meowth atac normal / Vulpix atac normal
+Meowth HP -4 abilitate 1->cooldown: 3 
+Vulpix HP 1 abilitate 1->cooldown: 0  abilitate 2->cooldown: 2
+
+Vulpix a castigat!
+name:Vulpix hp:43 attack:15 special_attack:null defense:10 special_defense:11 abilities:[ Dmg:8 Stun:true Dodge:false Cd:6,  Dmg:2 Stun:false Dodge:true Cd:7] items:[Vitamine, Brad de Craciun, Scut]
+
+DUELUL 2 s-a terminat!
+
+DUEL 3
+Se dueleaza pokemonii:
+name:Charmander hp:50 attack:10 special_attack:null defense:4 special_defense:2 abilities:[ Dmg:4 Stun:true Dodge:false Cd:4,  Dmg:7 Stun:false Dodge:false Cd:6] items:[Brad de Craciun, Sabiuta]
+name:Snorlax hp:64 attack:8 special_attack:null defense:6 special_defense:7 abilities:[ Dmg:4 Stun:true Dodge:false Cd:5,  Dmg:0 Stun:false Dodge:true Cd:5] items:[Sabiuta, Vitamine, Pelerina]
+
+Charmander vs Neutrel2
+
+1. Charmander abilitate 2 / Neutrel2 atac normal
+Charmander HP 50 abilitate 2 cooldown 6
+Neutrel2 HP 14
+
+2. Charmander atac normal / Neutrel2 atac normal
+Charmander HP 46  abilitate 2 cooldown 5
+Neutrel2 HP 4
+
+3. Charmander atac normal / Neutrel2 atac normal
+Charmander HP 42  abilitate 2 cooldown 4
+Neutrel2 HP -6
+Charmander a castigat!
+name:Charmander hp:51 attack:11 special_attack:null defense:5 special_defense:3 abilities:[ Dmg:4 Stun:true Dodge:false Cd:4,  Dmg:7 Stun:false Dodge:false Cd:6] items:[Brad de Craciun, Sabiuta]
+
+Snorlax vs Neutrel2
+
+1. Snorlax abilitate 1 / Neutrel2 atac normal
+Snorlax HP 66 abilitate 1 cooldown 5
+Neutrel2 HP 17 si este stuned
+
+2. Snorlax abilitate 2 / Neutrel2 nimic
+Snorlax HP 66 (abilitatea 2 are dodge),  abilitate 1 cooldown 4 abilitate 2 cooldown 5
+Neutrel2 HP 17
+
+3. Snorlax atac normal / Neutrel2 atac normal
+Snorlax HP 62 abilitate 1 cooldown 3  abilitate 2 cooldown 4
+Neutrel2 HP 9
+
+4. Snorlax atac normal / Neutrel2 atac normal
+Snorlax HP 58 abilitate 1 cooldown 2  abilitate 2 cooldown 3
+Neutrel2 HP 1
+
+5. Snorlax atac normal / Neutrel2 atac normal
+Snorlax HP 54 abilitate 1 cooldown 1  abilitate 2 cooldown 2
+Neutrel2 HP -7
+Snorlax a castigat!
+name:Snorlax hp:65 attack:9 special_attack:null defense:7 special_defense:8 abilities:[ Dmg:4 Stun:true Dodge:false Cd:5,  Dmg:0 Stun:false Dodge:true Cd:5] items:[Sabiuta, Vitamine, Pelerina]
+
+Charmander vs Neutrel1
+
+1. Charmander atac normal / Neutrel1 atac normal
+Charmander HP 53 
+Neutrel1 HP 0
+Charmander a castigat!
+name:Charmander hp:52 attack:12 special_attack:null defense:6 special_defense:4 abilities:[ Dmg:4 Stun:true Dodge:false Cd:4,  Dmg:7 Stun:false Dodge:false Cd:6] items:[Brad de Craciun, Sabiuta]
+
+Snorlax vs Neutrel1
+
+1. Snorlax atac normal / Neutrel1 atac normal
+Snorlax HP 69 
+Neutrel1 HP 2
+
+2. Snorlax abilitate 2 / Neutrel1 atac normal
+Snorlax HP 69 (abilitatea 2 are dodge),  abilitate 2 cooldown 5
+Neutrel1 HP 2
+
+3. Snorlax atac normal / Neutrel1 atac normal
+Snorlax HP 66  abilitate 2 cooldown 4
+Neutrel1 HP -7
+Snorlax a castigat!
+name:Snorlax hp:66 attack:10 special_attack:null defense:8 special_defense:9 abilities:[ Dmg:4 Stun:true Dodge:false Cd:5,  Dmg:0 Stun:false Dodge:true Cd:5] items:[Sabiuta, Vitamine, Pelerina]
+
+Charmander vs Neutrel1
+
+1. Charmander atac normal / Neutrel1 atac normal
+Charmander HP 55 
+Neutrel1 HP -1
+Charmander a castigat!
+name:Charmander hp:53 attack:13 special_attack:null defense:7 special_defense:5 abilities:[ Dmg:4 Stun:true Dodge:false Cd:4,  Dmg:7 Stun:false Dodge:false Cd:6] items:[Brad de Craciun, Sabiuta]
+
+Snorlax vs Neutrel1
+
+1. Snorlax abilitate 2 / Neutrel1 atac normal
+Snorlax HP 74 (abilitatea 2 are dodge),  abilitate 2 cooldown 5
+Neutrel1 HP 11
+
+2. Snorlax abilitate 1 / Neutrel1 atac normal
+Snorlax HP 71 abilitate 1 cooldown 5 abilitate 2 cooldown 4
+Neutrel1 HP 7 si este stuned
+
+3. Snorlax atac normal / Neutrel1 nimic
+Snorlax HP 71 abilitate 1 cooldown 4  abilitate 2 cooldown 3
+Neutrel1 HP -3
+Snorlax a castigat!
+name:Snorlax hp:67 attack:11 special_attack:null defense:9 special_defense:10 abilities:[ Dmg:4 Stun:true Dodge:false Cd:5,  Dmg:0 Stun:false Dodge:true Cd:5] items:[Sabiuta, Vitamine, Pelerina]
+
+Charmander vs Neutrel1
+
+1. Charmander abilitate 2 / Neutrel1 atac normal
+Charmander HP 57 abilitate 2 cooldown 6
+Neutrel1 HP 4
+
+2. Charmander abilitate 1 / Neutrel1 atac normal
+Charmander HP 54 abilitate 1 cooldown 4 abilitate 2 cooldown 5
+Neutrel1 HP 0 si este stuned
+Charmander a castigat!
+name:Charmander hp:54 attack:14 special_attack:null defense:8 special_defense:6 abilities:[ Dmg:4 Stun:true Dodge:false Cd:4,  Dmg:7 Stun:false Dodge:false Cd:6] items:[Brad de Craciun, Sabiuta]
+
+Snorlax vs Neutrel1
+
+1. Snorlax atac normal / Neutrel1 atac normal
+Snorlax HP 73 
+Neutrel1 HP 0
+Snorlax a castigat!
+name:Snorlax hp:68 attack:12 special_attack:null defense:10 special_defense:11 abilities:[ Dmg:4 Stun:true Dodge:false Cd:5,  Dmg:0 Stun:false Dodge:true Cd:5] items:[Sabiuta, Vitamine, Pelerina]
+
+Charmander vs Neutrel2
+
+1. Charmander abilitate 1 / Neutrel2 atac normal
+Charmander HP 58 abilitate 1 cooldown 4
+Neutrel2 HP 17 si este stuned
+
+2. Charmander atac normal / Neutrel2 nimic
+Charmander HP 58 abilitate 1 cooldown 3 
+Neutrel2 HP 3
+
+3. Charmander abilitate 2 / Neutrel2 atac normal
+Charmander HP 54 abilitate 1 cooldown 2 abilitate 2 cooldown 6
+Neutrel2 HP -4
+Charmander a castigat!
+name:Charmander hp:55 attack:15 special_attack:null defense:9 special_defense:7 abilities:[ Dmg:4 Stun:true Dodge:false Cd:4,  Dmg:7 Stun:false Dodge:false Cd:6] items:[Brad de Craciun, Sabiuta]
+
+Snorlax vs Neutrel2
+
+1. Snorlax abilitate 1 / Neutrel2 atac normal
+Snorlax HP 74 abilitate 1 cooldown 5
+Neutrel2 HP 17 si este stuned
+
+2. Snorlax abilitate 2 / Neutrel2 nimic
+Snorlax HP 74 (abilitatea 2 are dodge),  abilitate 1 cooldown 4 abilitate 2 cooldown 5
+Neutrel2 HP 17
+
+3. Snorlax atac normal / Neutrel2 atac normal
+Snorlax HP 70 abilitate 1 cooldown 3  abilitate 2 cooldown 4
+Neutrel2 HP 5
+
+4. Snorlax atac normal / Neutrel2 atac normal
+Snorlax HP 66 abilitate 1 cooldown 2  abilitate 2 cooldown 3
+Neutrel2 HP -7
+Snorlax a castigat!
+name:Snorlax hp:69 attack:13 special_attack:null defense:11 special_defense:12 abilities:[ Dmg:4 Stun:true Dodge:false Cd:5,  Dmg:0 Stun:false Dodge:true Cd:5] items:[Sabiuta, Vitamine, Pelerina]
+
+Charmander vs Neutrel2
+
+1. Charmander atac normal / Neutrel2 atac normal
+Charmander HP 60 
+Neutrel2 HP 6
+
+2. Charmander atac normal / Neutrel2 atac normal
+Charmander HP 56 
+Neutrel2 HP -9
+Charmander a castigat!
+name:Charmander hp:56 attack:16 special_attack:null defense:10 special_defense:8 abilities:[ Dmg:4 Stun:true Dodge:false Cd:4,  Dmg:7 Stun:false Dodge:false Cd:6] items:[Brad de Craciun, Sabiuta]
+
+Snorlax vs Neutrel2
+
+1. Snorlax abilitate 2 / Neutrel2 atac normal
+Snorlax HP 80 (abilitatea 2 are dodge),  abilitate 2 cooldown 5
+Neutrel2 HP 21
+
+2. Snorlax atac normal / Neutrel2 atac normal
+Snorlax HP 76  abilitate 2 cooldown 4
+Neutrel2 HP 8
+
+3. Snorlax atac normal / Neutrel2 atac normal
+Snorlax HP 72  abilitate 2 cooldown 3
+Neutrel2 HP -5
+Snorlax a castigat!
+name:Snorlax hp:70 attack:14 special_attack:null defense:12 special_defense:13 abilities:[ Dmg:4 Stun:true Dodge:false Cd:5,  Dmg:0 Stun:false Dodge:true Cd:5] items:[Sabiuta, Vitamine, Pelerina]
+
+Charmander vs Neutrel1
+
+1. Charmander abilitate 1 / Neutrel1 atac normal
+Charmander HP 63 abilitate 1 cooldown 4
+Neutrel1 HP 7 si este stuned
+
+2. Charmander abilitate 2 / Neutrel1 nimic
+Charmander HP 63 abilitate 1 cooldown 3 abilitate 2 cooldown 6
+Neutrel1 HP 0
+Charmander a castigat!
+name:Charmander hp:57 attack:17 special_attack:null defense:11 special_defense:9 abilities:[ Dmg:4 Stun:true Dodge:false Cd:4,  Dmg:7 Stun:false Dodge:false Cd:6] items:[Brad de Craciun, Sabiuta]
+
+Snorlax vs Neutrel1
+
+1. Snorlax abilitate 2 / Neutrel1 atac normal
+Snorlax HP 82 (abilitatea 2 are dodge),  abilitate 2 cooldown 5
+Neutrel1 HP 11
+
+2. Snorlax abilitate 1 / Neutrel1 atac normal
+Snorlax HP 79 abilitate 1 cooldown 5 abilitate 2 cooldown 4
+Neutrel1 HP 7 si este stuned
+
+3. Snorlax atac normal / Neutrel1 nimic
+Snorlax HP 79 abilitate 1 cooldown 4  abilitate 2 cooldown 3
+Neutrel1 HP -7
+Snorlax a castigat!
+name:Snorlax hp:71 attack:15 special_attack:null defense:13 special_defense:14 abilities:[ Dmg:4 Stun:true Dodge:false Cd:5,  Dmg:0 Stun:false Dodge:true Cd:5] items:[Sabiuta, Vitamine, Pelerina]
+
+Charmander vs Neutrel1
+
+1. Charmander abilitate 2 / Neutrel1 atac normal
+Charmander HP 65 abilitate 2 cooldown 6
+Neutrel1 HP 4
+
+2. Charmander abilitate 1 / Neutrel1 atac normal
+Charmander HP 62 abilitate 1 cooldown 4 abilitate 2 cooldown 5
+Neutrel1 HP 0 si este stuned
+Charmander a castigat!
+name:Charmander hp:58 attack:18 special_attack:null defense:12 special_defense:10 abilities:[ Dmg:4 Stun:true Dodge:false Cd:4,  Dmg:7 Stun:false Dodge:false Cd:6] items:[Brad de Craciun, Sabiuta]
+
+Snorlax vs Neutrel1
+
+1. Snorlax abilitate 1 / Neutrel1 atac normal
+Snorlax HP 81 abilitate 1 cooldown 5
+Neutrel1 HP 7 si este stuned
+
+2. Snorlax atac normal / Neutrel1 nimic
+Snorlax HP 81 abilitate 1 cooldown 4 
+Neutrel1 HP -8
+Snorlax a castigat!
+name:Snorlax hp:72 attack:16 special_attack:null defense:14 special_defense:15 abilities:[ Dmg:4 Stun:true Dodge:false Cd:5,  Dmg:0 Stun:false Dodge:true Cd:5] items:[Sabiuta, Vitamine, Pelerina]
+
+Charmander vs Neutrel1
+
+1. Charmander abilitate 1 / Neutrel1 atac normal
+Charmander HP 67 abilitate 1 cooldown 4
+Neutrel1 HP 7 si este stuned
+
+2. Charmander atac normal / Neutrel1 nimic
+Charmander HP 67 abilitate 1 cooldown 3 
+Neutrel1 HP -11
+Charmander a castigat!
+name:Charmander hp:59 attack:19 special_attack:null defense:13 special_defense:11 abilities:[ Dmg:4 Stun:true Dodge:false Cd:4,  Dmg:7 Stun:false Dodge:false Cd:6] items:[Brad de Craciun, Sabiuta]
+
+Snorlax vs Neutrel1
+
+1. Snorlax abilitate 1 / Neutrel1 atac normal
+Snorlax HP 83 abilitate 1 cooldown 5
+Neutrel1 HP 7 si este stuned
+
+2. Snorlax atac normal / Neutrel1 nimic
+Snorlax HP 83 abilitate 1 cooldown 4 
+Neutrel1 HP -9
+Snorlax a castigat!
+name:Snorlax hp:73 attack:17 special_attack:null defense:15 special_defense:16 abilities:[ Dmg:4 Stun:true Dodge:false Cd:5,  Dmg:0 Stun:false Dodge:true Cd:5] items:[Sabiuta, Vitamine, Pelerina]
+
+Charmander vs Neutrel2
+
+1. Charmander abilitate 2 / Neutrel2 atac normal
+Charmander HP 68 abilitate 2 cooldown 6
+Neutrel2 HP 14
+
+2. Charmander abilitate 1 / Neutrel2 atac normal
+Charmander HP 64 abilitate 1 cooldown 4 abilitate 2 cooldown 5
+Neutrel2 HP 10 si este stuned
+
+3. Charmander atac normal / Neutrel2 nimic
+Charmander HP 64 abilitate 1 cooldown 3  abilitate 2 cooldown 4
+Neutrel2 HP -9
+Charmander a castigat!
+name:Charmander hp:60 attack:20 special_attack:null defense:14 special_defense:12 abilities:[ Dmg:4 Stun:true Dodge:false Cd:4,  Dmg:7 Stun:false Dodge:false Cd:6] items:[Brad de Craciun, Sabiuta]
+
+Snorlax vs Neutrel2
+
+1. Snorlax abilitate 1 / Neutrel2 atac normal
+Snorlax HP 84 abilitate 1 cooldown 5
+Neutrel2 HP 17 si este stuned
+
+2. Snorlax abilitate 2 / Neutrel2 nimic
+Snorlax HP 84 (abilitatea 2 are dodge),  abilitate 1 cooldown 4 abilitate 2 cooldown 5
+Neutrel2 HP 17
+
+3. Snorlax atac normal / Neutrel2 atac normal
+Snorlax HP 80 abilitate 1 cooldown 3  abilitate 2 cooldown 4
+Neutrel2 HP 0
+Snorlax a castigat!
+name:Snorlax hp:74 attack:18 special_attack:null defense:16 special_defense:17 abilities:[ Dmg:4 Stun:true Dodge:false Cd:5,  Dmg:0 Stun:false Dodge:true Cd:5] items:[Sabiuta, Vitamine, Pelerina]
+
+Charmander vs Neutrel2
+
+1. Charmander abilitate 2 / Neutrel2 atac normal
+Charmander HP 70 abilitate 2 cooldown 6
+Neutrel2 HP 14
+
+2. Charmander abilitate 1 / Neutrel2 atac normal
+Charmander HP 66 abilitate 1 cooldown 4 abilitate 2 cooldown 5
+Neutrel2 HP 10 si este stuned
+
+3. Charmander atac normal / Neutrel2 nimic
+Charmander HP 66 abilitate 1 cooldown 3  abilitate 2 cooldown 4
+Neutrel2 HP -10
+Charmander a castigat!
+name:Charmander hp:61 attack:21 special_attack:null defense:15 special_defense:13 abilities:[ Dmg:4 Stun:true Dodge:false Cd:4,  Dmg:7 Stun:false Dodge:false Cd:6] items:[Brad de Craciun, Sabiuta]
+
+Snorlax vs Neutrel2
+
+1. Snorlax abilitate 2 / Neutrel2 atac normal
+Snorlax HP 90 (abilitatea 2 are dodge),  abilitate 2 cooldown 5
+Neutrel2 HP 21
+
+2. Snorlax abilitate 1 / Neutrel2 atac normal
+Snorlax HP 86 abilitate 1 cooldown 5 abilitate 2 cooldown 4
+Neutrel2 HP 17 si este stuned
+
+3. Snorlax atac normal / Neutrel2 nimic
+Snorlax HP 86 abilitate 1 cooldown 4  abilitate 2 cooldown 3
+Neutrel2 HP -1
+Snorlax a castigat!
+name:Snorlax hp:75 attack:19 special_attack:null defense:17 special_defense:18 abilities:[ Dmg:4 Stun:true Dodge:false Cd:5,  Dmg:0 Stun:false Dodge:true Cd:5] items:[Sabiuta, Vitamine, Pelerina]
+
+Charmander vs Snorlax
+
+1. Charmander atac normal / Snorlax atac normal
+Charmander HP 57 
+Snorlax HP 71 
+
+2. Charmander abilitate 1 / Snorlax atac normal
+Charmander HP 38 abilitate 1->cooldown: 4 
+Snorlax HP 67 si este stuned  
+
+3. Charmander abilitate 2 / Snorlax nimic
+Charmander HP 38 abilitate 1->cooldown: 3  abilitate 2->cooldown: 6
+Snorlax HP 60  
+
+4. Charmander atac normal / Snorlax atac normal
+Charmander HP 19 abilitate 1->cooldown: 2  abilitate 2->cooldown: 5
+Snorlax HP 39 
+
+5. Charmander atac normal / Snorlax abilitate 2
+Charmander HP 19  abilitate 1->cooldown: 1  abilitate 2->cooldown: 4
+Snorlax HP 39 (abilitatea 2 are dodge),   abilitate 2->cooldown: 5
+
+6. Charmander atac normal / Snorlax abilitate 1
+Charmander HP 15 si este stuned  abilitate 1->cooldown: 0  abilitate 2->cooldown: 3
+Snorlax HP 18 abilitate 1->cooldown: 5  abilitate 2->cooldown: 4
+
+7. Charmander nimic / Snorlax atac normal
+Charmander HP -4  abilitate 2->cooldown: 2
+Snorlax HP 18  abilitate 1->cooldown: 4  abilitate 2->cooldown: 3
+
+Snorlax a castigat!
+name:Snorlax hp:76 attack:20 special_attack:null defense:18 special_defense:19 abilities:[ Dmg:4 Stun:true Dodge:false Cd:5,  Dmg:0 Stun:false Dodge:true Cd:5] items:[Sabiuta, Vitamine, Pelerina]
+
+DUELUL 3 s-a terminat!
+
+
+Batalia suprema se da intre: Charmander si Snorlax
+Se dueleaza pokemonii:
+name:Charmander hp:61 attack:21 special_attack:null defense:15 special_defense:13 abilities:[ Dmg:4 Stun:true Dodge:false Cd:4,  Dmg:7 Stun:false Dodge:false Cd:6] items:[Brad de Craciun, Sabiuta]
+name:Snorlax hp:76 attack:20 special_attack:null defense:18 special_defense:19 abilities:[ Dmg:4 Stun:true Dodge:false Cd:5,  Dmg:0 Stun:false Dodge:true Cd:5] items:[Sabiuta, Vitamine, Pelerina]
+
+Charmander vs Snorlax
+
+1. Charmander abilitate 1 / Snorlax atac normal
+Charmander HP 56 abilitate 1->cooldown: 4 
+Snorlax HP 90 si este stuned  
+
+2. Charmander atac normal / Snorlax nimic
+Charmander HP 56  abilitate 1->cooldown: 3 
+Snorlax HP 69 
+
+3. Charmander abilitate 2 / Snorlax atac normal
+Charmander HP 36 abilitate 1->cooldown: 2  abilitate 2->cooldown: 6
+Snorlax HP 62  
+
+4. Charmander atac normal / Snorlax abilitate 2
+Charmander HP 36  abilitate 1->cooldown: 1  abilitate 2->cooldown: 5
+Snorlax HP 62 (abilitatea 2 are dodge),   abilitate 2->cooldown: 5
+
+5. Charmander atac normal / Snorlax atac normal
+Charmander HP 16 abilitate 1->cooldown: 0  abilitate 2->cooldown: 4
+Snorlax HP 41  abilitate 2->cooldown: 4
+
+6. Charmander atac normal / Snorlax abilitate 1
+Charmander HP 12 si este stuned   abilitate 2->cooldown: 3
+Snorlax HP 20 abilitate 1->cooldown: 5  abilitate 2->cooldown: 3
+
+7. Charmander nimic / Snorlax atac normal
+Charmander HP -8  abilitate 2->cooldown: 2
+Snorlax HP 20 abilitate 1->cooldown: 4  abilitate 2->cooldown: 2
+
+Snorlax a castigat!
+name:Snorlax hp:77 attack:21 special_attack:null defense:19 special_defense:20 abilities:[ Dmg:4 Stun:true Dodge:false Cd:5,  Dmg:0 Stun:false Dodge:true Cd:5] items:[Sabiuta, Vitamine, Pelerina]
+

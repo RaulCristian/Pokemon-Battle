@@ -1,0 +1,572 @@
+Au intrat in arena antrenorii: Raluca 21 si Razvan 24
+DUEL 1
+Se dueleaza pokemonii:
+name:Meowth hp:43 attack:8 special_attack:null defense:5 special_defense:2 abilities:[ Dmg:5 Stun:false Dodge:true Cd:4,  Dmg:1 Stun:false Dodge:true Cd:3] items:[Vitamine, Brad de Craciun]
+name:Charmander hp:50 attack:4 special_attack:null defense:3 special_defense:2 abilities:[ Dmg:4 Stun:true Dodge:false Cd:4,  Dmg:7 Stun:false Dodge:false Cd:6] items:[Bagheta Magica]
+
+Meowth vs Neutrel2
+
+1. Meowth abilitate 2 / Neutrel2 atac normal
+Meowth HP 48 (abilitatea 2 are dodge),  abilitate 2 cooldown 3
+Neutrel2 HP 20
+
+2. Meowth atac normal / Neutrel2 atac normal
+Meowth HP 44  abilitate 2 cooldown 2
+Neutrel2 HP 12
+
+3. Meowth atac normal / Neutrel2 atac normal
+Meowth HP 40  abilitate 2 cooldown 1
+Neutrel2 HP 4
+
+4. Meowth atac normal / Neutrel2 atac normal
+Meowth HP 36  abilitate 2 cooldown 0
+Neutrel2 HP -4
+Meowth a castigat!
+name:Meowth hp:44 attack:9 special_attack:null defense:6 special_defense:3 abilities:[ Dmg:5 Stun:false Dodge:true Cd:4,  Dmg:1 Stun:false Dodge:true Cd:3] items:[Vitamine, Brad de Craciun]
+
+Charmander vs Neutrel2
+
+1. Charmander abilitate 2 / Neutrel2 atac normal
+Charmander HP 49 abilitate 2 cooldown 6
+Neutrel2 HP 14
+
+2. Charmander abilitate 1 / Neutrel2 atac normal
+Charmander HP 45 abilitate 1 cooldown 4 abilitate 2 cooldown 5
+Neutrel2 HP 10 si este stuned
+
+3. Charmander atac normal / Neutrel2 nimic
+Charmander HP 45 abilitate 1 cooldown 3  abilitate 2 cooldown 4
+Neutrel2 HP 6
+
+4. Charmander atac normal / Neutrel2 atac normal
+Charmander HP 41 abilitate 1 cooldown 2  abilitate 2 cooldown 3
+Neutrel2 HP 2
+
+5. Charmander atac normal / Neutrel2 atac normal
+Charmander HP 37 abilitate 1 cooldown 1  abilitate 2 cooldown 2
+Neutrel2 HP -2
+Charmander a castigat!
+name:Charmander hp:51 attack:5 special_attack:null defense:4 special_defense:3 abilities:[ Dmg:4 Stun:true Dodge:false Cd:4,  Dmg:7 Stun:false Dodge:false Cd:6] items:[Bagheta Magica]
+
+Meowth vs Charmander
+
+1. Meowth abilitate 1 / Charmander abilitate 1
+Meowth HP 50  (abilitatea 1 are dodge),   abilitate 1->cooldown: 4 
+Charmander HP 50   abilitate 1->cooldown: 4 
+
+2. Meowth abilitate 2 / Charmander abilitate 2
+Meowth HP 50  (abilitatea 2 are dodge),  abilitate 1->cooldown: 3  abilitate 2->cooldown: 3
+Charmander HP 49   abilitate 1->cooldown: 3  abilitate 2->cooldown: 6
+
+3. Meowth atac normal / Charmander atac normal
+Meowth HP 45 abilitate 1->cooldown: 2  abilitate 2->cooldown: 2
+Charmander HP 40 abilitate 1->cooldown: 2  abilitate 2->cooldown: 5
+
+4. Meowth atac normal / Charmander atac normal
+Meowth HP 40 abilitate 1->cooldown: 1  abilitate 2->cooldown: 1
+Charmander HP 31 abilitate 1->cooldown: 1  abilitate 2->cooldown: 4
+
+5. Meowth atac normal / Charmander atac normal
+Meowth HP 35 abilitate 1->cooldown: 0  abilitate 2->cooldown: 0
+Charmander HP 22 abilitate 1->cooldown: 0  abilitate 2->cooldown: 3
+
+6. Meowth atac normal / Charmander atac normal
+Meowth HP 30 
+Charmander HP 13  abilitate 2->cooldown: 2
+
+7. Meowth abilitate 2 / Charmander abilitate 1
+Meowth HP 30  (abilitatea 2 are dodge),   abilitate 2->cooldown: 3
+Charmander HP 12   abilitate 1->cooldown: 4  abilitate 2->cooldown: 1
+
+8. Meowth abilitate 1 / Charmander atac normal
+Meowth HP 30 (abilitatea 1 are dodge),  abilitate 1->cooldown: 4  abilitate 2->cooldown: 2
+Charmander HP 7  abilitate 1->cooldown: 3  abilitate 2->cooldown: 0
+
+9. Meowth atac normal / Charmander abilitate 2
+Meowth HP 23  abilitate 1->cooldown: 3  abilitate 2->cooldown: 1
+Charmander HP -2  abilitate 1->cooldown: 2  abilitate 2->cooldown: 6
+
+Meowth a castigat!
+name:Meowth hp:45 attack:10 special_attack:null defense:7 special_defense:4 abilities:[ Dmg:5 Stun:false Dodge:true Cd:4,  Dmg:1 Stun:false Dodge:true Cd:3] items:[Vitamine, Brad de Craciun]
+
+DUELUL 1 s-a terminat!
+
+DUEL 2
+Se dueleaza pokemonii:
+name:Jigglypuff hp:34 attack:4 special_attack:null defense:2 special_defense:6 abilities:[ Dmg:4 Stun:true Dodge:false Cd:4,  Dmg:3 Stun:true Dodge:false Cd:4] items:[Pelerina]
+name:Pikachu hp:45 attack:null special_attack:4 defense:2 special_defense:6 abilities:[ Dmg:6 Stun:false Dodge:false Cd:4,  Dmg:4 Stun:true Dodge:true Cd:5] items:[Pelerina, Sabiuta, Vesta]
+
+Jigglypuff vs Pikachu
+
+1. Jigglypuff abilitate 1 / Pikachu atac special
+Jigglypuff HP 36 abilitate 1->cooldown: 4 
+Pikachu HP 43 si este stuned  
+
+2. Jigglypuff abilitate 2 / Pikachu nimic
+Jigglypuff HP 36   abilitate 1->cooldown: 3  abilitate 2->cooldown: 4
+Pikachu HP 40 si este stuned   
+
+3. Jigglypuff atac normal / Pikachu nimic
+Jigglypuff HP 36  abilitate 1->cooldown: 2  abilitate 2->cooldown: 3
+Pikachu HP 36 
+
+4. Jigglypuff atac normal / Pikachu abilitate 1
+Jigglypuff HP 30  abilitate 1->cooldown: 1  abilitate 2->cooldown: 2
+Pikachu HP 32 abilitate 1->cooldown: 4 
+
+5. Jigglypuff atac normal / Pikachu abilitate 2
+Jigglypuff HP 26 si este stuned  abilitate 1->cooldown: 0  abilitate 2->cooldown: 1
+Pikachu HP 32 (abilitatea 2 are dodge),  abilitate 1->cooldown: 3  abilitate 2->cooldown: 5
+
+6. Jigglypuff nimic / Pikachu atac special
+Jigglypuff HP 22  abilitate 2->cooldown: 0
+Pikachu HP 32 abilitate 1->cooldown: 2  abilitate 2->cooldown: 4
+
+7. Jigglypuff abilitate 1 / Pikachu atac special
+Jigglypuff HP 18 abilitate 1->cooldown: 4 
+Pikachu HP 28 si este stuned  abilitate 1->cooldown: 1  abilitate 2->cooldown: 3
+
+8. Jigglypuff atac normal / Pikachu nimic
+Jigglypuff HP 18 abilitate 1->cooldown: 3 
+Pikachu HP 24 abilitate 1->cooldown: 0  abilitate 2->cooldown: 2
+
+9. Jigglypuff abilitate 2 / Pikachu abilitate 1
+Jigglypuff HP 12   abilitate 1->cooldown: 2  abilitate 2->cooldown: 4
+Pikachu HP 21 si este stuned   abilitate 1->cooldown: 4  abilitate 2->cooldown: 1
+
+10. Jigglypuff atac normal / Pikachu nimic
+Jigglypuff HP 12 abilitate 1->cooldown: 1  abilitate 2->cooldown: 3
+Pikachu HP 17 abilitate 1->cooldown: 3  abilitate 2->cooldown: 0
+
+11. Jigglypuff atac normal / Pikachu abilitate 2
+Jigglypuff HP 8 si este stuned  abilitate 1->cooldown: 0  abilitate 2->cooldown: 2
+Pikachu HP 17 (abilitatea 2 are dodge),  abilitate 1->cooldown: 2  abilitate 2->cooldown: 5
+
+12. Jigglypuff nimic / Pikachu atac special
+Jigglypuff HP 4  abilitate 2->cooldown: 1
+Pikachu HP 17  abilitate 1->cooldown: 1  abilitate 2->cooldown: 4
+
+13. Jigglypuff abilitate 1 / Pikachu atac special
+Jigglypuff HP 0 abilitate 1->cooldown: 4  abilitate 2->cooldown: 0
+Pikachu HP 13 si este stuned  abilitate 1->cooldown: 0  abilitate 2->cooldown: 3
+
+Pikachu a castigat!
+name:Pikachu hp:46 attack:null special_attack:5 defense:3 special_defense:7 abilities:[ Dmg:6 Stun:false Dodge:false Cd:4,  Dmg:4 Stun:true Dodge:true Cd:5] items:[Pelerina, Sabiuta, Vesta]
+
+DUELUL 2 s-a terminat!
+
+DUEL 3
+Se dueleaza pokemonii:
+name:Bulbasaur hp:44 attack:null special_attack:7 defense:3 special_defense:1 abilities:[ Dmg:6 Stun:false Dodge:false Cd:4,  Dmg:5 Stun:false Dodge:false Cd:3] items:[Brad de Craciun, Vitamine]
+name:Eevee hp:51 attack:null special_attack:6 defense:5 special_defense:5 abilities:[ Dmg:5 Stun:false Dodge:false Cd:3,  Dmg:3 Stun:true Dodge:false Cd:3] items:[Scut, Vesta, Vitamine]
+
+Bulbasaur vs Neutrel2
+
+1. Bulbasaur atac special / Neutrel2 atac normal
+Bulbasaur HP 43 
+Neutrel2 HP 14
+
+2. Bulbasaur abilitate 1 / Neutrel2 atac normal
+Bulbasaur HP 39 abilitate 1 cooldown 4
+Neutrel2 HP 8
+
+3. Bulbasaur abilitate 2 / Neutrel2 atac normal
+Bulbasaur HP 35 abilitate 1 cooldown 3 abilitate 2 cooldown 3
+Neutrel2 HP 3
+
+4. Bulbasaur atac special / Neutrel2 atac normal
+Bulbasaur HP 31 abilitate 1 cooldown 2  abilitate 2 cooldown 2
+Neutrel2 HP -4
+Bulbasaur a castigat!
+name:Bulbasaur hp:45 attack:null special_attack:8 defense:4 special_defense:2 abilities:[ Dmg:6 Stun:false Dodge:false Cd:4,  Dmg:5 Stun:false Dodge:false Cd:3] items:[Brad de Craciun, Vitamine]
+
+Eevee vs Neutrel2
+
+1. Eevee abilitate 2 / Neutrel2 atac normal
+Eevee HP 52 abilitate 2 cooldown 3
+Neutrel2 HP 18 si este stuned
+
+2. Eevee abilitate 1 / Neutrel2 nimic
+Eevee HP 52 abilitate 1 cooldown 3 abilitate 2 cooldown 2
+Neutrel2 HP 13
+
+3. Eevee atac special / Neutrel2 atac normal
+Eevee HP 48 abilitate 1 cooldown 2  abilitate 2 cooldown 1
+Neutrel2 HP 7
+
+4. Eevee atac special / Neutrel2 atac normal
+Eevee HP 44 abilitate 1 cooldown 1  abilitate 2 cooldown 0
+Neutrel2 HP 1
+
+5. Eevee abilitate 2 / Neutrel2 atac normal
+Eevee HP 40 abilitate 1 cooldown 0 abilitate 2 cooldown 3
+Neutrel2 HP -2 si este stuned
+Eevee a castigat!
+name:Eevee hp:52 attack:null special_attack:7 defense:6 special_defense:6 abilities:[ Dmg:5 Stun:false Dodge:false Cd:3,  Dmg:3 Stun:true Dodge:false Cd:3] items:[Scut, Vesta, Vitamine]
+
+Bulbasaur vs Neutrel2
+
+1. Bulbasaur abilitate 1 / Neutrel2 atac normal
+Bulbasaur HP 45 abilitate 1 cooldown 4
+Neutrel2 HP 15
+
+2. Bulbasaur abilitate 2 / Neutrel2 atac normal
+Bulbasaur HP 41 abilitate 1 cooldown 3 abilitate 2 cooldown 3
+Neutrel2 HP 10
+
+3. Bulbasaur atac special / Neutrel2 atac normal
+Bulbasaur HP 37 abilitate 1 cooldown 2  abilitate 2 cooldown 2
+Neutrel2 HP 2
+
+4. Bulbasaur atac special / Neutrel2 atac normal
+Bulbasaur HP 33 abilitate 1 cooldown 1  abilitate 2 cooldown 1
+Neutrel2 HP -6
+Bulbasaur a castigat!
+name:Bulbasaur hp:46 attack:null special_attack:9 defense:5 special_defense:3 abilities:[ Dmg:6 Stun:false Dodge:false Cd:4,  Dmg:5 Stun:false Dodge:false Cd:3] items:[Brad de Craciun, Vitamine]
+
+Eevee vs Neutrel2
+
+1. Eevee abilitate 1 / Neutrel2 atac normal
+Eevee HP 54 abilitate 1 cooldown 3
+Neutrel2 HP 16
+
+2. Eevee atac special / Neutrel2 atac normal
+Eevee HP 50 abilitate 1 cooldown 2 
+Neutrel2 HP 9
+
+3. Eevee atac special / Neutrel2 atac normal
+Eevee HP 46 abilitate 1 cooldown 1 
+Neutrel2 HP 2
+
+4. Eevee atac special / Neutrel2 atac normal
+Eevee HP 42 abilitate 1 cooldown 0 
+Neutrel2 HP -5
+Eevee a castigat!
+name:Eevee hp:53 attack:null special_attack:8 defense:7 special_defense:7 abilities:[ Dmg:5 Stun:false Dodge:false Cd:3,  Dmg:3 Stun:true Dodge:false Cd:3] items:[Scut, Vesta, Vitamine]
+
+Bulbasaur vs Eevee
+
+1. Bulbasaur abilitate 2 / Eevee abilitate 2
+Bulbasaur HP 46 si este stuned    abilitate 2->cooldown: 3
+Eevee HP 55    abilitate 2->cooldown: 3
+
+2. Bulbasaur nimic / Eevee atac special
+Bulbasaur HP 38  abilitate 2->cooldown: 2
+Eevee HP 55   abilitate 2->cooldown: 2
+
+3. Bulbasaur abilitate 1 / Eevee atac special
+Bulbasaur HP 30 abilitate 1->cooldown: 4  abilitate 2->cooldown: 1
+Eevee HP 49   abilitate 2->cooldown: 1
+
+4. Bulbasaur atac special / Eevee abilitate 1
+Bulbasaur HP 25  abilitate 1->cooldown: 3  abilitate 2->cooldown: 0
+Eevee HP 40 abilitate 1->cooldown: 3  abilitate 2->cooldown: 0
+
+5. Bulbasaur abilitate 2 / Eevee abilitate 2
+Bulbasaur HP 22 si este stuned   abilitate 1->cooldown: 2  abilitate 2->cooldown: 3
+Eevee HP 35   abilitate 1->cooldown: 2  abilitate 2->cooldown: 3
+
+6. Bulbasaur nimic / Eevee atac special
+Bulbasaur HP 14 abilitate 1->cooldown: 1  abilitate 2->cooldown: 2
+Eevee HP 35 abilitate 1->cooldown: 1  abilitate 2->cooldown: 2
+
+7. Bulbasaur atac special / Eevee atac special
+Bulbasaur HP 6 abilitate 1->cooldown: 0  abilitate 2->cooldown: 1
+Eevee HP 26 abilitate 1->cooldown: 0  abilitate 2->cooldown: 1
+
+8. Bulbasaur atac special / Eevee abilitate 1
+Bulbasaur HP 1   abilitate 2->cooldown: 0
+Eevee HP 17 abilitate 1->cooldown: 3  abilitate 2->cooldown: 0
+
+9. Bulbasaur atac special / Eevee atac special
+Bulbasaur HP -7 
+Eevee HP 8 abilitate 1->cooldown: 2 
+
+Eevee a castigat!
+name:Eevee hp:54 attack:null special_attack:9 defense:8 special_defense:8 abilities:[ Dmg:5 Stun:false Dodge:false Cd:3,  Dmg:3 Stun:true Dodge:false Cd:3] items:[Scut, Vesta, Vitamine]
+
+DUELUL 3 s-a terminat!
+
+
+Batalia suprema se da intre: Meowth si Eevee
+Se dueleaza pokemonii:
+name:Meowth hp:45 attack:10 special_attack:null defense:7 special_defense:4 abilities:[ Dmg:5 Stun:false Dodge:true Cd:4,  Dmg:1 Stun:false Dodge:true Cd:3] items:[Vitamine, Brad de Craciun]
+name:Eevee hp:54 attack:null special_attack:9 defense:8 special_defense:8 abilities:[ Dmg:5 Stun:false Dodge:false Cd:3,  Dmg:3 Stun:true Dodge:false Cd:3] items:[Scut, Vesta, Vitamine]
+
+Meowth vs Neutrel1
+
+1. Meowth abilitate 2 / Neutrel1 atac normal
+Meowth HP 52 (abilitatea 2 are dodge),  abilitate 2 cooldown 3
+Neutrel1 HP 10
+
+2. Meowth atac normal / Neutrel1 atac normal
+Meowth HP 49  abilitate 2 cooldown 2
+Neutrel1 HP 0
+Meowth a castigat!
+name:Meowth hp:46 attack:11 special_attack:null defense:8 special_defense:5 abilities:[ Dmg:5 Stun:false Dodge:true Cd:4,  Dmg:1 Stun:false Dodge:true Cd:3] items:[Vitamine, Brad de Craciun]
+
+Eevee vs Neutrel1
+
+1. Eevee abilitate 1 / Neutrel1 atac normal
+Eevee HP 59 abilitate 1 cooldown 3
+Neutrel1 HP 6
+
+2. Eevee abilitate 2 / Neutrel1 atac normal
+Eevee HP 56 abilitate 1 cooldown 2 abilitate 2 cooldown 3
+Neutrel1 HP 3 si este stuned
+
+3. Eevee atac special / Neutrel1 nimic
+Eevee HP 56 abilitate 1 cooldown 1  abilitate 2 cooldown 2
+Neutrel1 HP -6
+Eevee a castigat!
+name:Eevee hp:55 attack:null special_attack:10 defense:9 special_defense:9 abilities:[ Dmg:5 Stun:false Dodge:false Cd:3,  Dmg:3 Stun:true Dodge:false Cd:3] items:[Scut, Vesta, Vitamine]
+
+Meowth vs Neutrel1
+
+1. Meowth abilitate 1 / Neutrel1 atac normal
+Meowth HP 54 (abilitatea 1 are dodge),  abilitate 1 cooldown 4
+Neutrel1 HP 6
+
+2. Meowth abilitate 2 / Neutrel1 atac normal
+Meowth HP 54 (abilitatea 2 are dodge),  abilitate 1 cooldown 3 abilitate 2 cooldown 3
+Neutrel1 HP 5
+
+3. Meowth atac normal / Neutrel1 atac normal
+Meowth HP 51 abilitate 1 cooldown 2  abilitate 2 cooldown 2
+Neutrel1 HP -6
+Meowth a castigat!
+name:Meowth hp:47 attack:12 special_attack:null defense:9 special_defense:6 abilities:[ Dmg:5 Stun:false Dodge:true Cd:4,  Dmg:1 Stun:false Dodge:true Cd:3] items:[Vitamine, Brad de Craciun]
+
+Eevee vs Neutrel1
+
+1. Eevee abilitate 1 / Neutrel1 atac normal
+Eevee HP 61 abilitate 1 cooldown 3
+Neutrel1 HP 6
+
+2. Eevee atac special / Neutrel1 atac normal
+Eevee HP 58 abilitate 1 cooldown 2 
+Neutrel1 HP -4
+Eevee a castigat!
+name:Eevee hp:56 attack:null special_attack:11 defense:10 special_defense:10 abilities:[ Dmg:5 Stun:false Dodge:false Cd:3,  Dmg:3 Stun:true Dodge:false Cd:3] items:[Scut, Vesta, Vitamine]
+
+Meowth vs Neutrel2
+
+1. Meowth abilitate 2 / Neutrel2 atac normal
+Meowth HP 56 (abilitatea 2 are dodge),  abilitate 2 cooldown 3
+Neutrel2 HP 20
+
+2. Meowth abilitate 1 / Neutrel2 atac normal
+Meowth HP 56 (abilitatea 1 are dodge),  abilitate 1 cooldown 4 abilitate 2 cooldown 2
+Neutrel2 HP 15
+
+3. Meowth atac normal / Neutrel2 atac normal
+Meowth HP 52 abilitate 1 cooldown 3  abilitate 2 cooldown 1
+Neutrel2 HP 3
+
+4. Meowth atac normal / Neutrel2 atac normal
+Meowth HP 48 abilitate 1 cooldown 2  abilitate 2 cooldown 0
+Neutrel2 HP -9
+Meowth a castigat!
+name:Meowth hp:48 attack:13 special_attack:null defense:10 special_defense:7 abilities:[ Dmg:5 Stun:false Dodge:true Cd:4,  Dmg:1 Stun:false Dodge:true Cd:3] items:[Vitamine, Brad de Craciun]
+
+Eevee vs Neutrel2
+
+1. Eevee abilitate 1 / Neutrel2 atac normal
+Eevee HP 62 abilitate 1 cooldown 3
+Neutrel2 HP 16
+
+2. Eevee atac special / Neutrel2 atac normal
+Eevee HP 58 abilitate 1 cooldown 2 
+Neutrel2 HP 5
+
+3. Eevee abilitate 2 / Neutrel2 atac normal
+Eevee HP 54 abilitate 1 cooldown 1 abilitate 2 cooldown 3
+Neutrel2 HP 2 si este stuned
+
+4. Eevee atac special / Neutrel2 nimic
+Eevee HP 54 abilitate 1 cooldown 0  abilitate 2 cooldown 2
+Neutrel2 HP -9
+Eevee a castigat!
+name:Eevee hp:57 attack:null special_attack:12 defense:11 special_defense:11 abilities:[ Dmg:5 Stun:false Dodge:false Cd:3,  Dmg:3 Stun:true Dodge:false Cd:3] items:[Scut, Vesta, Vitamine]
+
+Meowth vs Neutrel2
+
+1. Meowth atac normal / Neutrel2 atac normal
+Meowth HP 54 
+Neutrel2 HP 8
+
+2. Meowth abilitate 2 / Neutrel2 atac normal
+Meowth HP 54 (abilitatea 2 are dodge),  abilitate 2 cooldown 3
+Neutrel2 HP 7
+
+3. Meowth atac normal / Neutrel2 atac normal
+Meowth HP 50  abilitate 2 cooldown 2
+Neutrel2 HP -6
+Meowth a castigat!
+name:Meowth hp:49 attack:14 special_attack:null defense:11 special_defense:8 abilities:[ Dmg:5 Stun:false Dodge:true Cd:4,  Dmg:1 Stun:false Dodge:true Cd:3] items:[Vitamine, Brad de Craciun]
+
+Eevee vs Neutrel2
+
+1. Eevee abilitate 1 / Neutrel2 atac normal
+Eevee HP 64 abilitate 1 cooldown 3
+Neutrel2 HP 16
+
+2. Eevee atac special / Neutrel2 atac normal
+Eevee HP 60 abilitate 1 cooldown 2 
+Neutrel2 HP 4
+
+3. Eevee abilitate 2 / Neutrel2 atac normal
+Eevee HP 56 abilitate 1 cooldown 1 abilitate 2 cooldown 3
+Neutrel2 HP 1 si este stuned
+
+4. Eevee atac special / Neutrel2 nimic
+Eevee HP 56 abilitate 1 cooldown 0  abilitate 2 cooldown 2
+Neutrel2 HP -11
+Eevee a castigat!
+name:Eevee hp:58 attack:null special_attack:13 defense:12 special_defense:12 abilities:[ Dmg:5 Stun:false Dodge:false Cd:3,  Dmg:3 Stun:true Dodge:false Cd:3] items:[Scut, Vesta, Vitamine]
+
+Meowth vs Neutrel2
+
+1. Meowth atac normal / Neutrel2 atac normal
+Meowth HP 56 
+Neutrel2 HP 7
+
+2. Meowth abilitate 2 / Neutrel2 atac normal
+Meowth HP 56 (abilitatea 2 are dodge),  abilitate 2 cooldown 3
+Neutrel2 HP 6
+
+3. Meowth abilitate 1 / Neutrel2 atac normal
+Meowth HP 56 (abilitatea 1 are dodge),  abilitate 1 cooldown 4 abilitate 2 cooldown 2
+Neutrel2 HP 1
+
+4. Meowth atac normal / Neutrel2 atac normal
+Meowth HP 52 abilitate 1 cooldown 3  abilitate 2 cooldown 1
+Neutrel2 HP -13
+Meowth a castigat!
+name:Meowth hp:50 attack:15 special_attack:null defense:12 special_defense:9 abilities:[ Dmg:5 Stun:false Dodge:true Cd:4,  Dmg:1 Stun:false Dodge:true Cd:3] items:[Vitamine, Brad de Craciun]
+
+Eevee vs Neutrel2
+
+1. Eevee abilitate 1 / Neutrel2 atac normal
+Eevee HP 66 abilitate 1 cooldown 3
+Neutrel2 HP 16
+
+2. Eevee atac special / Neutrel2 atac normal
+Eevee HP 62 abilitate 1 cooldown 2 
+Neutrel2 HP 3
+
+3. Eevee atac special / Neutrel2 atac normal
+Eevee HP 58 abilitate 1 cooldown 1 
+Neutrel2 HP -10
+Eevee a castigat!
+name:Eevee hp:59 attack:null special_attack:14 defense:13 special_defense:13 abilities:[ Dmg:5 Stun:false Dodge:false Cd:3,  Dmg:3 Stun:true Dodge:false Cd:3] items:[Scut, Vesta, Vitamine]
+
+Meowth vs Neutrel2
+
+1. Meowth atac normal / Neutrel2 atac normal
+Meowth HP 58 
+Neutrel2 HP 6
+
+2. Meowth abilitate 2 / Neutrel2 atac normal
+Meowth HP 58 (abilitatea 2 are dodge),  abilitate 2 cooldown 3
+Neutrel2 HP 5
+
+3. Meowth abilitate 1 / Neutrel2 atac normal
+Meowth HP 58 (abilitatea 1 are dodge),  abilitate 1 cooldown 4 abilitate 2 cooldown 2
+Neutrel2 HP 0
+Meowth a castigat!
+name:Meowth hp:51 attack:16 special_attack:null defense:13 special_defense:10 abilities:[ Dmg:5 Stun:false Dodge:true Cd:4,  Dmg:1 Stun:false Dodge:true Cd:3] items:[Vitamine, Brad de Craciun]
+
+Eevee vs Neutrel2
+
+1. Eevee abilitate 2 / Neutrel2 atac normal
+Eevee HP 68 abilitate 2 cooldown 3
+Neutrel2 HP 18 si este stuned
+
+2. Eevee abilitate 1 / Neutrel2 nimic
+Eevee HP 68 abilitate 1 cooldown 3 abilitate 2 cooldown 2
+Neutrel2 HP 13
+
+3. Eevee atac special / Neutrel2 atac normal
+Eevee HP 64 abilitate 1 cooldown 2  abilitate 2 cooldown 1
+Neutrel2 HP -1
+Eevee a castigat!
+name:Eevee hp:60 attack:null special_attack:15 defense:14 special_defense:14 abilities:[ Dmg:5 Stun:false Dodge:false Cd:3,  Dmg:3 Stun:true Dodge:false Cd:3] items:[Scut, Vesta, Vitamine]
+
+Meowth vs Neutrel2
+
+1. Meowth atac normal / Neutrel2 atac normal
+Meowth HP 60 
+Neutrel2 HP 5
+
+2. Meowth abilitate 2 / Neutrel2 atac normal
+Meowth HP 60 (abilitatea 2 are dodge),  abilitate 2 cooldown 3
+Neutrel2 HP 4
+
+3. Meowth abilitate 1 / Neutrel2 atac normal
+Meowth HP 60 (abilitatea 1 are dodge),  abilitate 1 cooldown 4 abilitate 2 cooldown 2
+Neutrel2 HP -1
+Meowth a castigat!
+name:Meowth hp:52 attack:17 special_attack:null defense:14 special_defense:11 abilities:[ Dmg:5 Stun:false Dodge:true Cd:4,  Dmg:1 Stun:false Dodge:true Cd:3] items:[Vitamine, Brad de Craciun]
+
+Eevee vs Neutrel2
+
+1. Eevee abilitate 1 / Neutrel2 atac normal
+Eevee HP 70 abilitate 1 cooldown 3
+Neutrel2 HP 16
+
+2. Eevee abilitate 2 / Neutrel2 atac normal
+Eevee HP 66 abilitate 1 cooldown 2 abilitate 2 cooldown 3
+Neutrel2 HP 13 si este stuned
+
+3. Eevee atac special / Neutrel2 nimic
+Eevee HP 66 abilitate 1 cooldown 1  abilitate 2 cooldown 2
+Neutrel2 HP -2
+Eevee a castigat!
+name:Eevee hp:61 attack:null special_attack:16 defense:15 special_defense:15 abilities:[ Dmg:5 Stun:false Dodge:false Cd:3,  Dmg:3 Stun:true Dodge:false Cd:3] items:[Scut, Vesta, Vitamine]
+
+Meowth vs Eevee
+
+1. Meowth atac normal / Eevee abilitate 2
+Meowth HP 60 si este stuned  
+Eevee HP 59   abilitate 2->cooldown: 3
+
+2. Meowth nimic / Eevee atac special
+Meowth HP 44 
+Eevee HP 59  abilitate 2->cooldown: 2
+
+3. Meowth abilitate 2 / Eevee abilitate 1
+Meowth HP 44  (abilitatea 2 are dodge),   abilitate 2->cooldown: 3
+Eevee HP 58   abilitate 1->cooldown: 3  abilitate 2->cooldown: 1
+
+4. Meowth atac normal / Eevee atac special
+Meowth HP 28  abilitate 2->cooldown: 2
+Eevee HP 41 abilitate 1->cooldown: 2  abilitate 2->cooldown: 0
+
+5. Meowth atac normal / Eevee abilitate 2
+Meowth HP 25 si este stuned   abilitate 2->cooldown: 1
+Eevee HP 24  abilitate 1->cooldown: 1  abilitate 2->cooldown: 3
+
+6. Meowth nimic / Eevee atac special
+Meowth HP 25  abilitate 2->cooldown: 0
+Eevee HP 24  abilitate 1->cooldown: 0  abilitate 2->cooldown: 2
+
+7. Meowth atac normal / Eevee atac special
+Meowth HP 9 
+Eevee HP 7  abilitate 2->cooldown: 1
+
+8. Meowth abilitate 2 / Eevee abilitate 1
+Meowth HP 9  (abilitatea 2 are dodge),   abilitate 2->cooldown: 3
+Eevee HP 6   abilitate 1->cooldown: 3  abilitate 2->cooldown: 0
+
+9. Meowth abilitate 1 / Eevee atac special
+Meowth HP 9 (abilitatea 1 are dodge),  abilitate 1->cooldown: 4  abilitate 2->cooldown: 2
+Eevee HP 1  abilitate 1->cooldown: 2 
+
+10. Meowth atac normal / Eevee atac special
+Meowth HP -7 abilitate 1->cooldown: 3  abilitate 2->cooldown: 1
+Eevee HP -16 abilitate 1->cooldown: 1 
+
+Meowth a castigat!
+name:Meowth hp:53 attack:18 special_attack:null defense:15 special_defense:12 abilities:[ Dmg:5 Stun:false Dodge:true Cd:4,  Dmg:1 Stun:false Dodge:true Cd:3] items:[Vitamine, Brad de Craciun]
+

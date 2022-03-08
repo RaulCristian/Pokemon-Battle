@@ -1,0 +1,276 @@
+Au intrat in arena antrenorii: Thor 1000 si Steve 123
+DUEL 1
+Se dueleaza pokemonii:
+name:Pikachu hp:45 attack:null special_attack:4 defense:2 special_defense:6 abilities:[ Dmg:6 Stun:false Dodge:false Cd:4,  Dmg:4 Stun:true Dodge:true Cd:5] items:[Pelerina, Sabiuta, Vesta]
+name:Bulbasaur hp:42 attack:null special_attack:5 defense:3 special_defense:4 abilities:[ Dmg:6 Stun:false Dodge:false Cd:4,  Dmg:5 Stun:false Dodge:false Cd:3] items:[Pelerina]
+
+Pikachu vs Bulbasaur
+
+1. Pikachu abilitate 2 / Bulbasaur atac special
+Pikachu HP 51 (abilitatea 2 are dodge),   abilitate 2->cooldown: 5
+Bulbasaur HP 42 si este stuned  
+
+2. Pikachu atac special / Bulbasaur nimic
+Pikachu HP 51  abilitate 2->cooldown: 4
+Bulbasaur HP 38 
+
+3. Pikachu abilitate 1 / Bulbasaur abilitate 2
+Pikachu HP 46   abilitate 1->cooldown: 4  abilitate 2->cooldown: 3
+Bulbasaur HP 32    abilitate 2->cooldown: 3
+
+4. Pikachu atac special / Bulbasaur atac special
+Pikachu HP 41 abilitate 1->cooldown: 3  abilitate 2->cooldown: 2
+Bulbasaur HP 28  abilitate 2->cooldown: 2
+
+5. Pikachu atac special / Bulbasaur abilitate 1
+Pikachu HP 35  abilitate 1->cooldown: 2  abilitate 2->cooldown: 1
+Bulbasaur HP 24 abilitate 1->cooldown: 4  abilitate 2->cooldown: 1
+
+6. Pikachu atac special / Bulbasaur atac special
+Pikachu HP 30 abilitate 1->cooldown: 1  abilitate 2->cooldown: 0
+Bulbasaur HP 20 abilitate 1->cooldown: 3  abilitate 2->cooldown: 0
+
+7. Pikachu atac special / Bulbasaur abilitate 2
+Pikachu HP 25  abilitate 1->cooldown: 0 
+Bulbasaur HP 16  abilitate 1->cooldown: 2  abilitate 2->cooldown: 3
+
+8. Pikachu abilitate 2 / Bulbasaur atac special
+Pikachu HP 25 (abilitatea 2 are dodge),   abilitate 2->cooldown: 5
+Bulbasaur HP 12 si este stuned  abilitate 1->cooldown: 1  abilitate 2->cooldown: 2
+
+9. Pikachu atac special / Bulbasaur nimic
+Pikachu HP 25  abilitate 2->cooldown: 4
+Bulbasaur HP 8 abilitate 1->cooldown: 0  abilitate 2->cooldown: 1
+
+10. Pikachu abilitate 1 / Bulbasaur abilitate 1
+Pikachu HP 19   abilitate 1->cooldown: 4  abilitate 2->cooldown: 3
+Bulbasaur HP 2   abilitate 1->cooldown: 4  abilitate 2->cooldown: 0
+
+11. Pikachu atac special / Bulbasaur atac special
+Pikachu HP 14 abilitate 1->cooldown: 3  abilitate 2->cooldown: 2
+Bulbasaur HP -2 abilitate 1->cooldown: 3 
+
+Pikachu a castigat!
+name:Pikachu hp:46 attack:null special_attack:5 defense:3 special_defense:7 abilities:[ Dmg:6 Stun:false Dodge:false Cd:4,  Dmg:4 Stun:true Dodge:true Cd:5] items:[Pelerina, Sabiuta, Vesta]
+
+DUELUL 1 s-a terminat!
+
+DUEL 2
+Se dueleaza pokemonii:
+name:Psyduck hp:45 attack:8 special_attack:null defense:4 special_defense:3 abilities:[ Dmg:2 Stun:false Dodge:false Cd:4,  Dmg:2 Stun:true Dodge:false Cd:5] items:[Brad de Craciun, Vitamine]
+name:Snorlax hp:64 attack:8 special_attack:null defense:7 special_defense:4 abilities:[ Dmg:4 Stun:true Dodge:false Cd:5,  Dmg:0 Stun:false Dodge:true Cd:5] items:[Vitamine, Brad de Craciun]
+
+Psyduck vs Snorlax
+
+1. Psyduck abilitate 1 / Snorlax abilitate 2
+Psyduck HP 49   abilitate 1->cooldown: 4 
+Snorlax HP 71  (abilitatea 2 are dodge),   abilitate 2->cooldown: 5
+
+2. Psyduck atac normal / Snorlax atac normal
+Psyduck HP 41 abilitate 1->cooldown: 3 
+Snorlax HP 63  abilitate 2->cooldown: 4
+
+3. Psyduck abilitate 2 / Snorlax atac normal
+Psyduck HP 33 abilitate 1->cooldown: 2  abilitate 2->cooldown: 5
+Snorlax HP 61 si este stuned   abilitate 2->cooldown: 3
+
+4. Psyduck atac normal / Snorlax nimic
+Psyduck HP 33 abilitate 1->cooldown: 1  abilitate 2->cooldown: 4
+Snorlax HP 53  abilitate 2->cooldown: 2
+
+5. Psyduck atac normal / Snorlax abilitate 1
+Psyduck HP 29 si este stuned  abilitate 1->cooldown: 0  abilitate 2->cooldown: 3
+Snorlax HP 45 abilitate 1->cooldown: 5  abilitate 2->cooldown: 1
+
+6. Psyduck nimic / Snorlax atac normal
+Psyduck HP 21  abilitate 2->cooldown: 2
+Snorlax HP 45  abilitate 1->cooldown: 4  abilitate 2->cooldown: 0
+
+7. Psyduck atac normal / Snorlax atac normal
+Psyduck HP 13  abilitate 2->cooldown: 1
+Snorlax HP 37 abilitate 1->cooldown: 3 
+
+8. Psyduck atac normal / Snorlax atac normal
+Psyduck HP 5  abilitate 2->cooldown: 0
+Snorlax HP 29 abilitate 1->cooldown: 2 
+
+9. Psyduck atac normal / Snorlax atac normal
+Psyduck HP -3 
+Snorlax HP 21 abilitate 1->cooldown: 1 
+
+Snorlax a castigat!
+name:Snorlax hp:65 attack:9 special_attack:null defense:8 special_defense:5 abilities:[ Dmg:4 Stun:true Dodge:false Cd:5,  Dmg:0 Stun:false Dodge:true Cd:5] items:[Vitamine, Brad de Craciun]
+
+DUELUL 2 s-a terminat!
+
+DUEL 3
+Se dueleaza pokemonii:
+name:Meowth hp:41 attack:3 special_attack:null defense:4 special_defense:2 abilities:[ Dmg:5 Stun:false Dodge:true Cd:4,  Dmg:1 Stun:false Dodge:true Cd:3] items:[Bagheta Magica]
+name:Eevee hp:51 attack:null special_attack:6 defense:5 special_defense:5 abilities:[ Dmg:5 Stun:false Dodge:false Cd:3,  Dmg:3 Stun:true Dodge:false Cd:3] items:[Scut, Vesta, Vitamine]
+
+Meowth vs Neutrel1
+
+1. Meowth abilitate 1 / Neutrel1 atac normal
+Meowth HP 45 (abilitatea 1 are dodge),  abilitate 1 cooldown 4
+Neutrel1 HP 6
+
+2. Meowth abilitate 2 / Neutrel1 atac normal
+Meowth HP 45 (abilitatea 2 are dodge),  abilitate 1 cooldown 3 abilitate 2 cooldown 3
+Neutrel1 HP 5
+
+3. Meowth atac normal / Neutrel1 atac normal
+Meowth HP 42 abilitate 1 cooldown 2  abilitate 2 cooldown 2
+Neutrel1 HP 2
+
+4. Meowth atac normal / Neutrel1 atac normal
+Meowth HP 39 abilitate 1 cooldown 1  abilitate 2 cooldown 1
+Neutrel1 HP -1
+Meowth a castigat!
+name:Meowth hp:42 attack:4 special_attack:null defense:5 special_defense:3 abilities:[ Dmg:5 Stun:false Dodge:true Cd:4,  Dmg:1 Stun:false Dodge:true Cd:3] items:[Bagheta Magica]
+
+Eevee vs Neutrel1
+
+1. Eevee abilitate 2 / Neutrel1 atac normal
+Eevee HP 53 abilitate 2 cooldown 3
+Neutrel1 HP 8 si este stuned
+
+2. Eevee abilitate 1 / Neutrel1 nimic
+Eevee HP 53 abilitate 1 cooldown 3 abilitate 2 cooldown 2
+Neutrel1 HP 3
+
+3. Eevee atac special / Neutrel1 atac normal
+Eevee HP 50 abilitate 1 cooldown 2  abilitate 2 cooldown 1
+Neutrel1 HP -3
+Eevee a castigat!
+name:Eevee hp:52 attack:null special_attack:7 defense:6 special_defense:6 abilities:[ Dmg:5 Stun:false Dodge:false Cd:3,  Dmg:3 Stun:true Dodge:false Cd:3] items:[Scut, Vesta, Vitamine]
+
+Meowth vs Eevee
+
+1. Meowth abilitate 1 / Eevee abilitate 2
+Meowth HP 45  (abilitatea 1 are dodge),  abilitate 1->cooldown: 4 
+Eevee HP 53    abilitate 2->cooldown: 3
+
+2. Meowth abilitate 2 / Eevee abilitate 1
+Meowth HP 45  (abilitatea 2 are dodge),  abilitate 1->cooldown: 3  abilitate 2->cooldown: 3
+Eevee HP 52   abilitate 1->cooldown: 3  abilitate 2->cooldown: 2
+
+3. Meowth atac normal / Eevee atac special
+Meowth HP 38 abilitate 1->cooldown: 2  abilitate 2->cooldown: 2
+Eevee HP 48 abilitate 1->cooldown: 2  abilitate 2->cooldown: 1
+
+4. Meowth atac normal / Eevee atac special
+Meowth HP 31 abilitate 1->cooldown: 1  abilitate 2->cooldown: 1
+Eevee HP 44 abilitate 1->cooldown: 1  abilitate 2->cooldown: 0
+
+5. Meowth atac normal / Eevee abilitate 2
+Meowth HP 28 si este stuned  abilitate 1->cooldown: 0  abilitate 2->cooldown: 0
+Eevee HP 40  abilitate 1->cooldown: 0  abilitate 2->cooldown: 3
+
+6. Meowth nimic / Eevee abilitate 1
+Meowth HP 28   
+Eevee HP 40   abilitate 1->cooldown: 3  abilitate 2->cooldown: 2
+
+7. Meowth abilitate 1 / Eevee atac special
+Meowth HP 28 (abilitatea 1 are dodge),  abilitate 1->cooldown: 4 
+Eevee HP 35  abilitate 1->cooldown: 2  abilitate 2->cooldown: 1
+
+8. Meowth atac normal / Eevee atac special
+Meowth HP 21 abilitate 1->cooldown: 3 
+Eevee HP 31 abilitate 1->cooldown: 1  abilitate 2->cooldown: 0
+
+9. Meowth abilitate 2 / Eevee atac special
+Meowth HP 21 (abilitatea 2 are dodge),  abilitate 1->cooldown: 2  abilitate 2->cooldown: 3
+Eevee HP 30  abilitate 1->cooldown: 0 
+
+10. Meowth atac normal / Eevee atac special
+Meowth HP 14 abilitate 1->cooldown: 1  abilitate 2->cooldown: 2
+Eevee HP 26 
+
+11. Meowth atac normal / Eevee abilitate 1
+Meowth HP 9  abilitate 1->cooldown: 0  abilitate 2->cooldown: 1
+Eevee HP 22 abilitate 1->cooldown: 3 
+
+12. Meowth abilitate 1 / Eevee atac special
+Meowth HP 9 (abilitatea 1 are dodge),  abilitate 1->cooldown: 4  abilitate 2->cooldown: 0
+Eevee HP 17  abilitate 1->cooldown: 2 
+
+13. Meowth abilitate 2 / Eevee abilitate 2
+Meowth HP 9  (abilitatea 2 are dodge),  abilitate 1->cooldown: 3  abilitate 2->cooldown: 3
+Eevee HP 16   abilitate 1->cooldown: 1  abilitate 2->cooldown: 3
+
+14. Meowth atac normal / Eevee atac special
+Meowth HP 2 abilitate 1->cooldown: 2  abilitate 2->cooldown: 2
+Eevee HP 12 abilitate 1->cooldown: 0  abilitate 2->cooldown: 2
+
+15. Meowth atac normal / Eevee abilitate 1
+Meowth HP -3  abilitate 1->cooldown: 1  abilitate 2->cooldown: 1
+Eevee HP 8 abilitate 1->cooldown: 3  abilitate 2->cooldown: 1
+
+Eevee a castigat!
+name:Eevee hp:53 attack:null special_attack:8 defense:7 special_defense:7 abilities:[ Dmg:5 Stun:false Dodge:false Cd:3,  Dmg:3 Stun:true Dodge:false Cd:3] items:[Scut, Vesta, Vitamine]
+
+DUELUL 3 s-a terminat!
+
+
+Batalia suprema se da intre: Pikachu si Snorlax
+Se dueleaza pokemonii:
+name:Pikachu hp:46 attack:null special_attack:5 defense:3 special_defense:7 abilities:[ Dmg:6 Stun:false Dodge:false Cd:4,  Dmg:4 Stun:true Dodge:true Cd:5] items:[Pelerina, Sabiuta, Vesta]
+name:Snorlax hp:65 attack:9 special_attack:null defense:8 special_defense:5 abilities:[ Dmg:4 Stun:true Dodge:false Cd:5,  Dmg:0 Stun:false Dodge:true Cd:5] items:[Vitamine, Brad de Craciun]
+
+Pikachu vs Snorlax
+
+1. Pikachu atac special / Snorlax abilitate 1
+Pikachu HP 45 si este stuned  
+Snorlax HP 65 abilitate 1->cooldown: 5 
+
+2. Pikachu nimic / Snorlax atac normal
+Pikachu HP 36 
+Snorlax HP 65 abilitate 1->cooldown: 4 
+
+3. Pikachu abilitate 2 / Snorlax atac normal
+Pikachu HP 36 (abilitatea 2 are dodge),   abilitate 2->cooldown: 5
+Snorlax HP 61 si este stuned  abilitate 1->cooldown: 3 
+
+4. Pikachu atac special / Snorlax nimic
+Pikachu HP 36   abilitate 2->cooldown: 4
+Snorlax HP 61  abilitate 1->cooldown: 2 
+
+5. Pikachu atac special / Snorlax atac normal
+Pikachu HP 27  abilitate 2->cooldown: 3
+Snorlax HP 56 abilitate 1->cooldown: 1 
+
+6. Pikachu abilitate 1 / Snorlax abilitate 2
+Pikachu HP 27   abilitate 1->cooldown: 4  abilitate 2->cooldown: 2
+Snorlax HP 56  (abilitatea 2 are dodge),  abilitate 1->cooldown: 0  abilitate 2->cooldown: 5
+
+7. Pikachu atac special / Snorlax atac normal
+Pikachu HP 18 abilitate 1->cooldown: 3  abilitate 2->cooldown: 1
+Snorlax HP 51  abilitate 2->cooldown: 4
+
+8. Pikachu atac special / Snorlax abilitate 1
+Pikachu HP 14 si este stuned  abilitate 1->cooldown: 2  abilitate 2->cooldown: 0
+Snorlax HP 46 abilitate 1->cooldown: 5  abilitate 2->cooldown: 3
+
+9. Pikachu nimic / Snorlax atac normal
+Pikachu HP 14 abilitate 1->cooldown: 1 
+Snorlax HP 46  abilitate 1->cooldown: 4  abilitate 2->cooldown: 2
+
+10. Pikachu abilitate 2 / Snorlax atac normal
+Pikachu HP 14 (abilitatea 2 are dodge),  abilitate 1->cooldown: 0  abilitate 2->cooldown: 5
+Snorlax HP 42 si este stuned  abilitate 1->cooldown: 3  abilitate 2->cooldown: 1
+
+11. Pikachu abilitate 1 / Snorlax nimic
+Pikachu HP 14 abilitate 1->cooldown: 4  abilitate 2->cooldown: 4
+Snorlax HP 36  abilitate 1->cooldown: 2  abilitate 2->cooldown: 0
+
+12. Pikachu atac special / Snorlax atac normal
+Pikachu HP 5 abilitate 1->cooldown: 3  abilitate 2->cooldown: 3
+Snorlax HP 31 abilitate 1->cooldown: 1 
+
+13. Pikachu atac special / Snorlax atac normal
+Pikachu HP -4 abilitate 1->cooldown: 2  abilitate 2->cooldown: 2
+Snorlax HP 26 abilitate 1->cooldown: 0 
+
+Snorlax a castigat!
+name:Snorlax hp:66 attack:10 special_attack:null defense:9 special_defense:6 abilities:[ Dmg:4 Stun:true Dodge:false Cd:5,  Dmg:0 Stun:false Dodge:true Cd:5] items:[Vitamine, Brad de Craciun]
+

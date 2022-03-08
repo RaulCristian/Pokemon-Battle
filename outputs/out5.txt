@@ -1,0 +1,776 @@
+Au intrat in arena antrenorii: Raluca 21 si Razvan 24
+DUEL 1
+Se dueleaza pokemonii:
+name:Vulpix hp:46 attack:8 special_attack:null defense:2 special_defense:7 abilities:[ Dmg:8 Stun:true Dodge:false Cd:6,  Dmg:2 Stun:false Dodge:true Cd:7] items:[Pelerina, Sabiuta, Vesta]
+name:Charmander hp:62 attack:6 special_attack:null defense:5 special_defense:4 abilities:[ Dmg:4 Stun:true Dodge:false Cd:4,  Dmg:7 Stun:false Dodge:false Cd:6] items:[Scut, Vesta, Vitamine]
+
+Vulpix vs Neutrel2
+
+1. Vulpix abilitate 1 / Neutrel2 atac normal
+Vulpix HP 44 abilitate 1 cooldown 6
+Neutrel2 HP 13 si este stuned
+
+2. Vulpix atac normal / Neutrel2 nimic
+Vulpix HP 44 abilitate 1 cooldown 5 
+Neutrel2 HP 5
+
+3. Vulpix abilitate 2 / Neutrel2 atac normal
+Vulpix HP 44 (abilitatea 2 are dodge),  abilitate 1 cooldown 4 abilitate 2 cooldown 7
+Neutrel2 HP 3
+
+4. Vulpix atac normal / Neutrel2 atac normal
+Vulpix HP 40 abilitate 1 cooldown 3  abilitate 2 cooldown 6
+Neutrel2 HP -5
+Vulpix a castigat!
+name:Vulpix hp:47 attack:9 special_attack:null defense:3 special_defense:8 abilities:[ Dmg:8 Stun:true Dodge:false Cd:6,  Dmg:2 Stun:false Dodge:true Cd:7] items:[Pelerina, Sabiuta, Vesta]
+
+Charmander vs Neutrel2
+
+1. Charmander atac normal / Neutrel2 atac normal
+Charmander HP 63 
+Neutrel2 HP 15
+
+2. Charmander atac normal / Neutrel2 atac normal
+Charmander HP 59 
+Neutrel2 HP 9
+
+3. Charmander atac normal / Neutrel2 atac normal
+Charmander HP 55 
+Neutrel2 HP 3
+
+4. Charmander atac normal / Neutrel2 atac normal
+Charmander HP 51 
+Neutrel2 HP -3
+Charmander a castigat!
+name:Charmander hp:63 attack:7 special_attack:null defense:6 special_defense:5 abilities:[ Dmg:4 Stun:true Dodge:false Cd:4,  Dmg:7 Stun:false Dodge:false Cd:6] items:[Scut, Vesta, Vitamine]
+
+Vulpix vs Neutrel2
+
+1. Vulpix abilitate 1 / Neutrel2 atac normal
+Vulpix HP 46 abilitate 1 cooldown 6
+Neutrel2 HP 13 si este stuned
+
+2. Vulpix abilitate 2 / Neutrel2 nimic
+Vulpix HP 46 (abilitatea 2 are dodge),  abilitate 1 cooldown 5 abilitate 2 cooldown 7
+Neutrel2 HP 11
+
+3. Vulpix atac normal / Neutrel2 atac normal
+Vulpix HP 42 abilitate 1 cooldown 4  abilitate 2 cooldown 6
+Neutrel2 HP 2
+
+4. Vulpix atac normal / Neutrel2 atac normal
+Vulpix HP 38 abilitate 1 cooldown 3  abilitate 2 cooldown 5
+Neutrel2 HP -7
+Vulpix a castigat!
+name:Vulpix hp:48 attack:10 special_attack:null defense:4 special_defense:9 abilities:[ Dmg:8 Stun:true Dodge:false Cd:6,  Dmg:2 Stun:false Dodge:true Cd:7] items:[Pelerina, Sabiuta, Vesta]
+
+Charmander vs Neutrel2
+
+1. Charmander atac normal / Neutrel2 atac normal
+Charmander HP 65 
+Neutrel2 HP 14
+
+2. Charmander abilitate 1 / Neutrel2 atac normal
+Charmander HP 61 abilitate 1 cooldown 4
+Neutrel2 HP 10 si este stuned
+
+3. Charmander atac normal / Neutrel2 nimic
+Charmander HP 61 abilitate 1 cooldown 3 
+Neutrel2 HP 3
+
+4. Charmander abilitate 2 / Neutrel2 atac normal
+Charmander HP 57 abilitate 1 cooldown 2 abilitate 2 cooldown 6
+Neutrel2 HP -4
+Charmander a castigat!
+name:Charmander hp:64 attack:8 special_attack:null defense:7 special_defense:6 abilities:[ Dmg:4 Stun:true Dodge:false Cd:4,  Dmg:7 Stun:false Dodge:false Cd:6] items:[Scut, Vesta, Vitamine]
+
+Vulpix vs Neutrel1
+
+1. Vulpix abilitate 1 / Neutrel1 atac normal
+Vulpix HP 49 abilitate 1 cooldown 6
+Neutrel1 HP 3 si este stuned
+
+2. Vulpix atac normal / Neutrel1 nimic
+Vulpix HP 49 abilitate 1 cooldown 5 
+Neutrel1 HP -7
+Vulpix a castigat!
+name:Vulpix hp:49 attack:11 special_attack:null defense:5 special_defense:10 abilities:[ Dmg:8 Stun:true Dodge:false Cd:6,  Dmg:2 Stun:false Dodge:true Cd:7] items:[Pelerina, Sabiuta, Vesta]
+
+Charmander vs Neutrel1
+
+1. Charmander atac normal / Neutrel1 atac normal
+Charmander HP 68 
+Neutrel1 HP 3
+
+2. Charmander abilitate 1 / Neutrel1 atac normal
+Charmander HP 65 abilitate 1 cooldown 4
+Neutrel1 HP -1 si este stuned
+Charmander a castigat!
+name:Charmander hp:65 attack:9 special_attack:null defense:8 special_defense:7 abilities:[ Dmg:4 Stun:true Dodge:false Cd:4,  Dmg:7 Stun:false Dodge:false Cd:6] items:[Scut, Vesta, Vitamine]
+
+Vulpix vs Neutrel2
+
+1. Vulpix abilitate 2 / Neutrel2 atac normal
+Vulpix HP 54 (abilitatea 2 are dodge),  abilitate 2 cooldown 7
+Neutrel2 HP 19
+
+2. Vulpix atac normal / Neutrel2 atac normal
+Vulpix HP 50  abilitate 2 cooldown 6
+Neutrel2 HP 8
+
+3. Vulpix abilitate 1 / Neutrel2 atac normal
+Vulpix HP 46 abilitate 1 cooldown 6 abilitate 2 cooldown 5
+Neutrel2 HP 0 si este stuned
+Vulpix a castigat!
+name:Vulpix hp:50 attack:12 special_attack:null defense:6 special_defense:11 abilities:[ Dmg:8 Stun:true Dodge:false Cd:6,  Dmg:2 Stun:false Dodge:true Cd:7] items:[Pelerina, Sabiuta, Vesta]
+
+Charmander vs Neutrel2
+
+1. Charmander abilitate 1 / Neutrel2 atac normal
+Charmander HP 69 abilitate 1 cooldown 4
+Neutrel2 HP 17 si este stuned
+
+2. Charmander atac normal / Neutrel2 nimic
+Charmander HP 69 abilitate 1 cooldown 3 
+Neutrel2 HP 8
+
+3. Charmander abilitate 2 / Neutrel2 atac normal
+Charmander HP 65 abilitate 1 cooldown 2 abilitate 2 cooldown 6
+Neutrel2 HP 1
+
+4. Charmander atac normal / Neutrel2 atac normal
+Charmander HP 61 abilitate 1 cooldown 1  abilitate 2 cooldown 5
+Neutrel2 HP -8
+Charmander a castigat!
+name:Charmander hp:66 attack:10 special_attack:null defense:9 special_defense:8 abilities:[ Dmg:4 Stun:true Dodge:false Cd:4,  Dmg:7 Stun:false Dodge:false Cd:6] items:[Scut, Vesta, Vitamine]
+
+Vulpix vs Neutrel1
+
+1. Vulpix atac normal / Neutrel1 atac normal
+Vulpix HP 53 
+Neutrel1 HP -1
+Vulpix a castigat!
+name:Vulpix hp:51 attack:13 special_attack:null defense:7 special_defense:12 abilities:[ Dmg:8 Stun:true Dodge:false Cd:6,  Dmg:2 Stun:false Dodge:true Cd:7] items:[Pelerina, Sabiuta, Vesta]
+
+Charmander vs Neutrel1
+
+1. Charmander atac normal / Neutrel1 atac normal
+Charmander HP 72 
+Neutrel1 HP 1
+
+2. Charmander atac normal / Neutrel1 atac normal
+Charmander HP 69 
+Neutrel1 HP -9
+Charmander a castigat!
+name:Charmander hp:67 attack:11 special_attack:null defense:10 special_defense:9 abilities:[ Dmg:4 Stun:true Dodge:false Cd:4,  Dmg:7 Stun:false Dodge:false Cd:6] items:[Scut, Vesta, Vitamine]
+
+Vulpix vs Charmander
+
+1. Vulpix abilitate 1 / Charmander abilitate 2
+Vulpix HP 51   abilitate 1->cooldown: 6 
+Charmander HP 69 si este stuned    abilitate 2->cooldown: 6
+
+2. Vulpix atac normal / Charmander nimic
+Vulpix HP 51  abilitate 1->cooldown: 5 
+Charmander HP 56  abilitate 2->cooldown: 5
+
+3. Vulpix atac normal / Charmander abilitate 1
+Vulpix HP 47 si este stuned  abilitate 1->cooldown: 4 
+Charmander HP 43 abilitate 1->cooldown: 4  abilitate 2->cooldown: 4
+
+4. Vulpix nimic / Charmander atac normal
+Vulpix HP 47 abilitate 1->cooldown: 3 
+Charmander HP 43  abilitate 1->cooldown: 3  abilitate 2->cooldown: 3
+
+5. Vulpix abilitate 2 / Charmander atac normal
+Vulpix HP 47 (abilitatea 2 are dodge),  abilitate 1->cooldown: 2  abilitate 2->cooldown: 7
+Charmander HP 41  abilitate 1->cooldown: 2  abilitate 2->cooldown: 2
+
+6. Vulpix atac normal / Charmander atac normal
+Vulpix HP 36 abilitate 1->cooldown: 1  abilitate 2->cooldown: 6
+Charmander HP 28 abilitate 1->cooldown: 1  abilitate 2->cooldown: 1
+
+7. Vulpix atac normal / Charmander atac normal
+Vulpix HP 25 abilitate 1->cooldown: 0  abilitate 2->cooldown: 5
+Charmander HP 15 abilitate 1->cooldown: 0  abilitate 2->cooldown: 0
+
+8. Vulpix abilitate 1 / Charmander abilitate 2
+Vulpix HP 18   abilitate 1->cooldown: 6  abilitate 2->cooldown: 4
+Charmander HP 7 si este stuned    abilitate 2->cooldown: 6
+
+9. Vulpix atac normal / Charmander nimic
+Vulpix HP 18  abilitate 1->cooldown: 5  abilitate 2->cooldown: 3
+Charmander HP -6  abilitate 2->cooldown: 5
+
+Vulpix a castigat!
+name:Vulpix hp:52 attack:14 special_attack:null defense:8 special_defense:13 abilities:[ Dmg:8 Stun:true Dodge:false Cd:6,  Dmg:2 Stun:false Dodge:true Cd:7] items:[Pelerina, Sabiuta, Vesta]
+
+DUELUL 1 s-a terminat!
+
+DUEL 2
+Se dueleaza pokemonii:
+name:Jigglypuff hp:34 attack:4 special_attack:null defense:4 special_defense:5 abilities:[ Dmg:4 Stun:true Dodge:false Cd:4,  Dmg:3 Stun:true Dodge:false Cd:4] items:[Scut, Bagheta Magica]
+name:Squirtle hp:70 attack:null special_attack:3 defense:5 special_defense:8 abilities:[ Dmg:4 Stun:false Dodge:false Cd:3,  Dmg:2 Stun:true Dodge:false Cd:2] items:[Pelerina, Sabiuta, Vesta]
+
+Jigglypuff vs Neutrel2
+
+1. Jigglypuff abilitate 1 / Neutrel2 atac normal
+Jigglypuff HP 34 abilitate 1 cooldown 4
+Neutrel2 HP 17 si este stuned
+
+2. Jigglypuff abilitate 2 / Neutrel2 nimic
+Jigglypuff HP 34 abilitate 1 cooldown 3 abilitate 2 cooldown 4
+Neutrel2 HP 14 si este stuned
+
+3. Jigglypuff atac normal / Neutrel2 nimic
+Jigglypuff HP 34 abilitate 1 cooldown 2  abilitate 2 cooldown 3
+Neutrel2 HP 10
+
+4. Jigglypuff atac normal / Neutrel2 atac normal
+Jigglypuff HP 30 abilitate 1 cooldown 1  abilitate 2 cooldown 2
+Neutrel2 HP 6
+
+5. Jigglypuff atac normal / Neutrel2 atac normal
+Jigglypuff HP 26 abilitate 1 cooldown 0  abilitate 2 cooldown 1
+Neutrel2 HP 2
+
+6. Jigglypuff abilitate 1 / Neutrel2 atac normal
+Jigglypuff HP 22 abilitate 1 cooldown 4 abilitate 2 cooldown 0
+Neutrel2 HP -2 si este stuned
+Jigglypuff a castigat!
+name:Jigglypuff hp:35 attack:5 special_attack:null defense:5 special_defense:6 abilities:[ Dmg:4 Stun:true Dodge:false Cd:4,  Dmg:3 Stun:true Dodge:false Cd:4] items:[Scut, Bagheta Magica]
+
+Squirtle vs Neutrel2
+
+1. Squirtle abilitate 2 / Neutrel2 atac normal
+Squirtle HP 71 abilitate 2 cooldown 2
+Neutrel2 HP 19 si este stuned
+
+2. Squirtle abilitate 1 / Neutrel2 nimic
+Squirtle HP 71 abilitate 1 cooldown 3 abilitate 2 cooldown 1
+Neutrel2 HP 15
+
+3. Squirtle atac special / Neutrel2 atac normal
+Squirtle HP 67 abilitate 1 cooldown 2  abilitate 2 cooldown 0
+Neutrel2 HP 12
+
+4. Squirtle abilitate 2 / Neutrel2 atac normal
+Squirtle HP 63 abilitate 1 cooldown 1 abilitate 2 cooldown 2
+Neutrel2 HP 10 si este stuned
+
+5. Squirtle atac special / Neutrel2 nimic
+Squirtle HP 63 abilitate 1 cooldown 0  abilitate 2 cooldown 1
+Neutrel2 HP 7
+
+6. Squirtle abilitate 1 / Neutrel2 atac normal
+Squirtle HP 59 abilitate 1 cooldown 3 abilitate 2 cooldown 0
+Neutrel2 HP 3
+
+7. Squirtle atac special / Neutrel2 atac normal
+Squirtle HP 55 abilitate 1 cooldown 2 
+Neutrel2 HP 0
+Squirtle a castigat!
+name:Squirtle hp:71 attack:null special_attack:4 defense:6 special_defense:9 abilities:[ Dmg:4 Stun:false Dodge:false Cd:3,  Dmg:2 Stun:true Dodge:false Cd:2] items:[Pelerina, Sabiuta, Vesta]
+
+Jigglypuff vs Neutrel2
+
+1. Jigglypuff abilitate 1 / Neutrel2 atac normal
+Jigglypuff HP 36 abilitate 1 cooldown 4
+Neutrel2 HP 17 si este stuned
+
+2. Jigglypuff atac normal / Neutrel2 nimic
+Jigglypuff HP 36 abilitate 1 cooldown 3 
+Neutrel2 HP 12
+
+3. Jigglypuff abilitate 2 / Neutrel2 atac normal
+Jigglypuff HP 32 abilitate 1 cooldown 2 abilitate 2 cooldown 4
+Neutrel2 HP 9 si este stuned
+
+4. Jigglypuff atac normal / Neutrel2 nimic
+Jigglypuff HP 32 abilitate 1 cooldown 1  abilitate 2 cooldown 3
+Neutrel2 HP 4
+
+5. Jigglypuff atac normal / Neutrel2 atac normal
+Jigglypuff HP 28 abilitate 1 cooldown 0  abilitate 2 cooldown 2
+Neutrel2 HP -1
+Jigglypuff a castigat!
+name:Jigglypuff hp:36 attack:6 special_attack:null defense:6 special_defense:7 abilities:[ Dmg:4 Stun:true Dodge:false Cd:4,  Dmg:3 Stun:true Dodge:false Cd:4] items:[Scut, Bagheta Magica]
+
+Squirtle vs Neutrel2
+
+1. Squirtle abilitate 2 / Neutrel2 atac normal
+Squirtle HP 73 abilitate 2 cooldown 2
+Neutrel2 HP 19 si este stuned
+
+2. Squirtle atac special / Neutrel2 nimic
+Squirtle HP 73  abilitate 2 cooldown 1
+Neutrel2 HP 15
+
+3. Squirtle abilitate 1 / Neutrel2 atac normal
+Squirtle HP 69 abilitate 1 cooldown 3 abilitate 2 cooldown 0
+Neutrel2 HP 11
+
+4. Squirtle abilitate 2 / Neutrel2 atac normal
+Squirtle HP 65 abilitate 1 cooldown 2 abilitate 2 cooldown 2
+Neutrel2 HP 9 si este stuned
+
+5. Squirtle atac special / Neutrel2 nimic
+Squirtle HP 65 abilitate 1 cooldown 1  abilitate 2 cooldown 1
+Neutrel2 HP 5
+
+6. Squirtle atac special / Neutrel2 atac normal
+Squirtle HP 61 abilitate 1 cooldown 0  abilitate 2 cooldown 0
+Neutrel2 HP 1
+
+7. Squirtle abilitate 2 / Neutrel2 atac normal
+Squirtle HP 57 abilitate 2 cooldown 2
+Neutrel2 HP -1 si este stuned
+Squirtle a castigat!
+name:Squirtle hp:72 attack:null special_attack:5 defense:7 special_defense:10 abilities:[ Dmg:4 Stun:false Dodge:false Cd:3,  Dmg:2 Stun:true Dodge:false Cd:2] items:[Pelerina, Sabiuta, Vesta]
+
+Jigglypuff vs Neutrel1
+
+1. Jigglypuff abilitate 1 / Neutrel1 atac normal
+Jigglypuff HP 39 abilitate 1 cooldown 4
+Neutrel1 HP 7 si este stuned
+
+2. Jigglypuff abilitate 2 / Neutrel1 nimic
+Jigglypuff HP 39 abilitate 1 cooldown 3 abilitate 2 cooldown 4
+Neutrel1 HP 4 si este stuned
+
+3. Jigglypuff atac normal / Neutrel1 nimic
+Jigglypuff HP 39 abilitate 1 cooldown 2  abilitate 2 cooldown 3
+Neutrel1 HP -2
+Jigglypuff a castigat!
+name:Jigglypuff hp:37 attack:7 special_attack:null defense:7 special_defense:8 abilities:[ Dmg:4 Stun:true Dodge:false Cd:4,  Dmg:3 Stun:true Dodge:false Cd:4] items:[Scut, Bagheta Magica]
+
+Squirtle vs Neutrel1
+
+1. Squirtle abilitate 1 / Neutrel1 atac normal
+Squirtle HP 76 abilitate 1 cooldown 3
+Neutrel1 HP 7
+
+2. Squirtle atac special / Neutrel1 atac normal
+Squirtle HP 73 abilitate 1 cooldown 2 
+Neutrel1 HP 2
+
+3. Squirtle atac special / Neutrel1 atac normal
+Squirtle HP 70 abilitate 1 cooldown 1 
+Neutrel1 HP -3
+Squirtle a castigat!
+name:Squirtle hp:73 attack:null special_attack:6 defense:8 special_defense:11 abilities:[ Dmg:4 Stun:false Dodge:false Cd:3,  Dmg:2 Stun:true Dodge:false Cd:2] items:[Pelerina, Sabiuta, Vesta]
+
+Jigglypuff vs Neutrel1
+
+1. Jigglypuff atac normal / Neutrel1 atac normal
+Jigglypuff HP 41 
+Neutrel1 HP 4
+
+2. Jigglypuff abilitate 2 / Neutrel1 atac normal
+Jigglypuff HP 38 abilitate 2 cooldown 4
+Neutrel1 HP 1 si este stuned
+
+3. Jigglypuff atac normal / Neutrel1 nimic
+Jigglypuff HP 38  abilitate 2 cooldown 3
+Neutrel1 HP -6
+Jigglypuff a castigat!
+name:Jigglypuff hp:38 attack:8 special_attack:null defense:8 special_defense:9 abilities:[ Dmg:4 Stun:true Dodge:false Cd:4,  Dmg:3 Stun:true Dodge:false Cd:4] items:[Scut, Bagheta Magica]
+
+Squirtle vs Neutrel1
+
+1. Squirtle abilitate 2 / Neutrel1 atac normal
+Squirtle HP 78 abilitate 2 cooldown 2
+Neutrel1 HP 9 si este stuned
+
+2. Squirtle atac special / Neutrel1 nimic
+Squirtle HP 78  abilitate 2 cooldown 1
+Neutrel1 HP 3
+
+3. Squirtle abilitate 1 / Neutrel1 atac normal
+Squirtle HP 75 abilitate 1 cooldown 3 abilitate 2 cooldown 0
+Neutrel1 HP -1
+Squirtle a castigat!
+name:Squirtle hp:74 attack:null special_attack:7 defense:9 special_defense:12 abilities:[ Dmg:4 Stun:false Dodge:false Cd:3,  Dmg:2 Stun:true Dodge:false Cd:2] items:[Pelerina, Sabiuta, Vesta]
+
+Jigglypuff vs Neutrel1
+
+1. Jigglypuff abilitate 1 / Neutrel1 atac normal
+Jigglypuff HP 43 abilitate 1 cooldown 4
+Neutrel1 HP 7 si este stuned
+
+2. Jigglypuff atac normal / Neutrel1 nimic
+Jigglypuff HP 43 abilitate 1 cooldown 3 
+Neutrel1 HP -1
+Jigglypuff a castigat!
+name:Jigglypuff hp:39 attack:9 special_attack:null defense:9 special_defense:10 abilities:[ Dmg:4 Stun:true Dodge:false Cd:4,  Dmg:3 Stun:true Dodge:false Cd:4] items:[Scut, Bagheta Magica]
+
+Squirtle vs Neutrel1
+
+1. Squirtle abilitate 2 / Neutrel1 atac normal
+Squirtle HP 80 abilitate 2 cooldown 2
+Neutrel1 HP 9 si este stuned
+
+2. Squirtle atac special / Neutrel1 nimic
+Squirtle HP 80  abilitate 2 cooldown 1
+Neutrel1 HP 2
+
+3. Squirtle atac special / Neutrel1 atac normal
+Squirtle HP 77  abilitate 2 cooldown 0
+Neutrel1 HP -5
+Squirtle a castigat!
+name:Squirtle hp:75 attack:null special_attack:8 defense:10 special_defense:13 abilities:[ Dmg:4 Stun:false Dodge:false Cd:3,  Dmg:2 Stun:true Dodge:false Cd:2] items:[Pelerina, Sabiuta, Vesta]
+
+Jigglypuff vs Neutrel1
+
+1. Jigglypuff abilitate 2 / Neutrel1 atac normal
+Jigglypuff HP 45 abilitate 2 cooldown 4
+Neutrel1 HP 8 si este stuned
+
+2. Jigglypuff abilitate 1 / Neutrel1 nimic
+Jigglypuff HP 45 abilitate 1 cooldown 4 abilitate 2 cooldown 3
+Neutrel1 HP 4 si este stuned
+
+3. Jigglypuff atac normal / Neutrel1 nimic
+Jigglypuff HP 45 abilitate 1 cooldown 3  abilitate 2 cooldown 2
+Neutrel1 HP -5
+Jigglypuff a castigat!
+name:Jigglypuff hp:40 attack:10 special_attack:null defense:10 special_defense:11 abilities:[ Dmg:4 Stun:true Dodge:false Cd:4,  Dmg:3 Stun:true Dodge:false Cd:4] items:[Scut, Bagheta Magica]
+
+Squirtle vs Neutrel1
+
+1. Squirtle abilitate 2 / Neutrel1 atac normal
+Squirtle HP 82 abilitate 2 cooldown 2
+Neutrel1 HP 9 si este stuned
+
+2. Squirtle atac special / Neutrel1 nimic
+Squirtle HP 82  abilitate 2 cooldown 1
+Neutrel1 HP 1
+
+3. Squirtle atac special / Neutrel1 atac normal
+Squirtle HP 79  abilitate 2 cooldown 0
+Neutrel1 HP -7
+Squirtle a castigat!
+name:Squirtle hp:76 attack:null special_attack:9 defense:11 special_defense:14 abilities:[ Dmg:4 Stun:false Dodge:false Cd:3,  Dmg:2 Stun:true Dodge:false Cd:2] items:[Pelerina, Sabiuta, Vesta]
+
+Jigglypuff vs Neutrel2
+
+1. Jigglypuff atac normal / Neutrel2 atac normal
+Jigglypuff HP 46 
+Neutrel2 HP 11
+
+2. Jigglypuff abilitate 1 / Neutrel2 atac normal
+Jigglypuff HP 42 abilitate 1 cooldown 4
+Neutrel2 HP 7 si este stuned
+
+3. Jigglypuff atac normal / Neutrel2 nimic
+Jigglypuff HP 42 abilitate 1 cooldown 3 
+Neutrel2 HP -3
+Jigglypuff a castigat!
+name:Jigglypuff hp:41 attack:11 special_attack:null defense:11 special_defense:12 abilities:[ Dmg:4 Stun:true Dodge:false Cd:4,  Dmg:3 Stun:true Dodge:false Cd:4] items:[Scut, Bagheta Magica]
+
+Squirtle vs Neutrel2
+
+1. Squirtle abilitate 1 / Neutrel2 atac normal
+Squirtle HP 83 abilitate 1 cooldown 3
+Neutrel2 HP 17
+
+2. Squirtle abilitate 2 / Neutrel2 atac normal
+Squirtle HP 79 abilitate 1 cooldown 2 abilitate 2 cooldown 2
+Neutrel2 HP 15 si este stuned
+
+3. Squirtle atac special / Neutrel2 nimic
+Squirtle HP 79 abilitate 1 cooldown 1  abilitate 2 cooldown 1
+Neutrel2 HP 6
+
+4. Squirtle atac special / Neutrel2 atac normal
+Squirtle HP 75 abilitate 1 cooldown 0  abilitate 2 cooldown 0
+Neutrel2 HP -3
+Squirtle a castigat!
+name:Squirtle hp:77 attack:null special_attack:10 defense:12 special_defense:15 abilities:[ Dmg:4 Stun:false Dodge:false Cd:3,  Dmg:2 Stun:true Dodge:false Cd:2] items:[Pelerina, Sabiuta, Vesta]
+
+Jigglypuff vs Neutrel2
+
+1. Jigglypuff abilitate 1 / Neutrel2 atac normal
+Jigglypuff HP 48 abilitate 1 cooldown 4
+Neutrel2 HP 17 si este stuned
+
+2. Jigglypuff atac normal / Neutrel2 nimic
+Jigglypuff HP 48 abilitate 1 cooldown 3 
+Neutrel2 HP 6
+
+3. Jigglypuff atac normal / Neutrel2 atac normal
+Jigglypuff HP 44 abilitate 1 cooldown 2 
+Neutrel2 HP -5
+Jigglypuff a castigat!
+name:Jigglypuff hp:42 attack:12 special_attack:null defense:12 special_defense:13 abilities:[ Dmg:4 Stun:true Dodge:false Cd:4,  Dmg:3 Stun:true Dodge:false Cd:4] items:[Scut, Bagheta Magica]
+
+Squirtle vs Neutrel2
+
+1. Squirtle abilitate 1 / Neutrel2 atac normal
+Squirtle HP 85 abilitate 1 cooldown 3
+Neutrel2 HP 17
+
+2. Squirtle abilitate 2 / Neutrel2 atac normal
+Squirtle HP 81 abilitate 1 cooldown 2 abilitate 2 cooldown 2
+Neutrel2 HP 15 si este stuned
+
+3. Squirtle atac special / Neutrel2 nimic
+Squirtle HP 81 abilitate 1 cooldown 1  abilitate 2 cooldown 1
+Neutrel2 HP 5
+
+4. Squirtle atac special / Neutrel2 atac normal
+Squirtle HP 77 abilitate 1 cooldown 0  abilitate 2 cooldown 0
+Neutrel2 HP -5
+Squirtle a castigat!
+name:Squirtle hp:78 attack:null special_attack:11 defense:13 special_defense:16 abilities:[ Dmg:4 Stun:false Dodge:false Cd:3,  Dmg:2 Stun:true Dodge:false Cd:2] items:[Pelerina, Sabiuta, Vesta]
+
+Jigglypuff vs Neutrel2
+
+1. Jigglypuff abilitate 2 / Neutrel2 atac normal
+Jigglypuff HP 50 abilitate 2 cooldown 4
+Neutrel2 HP 18 si este stuned
+
+2. Jigglypuff abilitate 1 / Neutrel2 nimic
+Jigglypuff HP 50 abilitate 1 cooldown 4 abilitate 2 cooldown 3
+Neutrel2 HP 14 si este stuned
+
+3. Jigglypuff atac normal / Neutrel2 nimic
+Jigglypuff HP 50 abilitate 1 cooldown 3  abilitate 2 cooldown 2
+Neutrel2 HP 2
+
+4. Jigglypuff atac normal / Neutrel2 atac normal
+Jigglypuff HP 46 abilitate 1 cooldown 2  abilitate 2 cooldown 1
+Neutrel2 HP -10
+Jigglypuff a castigat!
+name:Jigglypuff hp:43 attack:13 special_attack:null defense:13 special_defense:14 abilities:[ Dmg:4 Stun:true Dodge:false Cd:4,  Dmg:3 Stun:true Dodge:false Cd:4] items:[Scut, Bagheta Magica]
+
+Squirtle vs Neutrel2
+
+1. Squirtle atac special / Neutrel2 atac normal
+Squirtle HP 87 
+Neutrel2 HP 10
+
+2. Squirtle abilitate 1 / Neutrel2 atac normal
+Squirtle HP 83 abilitate 1 cooldown 3
+Neutrel2 HP 6
+
+3. Squirtle atac special / Neutrel2 atac normal
+Squirtle HP 79 abilitate 1 cooldown 2 
+Neutrel2 HP -5
+Squirtle a castigat!
+name:Squirtle hp:79 attack:null special_attack:12 defense:14 special_defense:17 abilities:[ Dmg:4 Stun:false Dodge:false Cd:3,  Dmg:2 Stun:true Dodge:false Cd:2] items:[Pelerina, Sabiuta, Vesta]
+
+Jigglypuff vs Squirtle
+
+1. Jigglypuff atac normal / Squirtle abilitate 2
+Jigglypuff HP 55 si este stuned  
+Squirtle HP 80   abilitate 2->cooldown: 2
+
+2. Jigglypuff nimic / Squirtle abilitate 1
+Jigglypuff HP 51   
+Squirtle HP 80   abilitate 1->cooldown: 3  abilitate 2->cooldown: 1
+
+3. Jigglypuff abilitate 2 / Squirtle atac special
+Jigglypuff HP 39  abilitate 2->cooldown: 4
+Squirtle HP 77 si este stuned  abilitate 1->cooldown: 2  abilitate 2->cooldown: 0
+
+4. Jigglypuff atac normal / Squirtle nimic
+Jigglypuff HP 39   abilitate 2->cooldown: 3
+Squirtle HP 64  abilitate 1->cooldown: 1 
+
+5. Jigglypuff atac normal / Squirtle atac special
+Jigglypuff HP 27  abilitate 2->cooldown: 2
+Squirtle HP 51 abilitate 1->cooldown: 0 
+
+6. Jigglypuff atac normal / Squirtle atac special
+Jigglypuff HP 15  abilitate 2->cooldown: 1
+Squirtle HP 38 
+
+7. Jigglypuff atac normal / Squirtle atac special
+Jigglypuff HP 3  abilitate 2->cooldown: 0
+Squirtle HP 25 
+
+8. Jigglypuff atac normal / Squirtle abilitate 2
+Jigglypuff HP 1 si este stuned  
+Squirtle HP 12   abilitate 2->cooldown: 2
+
+9. Jigglypuff nimic / Squirtle abilitate 1
+Jigglypuff HP -3   
+Squirtle HP 12   abilitate 1->cooldown: 3  abilitate 2->cooldown: 1
+
+Squirtle a castigat!
+name:Squirtle hp:80 attack:null special_attack:13 defense:15 special_defense:18 abilities:[ Dmg:4 Stun:false Dodge:false Cd:3,  Dmg:2 Stun:true Dodge:false Cd:2] items:[Pelerina, Sabiuta, Vesta]
+
+DUELUL 2 s-a terminat!
+
+DUEL 3
+Se dueleaza pokemonii:
+name:Bulbasaur hp:44 attack:null special_attack:7 defense:3 special_defense:1 abilities:[ Dmg:6 Stun:false Dodge:false Cd:4,  Dmg:5 Stun:false Dodge:false Cd:3] items:[Brad de Craciun, Vitamine]
+name:Eevee hp:41 attack:null special_attack:6 defense:3 special_defense:3 abilities:[ Dmg:5 Stun:false Dodge:false Cd:3,  Dmg:3 Stun:true Dodge:false Cd:3] items:[Vitamine]
+
+Bulbasaur vs Neutrel1
+
+1. Bulbasaur atac special / Neutrel1 atac normal
+Bulbasaur HP 44 
+Neutrel1 HP 4
+
+2. Bulbasaur abilitate 2 / Neutrel1 atac normal
+Bulbasaur HP 41 abilitate 2 cooldown 3
+Neutrel1 HP -1
+Bulbasaur a castigat!
+name:Bulbasaur hp:45 attack:null special_attack:8 defense:4 special_defense:2 abilities:[ Dmg:6 Stun:false Dodge:false Cd:4,  Dmg:5 Stun:false Dodge:false Cd:3] items:[Brad de Craciun, Vitamine]
+
+Eevee vs Neutrel1
+
+1. Eevee abilitate 1 / Neutrel1 atac normal
+Eevee HP 41 abilitate 1 cooldown 3
+Neutrel1 HP 6
+
+2. Eevee atac special / Neutrel1 atac normal
+Eevee HP 38 abilitate 1 cooldown 2 
+Neutrel1 HP 0
+Eevee a castigat!
+name:Eevee hp:42 attack:null special_attack:7 defense:4 special_defense:4 abilities:[ Dmg:5 Stun:false Dodge:false Cd:3,  Dmg:3 Stun:true Dodge:false Cd:3] items:[Vitamine]
+
+Bulbasaur vs Neutrel1
+
+1. Bulbasaur abilitate 1 / Neutrel1 atac normal
+Bulbasaur HP 46 abilitate 1 cooldown 4
+Neutrel1 HP 5
+
+2. Bulbasaur abilitate 2 / Neutrel1 atac normal
+Bulbasaur HP 43 abilitate 1 cooldown 3 abilitate 2 cooldown 3
+Neutrel1 HP 0
+Bulbasaur a castigat!
+name:Bulbasaur hp:46 attack:null special_attack:9 defense:5 special_defense:3 abilities:[ Dmg:6 Stun:false Dodge:false Cd:4,  Dmg:5 Stun:false Dodge:false Cd:3] items:[Brad de Craciun, Vitamine]
+
+Eevee vs Neutrel1
+
+1. Eevee abilitate 1 / Neutrel1 atac normal
+Eevee HP 43 abilitate 1 cooldown 3
+Neutrel1 HP 6
+
+2. Eevee atac special / Neutrel1 atac normal
+Eevee HP 40 abilitate 1 cooldown 2 
+Neutrel1 HP -1
+Eevee a castigat!
+name:Eevee hp:43 attack:null special_attack:8 defense:5 special_defense:5 abilities:[ Dmg:5 Stun:false Dodge:false Cd:3,  Dmg:3 Stun:true Dodge:false Cd:3] items:[Vitamine]
+
+Bulbasaur vs Eevee
+
+1. Bulbasaur abilitate 2 / Eevee atac special
+Bulbasaur HP 41  abilitate 2->cooldown: 3
+Eevee HP 43  
+
+2. Bulbasaur abilitate 1 / Eevee abilitate 1
+Bulbasaur HP 36   abilitate 1->cooldown: 4  abilitate 2->cooldown: 2
+Eevee HP 37   abilitate 1->cooldown: 3 
+
+3. Bulbasaur atac special / Eevee atac special
+Bulbasaur HP 28 abilitate 1->cooldown: 3  abilitate 2->cooldown: 1
+Eevee HP 28 abilitate 1->cooldown: 2 
+
+4. Bulbasaur atac special / Eevee abilitate 2
+Bulbasaur HP 25 si este stuned  abilitate 1->cooldown: 2  abilitate 2->cooldown: 0
+Eevee HP 19  abilitate 1->cooldown: 1  abilitate 2->cooldown: 3
+
+5. Bulbasaur nimic / Eevee atac special
+Bulbasaur HP 17 abilitate 1->cooldown: 1 
+Eevee HP 19  abilitate 1->cooldown: 0  abilitate 2->cooldown: 2
+
+6. Bulbasaur abilitate 2 / Eevee abilitate 1
+Bulbasaur HP 12   abilitate 1->cooldown: 0  abilitate 2->cooldown: 3
+Eevee HP 14   abilitate 1->cooldown: 3  abilitate 2->cooldown: 1
+
+7. Bulbasaur abilitate 1 / Eevee atac special
+Bulbasaur HP 4 abilitate 1->cooldown: 4  abilitate 2->cooldown: 2
+Eevee HP 8  abilitate 1->cooldown: 2  abilitate 2->cooldown: 0
+
+8. Bulbasaur atac special / Eevee abilitate 2
+Bulbasaur HP 1 si este stuned  abilitate 1->cooldown: 3  abilitate 2->cooldown: 1
+Eevee HP -1  abilitate 1->cooldown: 1  abilitate 2->cooldown: 3
+
+Bulbasaur a castigat!
+name:Bulbasaur hp:47 attack:null special_attack:10 defense:6 special_defense:4 abilities:[ Dmg:6 Stun:false Dodge:false Cd:4,  Dmg:5 Stun:false Dodge:false Cd:3] items:[Brad de Craciun, Vitamine]
+
+DUELUL 3 s-a terminat!
+
+
+Batalia suprema se da intre: Vulpix si Squirtle
+Se dueleaza pokemonii:
+name:Vulpix hp:52 attack:14 special_attack:null defense:8 special_defense:13 abilities:[ Dmg:8 Stun:true Dodge:false Cd:6,  Dmg:2 Stun:false Dodge:true Cd:7] items:[Pelerina, Sabiuta, Vesta]
+name:Squirtle hp:80 attack:null special_attack:13 defense:15 special_defense:18 abilities:[ Dmg:4 Stun:false Dodge:false Cd:3,  Dmg:2 Stun:true Dodge:false Cd:2] items:[Pelerina, Sabiuta, Vesta]
+
+Vulpix vs Neutrel1
+
+1. Vulpix abilitate 1 / Neutrel1 atac normal
+Vulpix HP 57 abilitate 1 cooldown 6
+Neutrel1 HP 3 si este stuned
+
+2. Vulpix abilitate 2 / Neutrel1 nimic
+Vulpix HP 57 (abilitatea 2 are dodge),  abilitate 1 cooldown 5 abilitate 2 cooldown 7
+Neutrel1 HP 1
+
+3. Vulpix atac normal / Neutrel1 atac normal
+Vulpix HP 54 abilitate 1 cooldown 4  abilitate 2 cooldown 6
+Neutrel1 HP -13
+Vulpix a castigat!
+name:Vulpix hp:53 attack:15 special_attack:null defense:9 special_defense:14 abilities:[ Dmg:8 Stun:true Dodge:false Cd:6,  Dmg:2 Stun:false Dodge:true Cd:7] items:[Pelerina, Sabiuta, Vesta]
+
+Squirtle vs Neutrel1
+
+1. Squirtle atac special / Neutrel1 atac normal
+Squirtle HP 92 
+Neutrel1 HP -2
+Squirtle a castigat!
+name:Squirtle hp:81 attack:null special_attack:14 defense:16 special_defense:19 abilities:[ Dmg:4 Stun:false Dodge:false Cd:3,  Dmg:2 Stun:true Dodge:false Cd:2] items:[Pelerina, Sabiuta, Vesta]
+
+Vulpix vs Squirtle
+
+1. Vulpix atac normal / Squirtle abilitate 1
+Vulpix HP 63  
+Squirtle HP 82 abilitate 1->cooldown: 3 
+
+2. Vulpix abilitate 1 / Squirtle abilitate 2
+Vulpix HP 61 si este stuned   abilitate 1->cooldown: 6 
+Squirtle HP 74 si este stuned   abilitate 1->cooldown: 2  abilitate 2->cooldown: 2
+
+3. Vulpix nimic / Squirtle nimic
+Vulpix HP 61 abilitate 1->cooldown: 5 
+Squirtle HP 74 abilitate 1->cooldown: 1  abilitate 2->cooldown: 1
+
+4. Vulpix atac normal / Squirtle atac special
+Vulpix HP 47 abilitate 1->cooldown: 4 
+Squirtle HP 59 abilitate 1->cooldown: 0  abilitate 2->cooldown: 0
+
+5. Vulpix abilitate 2 / Squirtle atac special
+Vulpix HP 47 (abilitatea 2 are dodge),  abilitate 1->cooldown: 3  abilitate 2->cooldown: 7
+Squirtle HP 57  
+
+6. Vulpix atac normal / Squirtle abilitate 2
+Vulpix HP 45 si este stuned  abilitate 1->cooldown: 2  abilitate 2->cooldown: 6
+Squirtle HP 42   abilitate 2->cooldown: 2
+
+7. Vulpix nimic / Squirtle atac special
+Vulpix HP 31 abilitate 1->cooldown: 1  abilitate 2->cooldown: 5
+Squirtle HP 42  abilitate 2->cooldown: 1
+
+8. Vulpix atac normal / Squirtle abilitate 1
+Vulpix HP 27  abilitate 1->cooldown: 0  abilitate 2->cooldown: 4
+Squirtle HP 27 abilitate 1->cooldown: 3  abilitate 2->cooldown: 0
+
+9. Vulpix abilitate 1 / Squirtle atac special
+Vulpix HP 13 abilitate 1->cooldown: 6  abilitate 2->cooldown: 3
+Squirtle HP 19 si este stuned  abilitate 1->cooldown: 2 
+
+10. Vulpix atac normal / Squirtle nimic
+Vulpix HP 13 abilitate 1->cooldown: 5  abilitate 2->cooldown: 2
+Squirtle HP 4 abilitate 1->cooldown: 1 
+
+11. Vulpix atac normal / Squirtle abilitate 2
+Vulpix HP 11 si este stuned  abilitate 1->cooldown: 4  abilitate 2->cooldown: 1
+Squirtle HP -11  abilitate 1->cooldown: 0  abilitate 2->cooldown: 2
+
+Vulpix a castigat!
+name:Vulpix hp:54 attack:16 special_attack:null defense:10 special_defense:15 abilities:[ Dmg:8 Stun:true Dodge:false Cd:6,  Dmg:2 Stun:false Dodge:true Cd:7] items:[Pelerina, Sabiuta, Vesta]
+

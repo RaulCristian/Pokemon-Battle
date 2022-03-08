@@ -1,0 +1,420 @@
+Au intrat in arena antrenorii: Victor 32 si Emanuel 29
+DUEL 1
+Se dueleaza pokemonii:
+name:Vulpix hp:38 attack:10 special_attack:null defense:2 special_defense:7 abilities:[ Dmg:8 Stun:true Dodge:false Cd:6,  Dmg:2 Stun:false Dodge:true Cd:7] items:[Vitamine, Pelerina, Sabiuta]
+name:Psyduck hp:43 attack:3 special_attack:null defense:5 special_defense:5 abilities:[ Dmg:2 Stun:false Dodge:false Cd:4,  Dmg:2 Stun:true Dodge:false Cd:5] items:[Bagheta Magica, Scut]
+
+Vulpix vs Neutrel2
+
+1. Vulpix abilitate 2 / Neutrel2 atac normal
+Vulpix HP 40 (abilitatea 2 are dodge),  abilitate 2 cooldown 7
+Neutrel2 HP 19
+
+2. Vulpix atac normal / Neutrel2 atac normal
+Vulpix HP 36  abilitate 2 cooldown 6
+Neutrel2 HP 9
+
+3. Vulpix abilitate 1 / Neutrel2 atac normal
+Vulpix HP 32 abilitate 1 cooldown 6 abilitate 2 cooldown 5
+Neutrel2 HP 1 si este stuned
+
+4. Vulpix atac normal / Neutrel2 nimic
+Vulpix HP 32 abilitate 1 cooldown 5  abilitate 2 cooldown 4
+Neutrel2 HP -9
+Vulpix a castigat!
+name:Vulpix hp:39 attack:11 special_attack:null defense:3 special_defense:8 abilities:[ Dmg:8 Stun:true Dodge:false Cd:6,  Dmg:2 Stun:false Dodge:true Cd:7] items:[Vitamine, Pelerina, Sabiuta]
+
+Psyduck vs Neutrel2
+
+1. Psyduck abilitate 2 / Neutrel2 atac normal
+Psyduck HP 44 abilitate 2 cooldown 5
+Neutrel2 HP 19 si este stuned
+
+2. Psyduck atac normal / Neutrel2 nimic
+Psyduck HP 44  abilitate 2 cooldown 4
+Neutrel2 HP 16
+
+3. Psyduck abilitate 1 / Neutrel2 atac normal
+Psyduck HP 40 abilitate 1 cooldown 4 abilitate 2 cooldown 3
+Neutrel2 HP 14
+
+4. Psyduck atac normal / Neutrel2 atac normal
+Psyduck HP 36 abilitate 1 cooldown 3  abilitate 2 cooldown 2
+Neutrel2 HP 11
+
+5. Psyduck atac normal / Neutrel2 atac normal
+Psyduck HP 32 abilitate 1 cooldown 2  abilitate 2 cooldown 1
+Neutrel2 HP 8
+
+6. Psyduck atac normal / Neutrel2 atac normal
+Psyduck HP 28 abilitate 1 cooldown 1  abilitate 2 cooldown 0
+Neutrel2 HP 5
+
+7. Psyduck atac normal / Neutrel2 atac normal
+Psyduck HP 24 abilitate 1 cooldown 0 
+Neutrel2 HP 2
+
+8. Psyduck abilitate 2 / Neutrel2 atac normal
+Psyduck HP 20 abilitate 2 cooldown 5
+Neutrel2 HP 0 si este stuned
+Psyduck a castigat!
+name:Psyduck hp:44 attack:4 special_attack:null defense:6 special_defense:6 abilities:[ Dmg:2 Stun:false Dodge:false Cd:4,  Dmg:2 Stun:true Dodge:false Cd:5] items:[Bagheta Magica, Scut]
+
+Vulpix vs Neutrel2
+
+1. Vulpix abilitate 1 / Neutrel2 atac normal
+Vulpix HP 38 abilitate 1 cooldown 6
+Neutrel2 HP 13 si este stuned
+
+2. Vulpix atac normal / Neutrel2 nimic
+Vulpix HP 38 abilitate 1 cooldown 5 
+Neutrel2 HP 2
+
+3. Vulpix abilitate 2 / Neutrel2 atac normal
+Vulpix HP 38 (abilitatea 2 are dodge),  abilitate 1 cooldown 4 abilitate 2 cooldown 7
+Neutrel2 HP 0
+Vulpix a castigat!
+name:Vulpix hp:40 attack:12 special_attack:null defense:4 special_defense:9 abilities:[ Dmg:8 Stun:true Dodge:false Cd:6,  Dmg:2 Stun:false Dodge:true Cd:7] items:[Vitamine, Pelerina, Sabiuta]
+
+Psyduck vs Neutrel2
+
+1. Psyduck abilitate 2 / Neutrel2 atac normal
+Psyduck HP 46 abilitate 2 cooldown 5
+Neutrel2 HP 19 si este stuned
+
+2. Psyduck abilitate 1 / Neutrel2 nimic
+Psyduck HP 46 abilitate 1 cooldown 4 abilitate 2 cooldown 4
+Neutrel2 HP 17
+
+3. Psyduck atac normal / Neutrel2 atac normal
+Psyduck HP 42 abilitate 1 cooldown 3  abilitate 2 cooldown 3
+Neutrel2 HP 13
+
+4. Psyduck atac normal / Neutrel2 atac normal
+Psyduck HP 38 abilitate 1 cooldown 2  abilitate 2 cooldown 2
+Neutrel2 HP 9
+
+5. Psyduck atac normal / Neutrel2 atac normal
+Psyduck HP 34 abilitate 1 cooldown 1  abilitate 2 cooldown 1
+Neutrel2 HP 5
+
+6. Psyduck atac normal / Neutrel2 atac normal
+Psyduck HP 30 abilitate 1 cooldown 0  abilitate 2 cooldown 0
+Neutrel2 HP 1
+
+7. Psyduck atac normal / Neutrel2 atac normal
+Psyduck HP 26 
+Neutrel2 HP -3
+Psyduck a castigat!
+name:Psyduck hp:45 attack:5 special_attack:null defense:7 special_defense:7 abilities:[ Dmg:2 Stun:false Dodge:false Cd:4,  Dmg:2 Stun:true Dodge:false Cd:5] items:[Bagheta Magica, Scut]
+
+Vulpix vs Psyduck
+
+1. Vulpix abilitate 1 / Psyduck abilitate 1
+Vulpix HP 42   abilitate 1->cooldown: 6 
+Psyduck HP 44 si este stuned   abilitate 1->cooldown: 4 
+
+2. Vulpix abilitate 2 / Psyduck nimic
+Vulpix HP 42 abilitate 1->cooldown: 5  abilitate 2->cooldown: 7
+Psyduck HP 42  abilitate 1->cooldown: 3 
+
+3. Vulpix atac normal / Psyduck abilitate 2
+Vulpix HP 40 si este stuned  abilitate 1->cooldown: 4  abilitate 2->cooldown: 6
+Psyduck HP 30  abilitate 1->cooldown: 2  abilitate 2->cooldown: 5
+
+4. Vulpix nimic / Psyduck atac normal
+Vulpix HP 35 abilitate 1->cooldown: 3  abilitate 2->cooldown: 5
+Psyduck HP 30 abilitate 1->cooldown: 1  abilitate 2->cooldown: 4
+
+5. Vulpix atac normal / Psyduck atac normal
+Vulpix HP 30 abilitate 1->cooldown: 2  abilitate 2->cooldown: 4
+Psyduck HP 18 abilitate 1->cooldown: 0  abilitate 2->cooldown: 3
+
+6. Vulpix atac normal / Psyduck atac normal
+Vulpix HP 25 abilitate 1->cooldown: 1  abilitate 2->cooldown: 3
+Psyduck HP 6  abilitate 2->cooldown: 2
+
+7. Vulpix atac normal / Psyduck atac normal
+Vulpix HP 20 abilitate 1->cooldown: 0  abilitate 2->cooldown: 2
+Psyduck HP -6  abilitate 2->cooldown: 1
+
+Vulpix a castigat!
+name:Vulpix hp:41 attack:13 special_attack:null defense:5 special_defense:10 abilities:[ Dmg:8 Stun:true Dodge:false Cd:6,  Dmg:2 Stun:false Dodge:true Cd:7] items:[Vitamine, Pelerina, Sabiuta]
+
+DUELUL 1 s-a terminat!
+
+DUEL 2
+Se dueleaza pokemonii:
+name:Meowth hp:51 attack:6 special_attack:null defense:5 special_defense:2 abilities:[ Dmg:5 Stun:false Dodge:true Cd:4,  Dmg:1 Stun:false Dodge:true Cd:3] items:[Vesta, Brad de Craciun, Bagheta Magica]
+name:Bulbasaur hp:44 attack:null special_attack:7 defense:3 special_defense:1 abilities:[ Dmg:6 Stun:false Dodge:false Cd:4,  Dmg:5 Stun:false Dodge:false Cd:3] items:[Vitamine, Brad de Craciun]
+
+Meowth vs Neutrel2
+
+1. Meowth abilitate 2 / Neutrel2 atac normal
+Meowth HP 56 (abilitatea 2 are dodge),  abilitate 2 cooldown 3
+Neutrel2 HP 20
+
+2. Meowth atac normal / Neutrel2 atac normal
+Meowth HP 52  abilitate 2 cooldown 2
+Neutrel2 HP 14
+
+3. Meowth atac normal / Neutrel2 atac normal
+Meowth HP 48  abilitate 2 cooldown 1
+Neutrel2 HP 8
+
+4. Meowth atac normal / Neutrel2 atac normal
+Meowth HP 44  abilitate 2 cooldown 0
+Neutrel2 HP 2
+
+5. Meowth atac normal / Neutrel2 atac normal
+Meowth HP 40 
+Neutrel2 HP -4
+Meowth a castigat!
+name:Meowth hp:52 attack:7 special_attack:null defense:6 special_defense:3 abilities:[ Dmg:5 Stun:false Dodge:true Cd:4,  Dmg:1 Stun:false Dodge:true Cd:3] items:[Vesta, Brad de Craciun, Bagheta Magica]
+
+Bulbasaur vs Neutrel2
+
+1. Bulbasaur abilitate 2 / Neutrel2 atac normal
+Bulbasaur HP 43 abilitate 2 cooldown 3
+Neutrel2 HP 16
+
+2. Bulbasaur atac special / Neutrel2 atac normal
+Bulbasaur HP 39  abilitate 2 cooldown 2
+Neutrel2 HP 9
+
+3. Bulbasaur atac special / Neutrel2 atac normal
+Bulbasaur HP 35  abilitate 2 cooldown 1
+Neutrel2 HP 2
+
+4. Bulbasaur atac special / Neutrel2 atac normal
+Bulbasaur HP 31  abilitate 2 cooldown 0
+Neutrel2 HP -5
+Bulbasaur a castigat!
+name:Bulbasaur hp:45 attack:null special_attack:8 defense:4 special_defense:2 abilities:[ Dmg:6 Stun:false Dodge:false Cd:4,  Dmg:5 Stun:false Dodge:false Cd:3] items:[Vitamine, Brad de Craciun]
+
+Meowth vs Bulbasaur
+
+1. Meowth abilitate 2 / Bulbasaur atac special
+Meowth HP 55 (abilitatea 2 are dodge),   abilitate 2->cooldown: 3
+Bulbasaur HP 48  
+
+2. Meowth atac normal / Bulbasaur abilitate 2
+Meowth HP 50   abilitate 2->cooldown: 2
+Bulbasaur HP 41   abilitate 2->cooldown: 3
+
+3. Meowth atac normal / Bulbasaur atac special
+Meowth HP 42  abilitate 2->cooldown: 1
+Bulbasaur HP 34  abilitate 2->cooldown: 2
+
+4. Meowth abilitate 1 / Bulbasaur atac special
+Meowth HP 42 (abilitatea 1 are dodge),  abilitate 1->cooldown: 4  abilitate 2->cooldown: 0
+Bulbasaur HP 29   abilitate 2->cooldown: 1
+
+5. Meowth atac normal / Bulbasaur abilitate 1
+Meowth HP 36  abilitate 1->cooldown: 3 
+Bulbasaur HP 22 abilitate 1->cooldown: 4  abilitate 2->cooldown: 0
+
+6. Meowth abilitate 2 / Bulbasaur abilitate 2
+Meowth HP 36  (abilitatea 2 are dodge),  abilitate 1->cooldown: 2  abilitate 2->cooldown: 3
+Bulbasaur HP 21   abilitate 1->cooldown: 3  abilitate 2->cooldown: 3
+
+7. Meowth atac normal / Bulbasaur atac special
+Meowth HP 28 abilitate 1->cooldown: 1  abilitate 2->cooldown: 2
+Bulbasaur HP 14 abilitate 1->cooldown: 2  abilitate 2->cooldown: 2
+
+8. Meowth atac normal / Bulbasaur atac special
+Meowth HP 20 abilitate 1->cooldown: 0  abilitate 2->cooldown: 1
+Bulbasaur HP 7 abilitate 1->cooldown: 1  abilitate 2->cooldown: 1
+
+9. Meowth abilitate 1 / Bulbasaur atac special
+Meowth HP 20 (abilitatea 1 are dodge),  abilitate 1->cooldown: 4  abilitate 2->cooldown: 0
+Bulbasaur HP 2  abilitate 1->cooldown: 0  abilitate 2->cooldown: 0
+
+10. Meowth atac normal / Bulbasaur abilitate 1
+Meowth HP 14  abilitate 1->cooldown: 3 
+Bulbasaur HP -5 abilitate 1->cooldown: 4 
+
+Meowth a castigat!
+name:Meowth hp:53 attack:8 special_attack:null defense:7 special_defense:4 abilities:[ Dmg:5 Stun:false Dodge:true Cd:4,  Dmg:1 Stun:false Dodge:true Cd:3] items:[Vesta, Brad de Craciun, Bagheta Magica]
+
+DUELUL 2 s-a terminat!
+
+DUEL 3
+Se dueleaza pokemonii:
+name:Squirtle hp:60 attack:null special_attack:3 defense:7 special_defense:7 abilities:[ Dmg:4 Stun:false Dodge:false Cd:3,  Dmg:2 Stun:true Dodge:false Cd:2] items:[Brad de Craciun, Scut, Sabiuta]
+name:Eevee hp:41 attack:null special_attack:6 defense:3 special_defense:3 abilities:[ Dmg:5 Stun:false Dodge:false Cd:3,  Dmg:3 Stun:true Dodge:false Cd:3] items:[Sabiuta, Vitamine]
+
+Squirtle vs Neutrel1
+
+1. Squirtle atac special / Neutrel1 atac normal
+Squirtle HP 64 
+Neutrel1 HP 8
+
+2. Squirtle atac special / Neutrel1 atac normal
+Squirtle HP 61 
+Neutrel1 HP 5
+
+3. Squirtle atac special / Neutrel1 atac normal
+Squirtle HP 58 
+Neutrel1 HP 2
+
+4. Squirtle abilitate 2 / Neutrel1 atac normal
+Squirtle HP 55 abilitate 2 cooldown 2
+Neutrel1 HP 0 si este stuned
+Squirtle a castigat!
+name:Squirtle hp:61 attack:null special_attack:4 defense:8 special_defense:8 abilities:[ Dmg:4 Stun:false Dodge:false Cd:3,  Dmg:2 Stun:true Dodge:false Cd:2] items:[Brad de Craciun, Scut, Sabiuta]
+
+Eevee vs Neutrel1
+
+1. Eevee atac special / Neutrel1 atac normal
+Eevee HP 41 
+Neutrel1 HP 5
+
+2. Eevee atac special / Neutrel1 atac normal
+Eevee HP 38 
+Neutrel1 HP -1
+Eevee a castigat!
+name:Eevee hp:42 attack:null special_attack:7 defense:4 special_defense:4 abilities:[ Dmg:5 Stun:false Dodge:false Cd:3,  Dmg:3 Stun:true Dodge:false Cd:3] items:[Sabiuta, Vitamine]
+
+Squirtle vs Eevee
+
+1. Squirtle abilitate 2 / Eevee abilitate 1
+Squirtle HP 64    abilitate 2->cooldown: 2
+Eevee HP 44 si este stuned   abilitate 1->cooldown: 3 
+
+2. Squirtle atac special / Eevee nimic
+Squirtle HP 64  abilitate 2->cooldown: 1
+Eevee HP 40 abilitate 1->cooldown: 2 
+
+3. Squirtle atac special / Eevee atac special
+Squirtle HP 57  abilitate 2->cooldown: 0
+Eevee HP 36 abilitate 1->cooldown: 1 
+
+4. Squirtle abilitate 1 / Eevee abilitate 2
+Squirtle HP 54 si este stuned   abilitate 1->cooldown: 3 
+Eevee HP 32   abilitate 1->cooldown: 0  abilitate 2->cooldown: 3
+
+5. Squirtle nimic / Eevee atac special
+Squirtle HP 47 abilitate 1->cooldown: 2 
+Eevee HP 32   abilitate 2->cooldown: 2
+
+6. Squirtle atac special / Eevee abilitate 1
+Squirtle HP 42  abilitate 1->cooldown: 1 
+Eevee HP 28 abilitate 1->cooldown: 3  abilitate 2->cooldown: 1
+
+7. Squirtle atac special / Eevee atac special
+Squirtle HP 35 abilitate 1->cooldown: 0 
+Eevee HP 24 abilitate 1->cooldown: 2  abilitate 2->cooldown: 0
+
+8. Squirtle abilitate 1 / Eevee atac special
+Squirtle HP 28 abilitate 1->cooldown: 3 
+Eevee HP 20  abilitate 1->cooldown: 1 
+
+9. Squirtle atac special / Eevee abilitate 2
+Squirtle HP 25 si este stuned  abilitate 1->cooldown: 2 
+Eevee HP 16  abilitate 1->cooldown: 0  abilitate 2->cooldown: 3
+
+10. Squirtle nimic / Eevee abilitate 1
+Squirtle HP 20   abilitate 1->cooldown: 1 
+Eevee HP 16   abilitate 1->cooldown: 3  abilitate 2->cooldown: 2
+
+11. Squirtle atac special / Eevee atac special
+Squirtle HP 13 abilitate 1->cooldown: 0 
+Eevee HP 12 abilitate 1->cooldown: 2  abilitate 2->cooldown: 1
+
+12. Squirtle atac special / Eevee atac special
+Squirtle HP 6 
+Eevee HP 8 abilitate 1->cooldown: 1  abilitate 2->cooldown: 0
+
+13. Squirtle atac special / Eevee atac special
+Squirtle HP -1 
+Eevee HP 4 abilitate 1->cooldown: 0 
+
+Eevee a castigat!
+name:Eevee hp:43 attack:null special_attack:8 defense:5 special_defense:5 abilities:[ Dmg:5 Stun:false Dodge:false Cd:3,  Dmg:3 Stun:true Dodge:false Cd:3] items:[Sabiuta, Vitamine]
+
+DUELUL 3 s-a terminat!
+
+
+Batalia suprema se da intre: Squirtle si Psyduck
+Se dueleaza pokemonii:
+name:Squirtle hp:61 attack:null special_attack:4 defense:8 special_defense:8 abilities:[ Dmg:4 Stun:false Dodge:false Cd:3,  Dmg:2 Stun:true Dodge:false Cd:2] items:[Brad de Craciun, Scut, Sabiuta]
+name:Psyduck hp:45 attack:5 special_attack:null defense:7 special_defense:7 abilities:[ Dmg:2 Stun:false Dodge:false Cd:4,  Dmg:2 Stun:true Dodge:false Cd:5] items:[Bagheta Magica, Scut]
+
+Squirtle vs Psyduck
+
+1. Squirtle atac special / Psyduck atac normal
+Squirtle HP 64 
+Psyduck HP 48 
+
+2. Squirtle abilitate 2 / Psyduck abilitate 1
+Squirtle HP 62    abilitate 2->cooldown: 2
+Psyduck HP 46 si este stuned   abilitate 1->cooldown: 4 
+
+3. Squirtle atac special / Psyduck nimic
+Squirtle HP 62  abilitate 2->cooldown: 1
+Psyduck HP 42 abilitate 1->cooldown: 3 
+
+4. Squirtle abilitate 1 / Psyduck abilitate 2
+Squirtle HP 60 si este stuned   abilitate 1->cooldown: 3  abilitate 2->cooldown: 0
+Psyduck HP 38   abilitate 1->cooldown: 2  abilitate 2->cooldown: 5
+
+5. Squirtle nimic / Psyduck atac normal
+Squirtle HP 55 abilitate 1->cooldown: 2 
+Psyduck HP 38  abilitate 1->cooldown: 1  abilitate 2->cooldown: 4
+
+6. Squirtle abilitate 2 / Psyduck atac normal
+Squirtle HP 50 abilitate 1->cooldown: 1  abilitate 2->cooldown: 2
+Psyduck HP 36 si este stuned  abilitate 1->cooldown: 0  abilitate 2->cooldown: 3
+
+7. Squirtle atac special / Psyduck nimic
+Squirtle HP 50 abilitate 1->cooldown: 0  abilitate 2->cooldown: 1
+Psyduck HP 32  abilitate 2->cooldown: 2
+
+8. Squirtle abilitate 1 / Psyduck atac normal
+Squirtle HP 45 abilitate 1->cooldown: 3  abilitate 2->cooldown: 0
+Psyduck HP 28   abilitate 2->cooldown: 1
+
+9. Squirtle abilitate 2 / Psyduck atac normal
+Squirtle HP 40 abilitate 1->cooldown: 2  abilitate 2->cooldown: 2
+Psyduck HP 26 si este stuned   abilitate 2->cooldown: 0
+
+10. Squirtle atac special / Psyduck nimic
+Squirtle HP 40  abilitate 1->cooldown: 1  abilitate 2->cooldown: 1
+Psyduck HP 22  
+
+11. Squirtle atac special / Psyduck atac normal
+Squirtle HP 35 abilitate 1->cooldown: 0  abilitate 2->cooldown: 0
+Psyduck HP 18 
+
+12. Squirtle abilitate 2 / Psyduck abilitate 2
+Squirtle HP 33 si este stuned    abilitate 2->cooldown: 2
+Psyduck HP 16 si este stuned    abilitate 2->cooldown: 5
+
+13. Squirtle nimic / Psyduck nimic
+Squirtle HP 33  abilitate 2->cooldown: 1
+Psyduck HP 16   abilitate 2->cooldown: 4
+
+14. Squirtle abilitate 1 / Psyduck atac normal
+Squirtle HP 28 abilitate 1->cooldown: 3  abilitate 2->cooldown: 0
+Psyduck HP 12   abilitate 2->cooldown: 3
+
+15. Squirtle atac special / Psyduck atac normal
+Squirtle HP 23 abilitate 1->cooldown: 2 
+Psyduck HP 8  abilitate 2->cooldown: 2
+
+16. Squirtle atac special / Psyduck atac normal
+Squirtle HP 18 abilitate 1->cooldown: 1 
+Psyduck HP 4  abilitate 2->cooldown: 1
+
+17. Squirtle abilitate 2 / Psyduck atac normal
+Squirtle HP 13 abilitate 1->cooldown: 0  abilitate 2->cooldown: 2
+Psyduck HP 2 si este stuned   abilitate 2->cooldown: 0
+
+18. Squirtle atac special / Psyduck nimic
+Squirtle HP 13   abilitate 2->cooldown: 1
+Psyduck HP -2  
+
+Squirtle a castigat!
+name:Squirtle hp:62 attack:null special_attack:5 defense:9 special_defense:9 abilities:[ Dmg:4 Stun:false Dodge:false Cd:3,  Dmg:2 Stun:true Dodge:false Cd:2] items:[Brad de Craciun, Scut, Sabiuta]
+
