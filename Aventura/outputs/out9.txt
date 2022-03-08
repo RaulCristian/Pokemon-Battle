@@ -1,0 +1,572 @@
+Au intrat in arena antrenorii: Maricica 83 si Steluta 97
+DUEL 1
+Se dueleaza pokemonii:
+name:Pikachu hp:35 attack:null special_attack:4 defense:2 special_defense:6 abilities:[ Dmg:6 Stun:false Dodge:false Cd:4,  Dmg:4 Stun:true Dodge:true Cd:5] items:[Pelerina, Brad de Craciun]
+name:Meowth hp:53 attack:5 special_attack:null defense:4 special_defense:2 abilities:[ Dmg:5 Stun:false Dodge:true Cd:4,  Dmg:1 Stun:false Dodge:true Cd:3] items:[Vitamine, Vesta, Bagheta Magica]
+
+Pikachu vs Neutrel1
+
+1. Pikachu abilitate 2 / Neutrel1 atac normal
+Pikachu HP 37 (abilitatea 2 are dodge),  abilitate 2 cooldown 5
+Neutrel1 HP 7 si este stuned
+
+2. Pikachu atac special / Neutrel1 nimic
+Pikachu HP 37  abilitate 2 cooldown 4
+Neutrel1 HP 3
+
+3. Pikachu atac special / Neutrel1 atac normal
+Pikachu HP 34  abilitate 2 cooldown 3
+Neutrel1 HP -1
+Pikachu a castigat!
+name:Pikachu hp:36 attack:null special_attack:5 defense:3 special_defense:7 abilities:[ Dmg:6 Stun:false Dodge:false Cd:4,  Dmg:4 Stun:true Dodge:true Cd:5] items:[Pelerina, Brad de Craciun]
+
+Meowth vs Neutrel1
+
+1. Meowth atac normal / Neutrel1 atac normal
+Meowth HP 54 
+Neutrel1 HP 6
+
+2. Meowth abilitate 1 / Neutrel1 atac normal
+Meowth HP 54 (abilitatea 1 are dodge),  abilitate 1 cooldown 4
+Neutrel1 HP 1
+
+3. Meowth atac normal / Neutrel1 atac normal
+Meowth HP 51 abilitate 1 cooldown 3 
+Neutrel1 HP -4
+Meowth a castigat!
+name:Meowth hp:54 attack:6 special_attack:null defense:5 special_defense:3 abilities:[ Dmg:5 Stun:false Dodge:true Cd:4,  Dmg:1 Stun:false Dodge:true Cd:3] items:[Vitamine, Vesta, Bagheta Magica]
+
+Pikachu vs Neutrel1
+
+1. Pikachu abilitate 2 / Neutrel1 atac normal
+Pikachu HP 39 (abilitatea 2 are dodge),  abilitate 2 cooldown 5
+Neutrel1 HP 7 si este stuned
+
+2. Pikachu atac special / Neutrel1 nimic
+Pikachu HP 39  abilitate 2 cooldown 4
+Neutrel1 HP 2
+
+3. Pikachu abilitate 1 / Neutrel1 atac normal
+Pikachu HP 36 abilitate 1 cooldown 4 abilitate 2 cooldown 3
+Neutrel1 HP -4
+Pikachu a castigat!
+name:Pikachu hp:37 attack:null special_attack:6 defense:4 special_defense:8 abilities:[ Dmg:6 Stun:false Dodge:false Cd:4,  Dmg:4 Stun:true Dodge:true Cd:5] items:[Pelerina, Brad de Craciun]
+
+Meowth vs Neutrel1
+
+1. Meowth atac normal / Neutrel1 atac normal
+Meowth HP 56 
+Neutrel1 HP 5
+
+2. Meowth abilitate 1 / Neutrel1 atac normal
+Meowth HP 56 (abilitatea 1 are dodge),  abilitate 1 cooldown 4
+Neutrel1 HP 0
+Meowth a castigat!
+name:Meowth hp:55 attack:7 special_attack:null defense:6 special_defense:4 abilities:[ Dmg:5 Stun:false Dodge:true Cd:4,  Dmg:1 Stun:false Dodge:true Cd:3] items:[Vitamine, Vesta, Bagheta Magica]
+
+Pikachu vs Neutrel1
+
+1. Pikachu abilitate 1 / Neutrel1 atac normal
+Pikachu HP 38 abilitate 1 cooldown 4
+Neutrel1 HP 5
+
+2. Pikachu atac special / Neutrel1 atac normal
+Pikachu HP 35 abilitate 1 cooldown 3 
+Neutrel1 HP -1
+Pikachu a castigat!
+name:Pikachu hp:38 attack:null special_attack:7 defense:5 special_defense:9 abilities:[ Dmg:6 Stun:false Dodge:false Cd:4,  Dmg:4 Stun:true Dodge:true Cd:5] items:[Pelerina, Brad de Craciun]
+
+Meowth vs Neutrel1
+
+1. Meowth abilitate 2 / Neutrel1 atac normal
+Meowth HP 61 (abilitatea 2 are dodge),  abilitate 2 cooldown 3
+Neutrel1 HP 10
+
+2. Meowth atac normal / Neutrel1 atac normal
+Meowth HP 58  abilitate 2 cooldown 2
+Neutrel1 HP 3
+
+3. Meowth atac normal / Neutrel1 atac normal
+Meowth HP 55  abilitate 2 cooldown 1
+Neutrel1 HP -4
+Meowth a castigat!
+name:Meowth hp:56 attack:8 special_attack:null defense:7 special_defense:5 abilities:[ Dmg:5 Stun:false Dodge:true Cd:4,  Dmg:1 Stun:false Dodge:true Cd:3] items:[Vitamine, Vesta, Bagheta Magica]
+
+Pikachu vs Neutrel2
+
+1. Pikachu atac special / Neutrel2 atac normal
+Pikachu HP 39 
+Neutrel2 HP 14
+
+2. Pikachu atac special / Neutrel2 atac normal
+Pikachu HP 35 
+Neutrel2 HP 7
+
+3. Pikachu abilitate 2 / Neutrel2 atac normal
+Pikachu HP 35 (abilitatea 2 are dodge),  abilitate 2 cooldown 5
+Neutrel2 HP 3 si este stuned
+
+4. Pikachu atac special / Neutrel2 nimic
+Pikachu HP 35  abilitate 2 cooldown 4
+Neutrel2 HP -4
+Pikachu a castigat!
+name:Pikachu hp:39 attack:null special_attack:8 defense:6 special_defense:10 abilities:[ Dmg:6 Stun:false Dodge:false Cd:4,  Dmg:4 Stun:true Dodge:true Cd:5] items:[Pelerina, Brad de Craciun]
+
+Meowth vs Neutrel2
+
+1. Meowth abilitate 2 / Neutrel2 atac normal
+Meowth HP 63 (abilitatea 2 are dodge),  abilitate 2 cooldown 3
+Neutrel2 HP 20
+
+2. Meowth atac normal / Neutrel2 atac normal
+Meowth HP 59  abilitate 2 cooldown 2
+Neutrel2 HP 12
+
+3. Meowth atac normal / Neutrel2 atac normal
+Meowth HP 55  abilitate 2 cooldown 1
+Neutrel2 HP 4
+
+4. Meowth atac normal / Neutrel2 atac normal
+Meowth HP 51  abilitate 2 cooldown 0
+Neutrel2 HP -4
+Meowth a castigat!
+name:Meowth hp:57 attack:9 special_attack:null defense:8 special_defense:6 abilities:[ Dmg:5 Stun:false Dodge:true Cd:4,  Dmg:1 Stun:false Dodge:true Cd:3] items:[Vitamine, Vesta, Bagheta Magica]
+
+Pikachu vs Neutrel1
+
+1. Pikachu atac special / Neutrel1 atac normal
+Pikachu HP 42 
+Neutrel1 HP 3
+
+2. Pikachu abilitate 1 / Neutrel1 atac normal
+Pikachu HP 39 abilitate 1 cooldown 4
+Neutrel1 HP -3
+Pikachu a castigat!
+name:Pikachu hp:40 attack:null special_attack:9 defense:7 special_defense:11 abilities:[ Dmg:6 Stun:false Dodge:false Cd:4,  Dmg:4 Stun:true Dodge:true Cd:5] items:[Pelerina, Brad de Craciun]
+
+Meowth vs Neutrel1
+
+1. Meowth atac normal / Neutrel1 atac normal
+Meowth HP 62 
+Neutrel1 HP 2
+
+2. Meowth abilitate 2 / Neutrel1 atac normal
+Meowth HP 62 (abilitatea 2 are dodge),  abilitate 2 cooldown 3
+Neutrel1 HP 1
+
+3. Meowth atac normal / Neutrel1 atac normal
+Meowth HP 59  abilitate 2 cooldown 2
+Neutrel1 HP -8
+Meowth a castigat!
+name:Meowth hp:58 attack:10 special_attack:null defense:9 special_defense:7 abilities:[ Dmg:5 Stun:false Dodge:true Cd:4,  Dmg:1 Stun:false Dodge:true Cd:3] items:[Vitamine, Vesta, Bagheta Magica]
+
+Pikachu vs Neutrel2
+
+1. Pikachu abilitate 1 / Neutrel2 atac normal
+Pikachu HP 43 abilitate 1 cooldown 4
+Neutrel2 HP 15
+
+2. Pikachu abilitate 2 / Neutrel2 atac normal
+Pikachu HP 43 (abilitatea 2 are dodge),  abilitate 1 cooldown 3 abilitate 2 cooldown 5
+Neutrel2 HP 11 si este stuned
+
+3. Pikachu atac special / Neutrel2 nimic
+Pikachu HP 43 abilitate 1 cooldown 2  abilitate 2 cooldown 4
+Neutrel2 HP 2
+
+4. Pikachu atac special / Neutrel2 atac normal
+Pikachu HP 39 abilitate 1 cooldown 1  abilitate 2 cooldown 3
+Neutrel2 HP -7
+Pikachu a castigat!
+name:Pikachu hp:41 attack:null special_attack:10 defense:8 special_defense:12 abilities:[ Dmg:6 Stun:false Dodge:false Cd:4,  Dmg:4 Stun:true Dodge:true Cd:5] items:[Pelerina, Brad de Craciun]
+
+Meowth vs Neutrel2
+
+1. Meowth atac normal / Neutrel2 atac normal
+Meowth HP 63 
+Neutrel2 HP 11
+
+2. Meowth abilitate 1 / Neutrel2 atac normal
+Meowth HP 63 (abilitatea 1 are dodge),  abilitate 1 cooldown 4
+Neutrel2 HP 6
+
+3. Meowth abilitate 2 / Neutrel2 atac normal
+Meowth HP 63 (abilitatea 2 are dodge),  abilitate 1 cooldown 3 abilitate 2 cooldown 3
+Neutrel2 HP 5
+
+4. Meowth atac normal / Neutrel2 atac normal
+Meowth HP 59 abilitate 1 cooldown 2  abilitate 2 cooldown 2
+Neutrel2 HP -5
+Meowth a castigat!
+name:Meowth hp:59 attack:11 special_attack:null defense:10 special_defense:8 abilities:[ Dmg:5 Stun:false Dodge:true Cd:4,  Dmg:1 Stun:false Dodge:true Cd:3] items:[Vitamine, Vesta, Bagheta Magica]
+
+Pikachu vs Neutrel1
+
+1. Pikachu abilitate 2 / Neutrel1 atac normal
+Pikachu HP 49 (abilitatea 2 are dodge),  abilitate 2 cooldown 5
+Neutrel1 HP 7 si este stuned
+
+2. Pikachu abilitate 1 / Neutrel1 nimic
+Pikachu HP 49 abilitate 1 cooldown 4 abilitate 2 cooldown 4
+Neutrel1 HP 1
+
+3. Pikachu atac special / Neutrel1 atac normal
+Pikachu HP 46 abilitate 1 cooldown 3  abilitate 2 cooldown 3
+Neutrel1 HP -9
+Pikachu a castigat!
+name:Pikachu hp:42 attack:null special_attack:11 defense:9 special_defense:13 abilities:[ Dmg:6 Stun:false Dodge:false Cd:4,  Dmg:4 Stun:true Dodge:true Cd:5] items:[Pelerina, Brad de Craciun]
+
+Meowth vs Neutrel1
+
+1. Meowth abilitate 1 / Neutrel1 atac normal
+Meowth HP 69 (abilitatea 1 are dodge),  abilitate 1 cooldown 4
+Neutrel1 HP 6
+
+2. Meowth atac normal / Neutrel1 atac normal
+Meowth HP 66 abilitate 1 cooldown 3 
+Neutrel1 HP -5
+Meowth a castigat!
+name:Meowth hp:60 attack:12 special_attack:null defense:11 special_defense:9 abilities:[ Dmg:5 Stun:false Dodge:true Cd:4,  Dmg:1 Stun:false Dodge:true Cd:3] items:[Vitamine, Vesta, Bagheta Magica]
+
+Pikachu vs Meowth
+
+1. Pikachu atac special / Meowth atac normal
+Pikachu HP 39 
+Meowth HP 58 
+
+2. Pikachu abilitate 1 / Meowth atac normal
+Pikachu HP 27 abilitate 1->cooldown: 4 
+Meowth HP 52  
+
+3. Pikachu abilitate 2 / Meowth abilitate 2
+Pikachu HP 27  (abilitatea 2 are dodge),  abilitate 1->cooldown: 3  abilitate 2->cooldown: 5
+Meowth HP 52  (abilitatea 2 are dodge),   abilitate 2->cooldown: 3
+
+4. Pikachu atac special / Meowth atac normal
+Pikachu HP 15 abilitate 1->cooldown: 2  abilitate 2->cooldown: 4
+Meowth HP 41  abilitate 2->cooldown: 2
+
+5. Pikachu atac special / Meowth abilitate 1
+Pikachu HP 10  abilitate 1->cooldown: 1  abilitate 2->cooldown: 3
+Meowth HP 41 (abilitatea 1 are dodge),  abilitate 1->cooldown: 4  abilitate 2->cooldown: 1
+
+6. Pikachu atac special / Meowth atac normal
+Pikachu HP -2 abilitate 1->cooldown: 0  abilitate 2->cooldown: 2
+Meowth HP 30 abilitate 1->cooldown: 3  abilitate 2->cooldown: 0
+
+Meowth a castigat!
+name:Meowth hp:61 attack:13 special_attack:null defense:12 special_defense:10 abilities:[ Dmg:5 Stun:false Dodge:true Cd:4,  Dmg:1 Stun:false Dodge:true Cd:3] items:[Vitamine, Vesta, Bagheta Magica]
+
+DUELUL 1 s-a terminat!
+
+DUEL 2
+Se dueleaza pokemonii:
+name:Squirtle hp:70 attack:null special_attack:6 defense:5 special_defense:5 abilities:[ Dmg:4 Stun:false Dodge:false Cd:3,  Dmg:2 Stun:true Dodge:false Cd:2] items:[Bagheta Magica, Vesta]
+name:Psyduck hp:43 attack:9 special_attack:null defense:4 special_defense:3 abilities:[ Dmg:2 Stun:false Dodge:false Cd:4,  Dmg:2 Stun:true Dodge:false Cd:5] items:[Sabiuta, Brad de Craciun]
+
+Squirtle vs Psyduck
+
+1. Squirtle abilitate 2 / Psyduck abilitate 2
+Squirtle HP 73 si este stuned    abilitate 2->cooldown: 2
+Psyduck HP 44 si este stuned    abilitate 2->cooldown: 5
+
+2. Squirtle nimic / Psyduck nimic
+Squirtle HP 73   abilitate 2->cooldown: 1
+Psyduck HP 44  abilitate 2->cooldown: 4
+
+3. Squirtle atac special / Psyduck atac normal
+Squirtle HP 64  abilitate 2->cooldown: 0
+Psyduck HP 38  abilitate 2->cooldown: 3
+
+4. Squirtle abilitate 2 / Psyduck atac normal
+Squirtle HP 55  abilitate 2->cooldown: 2
+Psyduck HP 36 si este stuned   abilitate 2->cooldown: 2
+
+5. Squirtle atac special / Psyduck nimic
+Squirtle HP 55   abilitate 2->cooldown: 1
+Psyduck HP 30  abilitate 2->cooldown: 1
+
+6. Squirtle atac special / Psyduck atac normal
+Squirtle HP 46  abilitate 2->cooldown: 0
+Psyduck HP 24  abilitate 2->cooldown: 0
+
+7. Squirtle abilitate 1 / Psyduck abilitate 1
+Squirtle HP 44   abilitate 1->cooldown: 3 
+Psyduck HP 20   abilitate 1->cooldown: 4 
+
+8. Squirtle abilitate 2 / Psyduck atac normal
+Squirtle HP 35 abilitate 1->cooldown: 2  abilitate 2->cooldown: 2
+Psyduck HP 18 si este stuned  abilitate 1->cooldown: 3 
+
+9. Squirtle atac special / Psyduck nimic
+Squirtle HP 35  abilitate 1->cooldown: 1  abilitate 2->cooldown: 1
+Psyduck HP 12  abilitate 1->cooldown: 2 
+
+10. Squirtle atac special / Psyduck atac normal
+Squirtle HP 26 abilitate 1->cooldown: 0  abilitate 2->cooldown: 0
+Psyduck HP 6 abilitate 1->cooldown: 1 
+
+11. Squirtle abilitate 1 / Psyduck abilitate 2
+Squirtle HP 24 si este stuned   abilitate 1->cooldown: 3 
+Psyduck HP 2   abilitate 1->cooldown: 0  abilitate 2->cooldown: 5
+
+12. Squirtle nimic / Psyduck atac normal
+Squirtle HP 15 abilitate 1->cooldown: 2 
+Psyduck HP 2  abilitate 2->cooldown: 4
+
+13. Squirtle abilitate 2 / Psyduck abilitate 1
+Squirtle HP 13   abilitate 1->cooldown: 1  abilitate 2->cooldown: 2
+Psyduck HP 0 si este stuned   abilitate 1->cooldown: 4  abilitate 2->cooldown: 3
+
+Squirtle a castigat!
+name:Squirtle hp:71 attack:null special_attack:7 defense:6 special_defense:6 abilities:[ Dmg:4 Stun:false Dodge:false Cd:3,  Dmg:2 Stun:true Dodge:false Cd:2] items:[Bagheta Magica, Vesta]
+
+DUELUL 2 s-a terminat!
+
+DUEL 3
+Se dueleaza pokemonii:
+name:Jigglypuff hp:36 attack:6 special_attack:null defense:2 special_defense:6 abilities:[ Dmg:4 Stun:true Dodge:false Cd:4,  Dmg:3 Stun:true Dodge:false Cd:4] items:[Vitamine, Pelerina]
+name:Charmander hp:50 attack:7 special_attack:null defense:3 special_defense:5 abilities:[ Dmg:4 Stun:true Dodge:false Cd:4,  Dmg:7 Stun:false Dodge:false Cd:6] items:[Sabiuta, Pelerina]
+
+Jigglypuff vs Neutrel2
+
+1. Jigglypuff abilitate 1 / Neutrel2 atac normal
+Jigglypuff HP 34 abilitate 1 cooldown 4
+Neutrel2 HP 17 si este stuned
+
+2. Jigglypuff abilitate 2 / Neutrel2 nimic
+Jigglypuff HP 34 abilitate 1 cooldown 3 abilitate 2 cooldown 4
+Neutrel2 HP 14 si este stuned
+
+3. Jigglypuff atac normal / Neutrel2 nimic
+Jigglypuff HP 34 abilitate 1 cooldown 2  abilitate 2 cooldown 3
+Neutrel2 HP 8
+
+4. Jigglypuff atac normal / Neutrel2 atac normal
+Jigglypuff HP 30 abilitate 1 cooldown 1  abilitate 2 cooldown 2
+Neutrel2 HP 2
+
+5. Jigglypuff atac normal / Neutrel2 atac normal
+Jigglypuff HP 26 abilitate 1 cooldown 0  abilitate 2 cooldown 1
+Neutrel2 HP -4
+Jigglypuff a castigat!
+name:Jigglypuff hp:37 attack:7 special_attack:null defense:3 special_defense:7 abilities:[ Dmg:4 Stun:true Dodge:false Cd:4,  Dmg:3 Stun:true Dodge:false Cd:4] items:[Vitamine, Pelerina]
+
+Charmander vs Neutrel2
+
+1. Charmander atac normal / Neutrel2 atac normal
+Charmander HP 49 
+Neutrel2 HP 14
+
+2. Charmander atac normal / Neutrel2 atac normal
+Charmander HP 45 
+Neutrel2 HP 7
+
+3. Charmander atac normal / Neutrel2 atac normal
+Charmander HP 41 
+Neutrel2 HP 0
+Charmander a castigat!
+name:Charmander hp:51 attack:8 special_attack:null defense:4 special_defense:6 abilities:[ Dmg:4 Stun:true Dodge:false Cd:4,  Dmg:7 Stun:false Dodge:false Cd:6] items:[Sabiuta, Pelerina]
+
+Jigglypuff vs Neutrel2
+
+1. Jigglypuff abilitate 1 / Neutrel2 atac normal
+Jigglypuff HP 36 abilitate 1 cooldown 4
+Neutrel2 HP 17 si este stuned
+
+2. Jigglypuff abilitate 2 / Neutrel2 nimic
+Jigglypuff HP 36 abilitate 1 cooldown 3 abilitate 2 cooldown 4
+Neutrel2 HP 14 si este stuned
+
+3. Jigglypuff atac normal / Neutrel2 nimic
+Jigglypuff HP 36 abilitate 1 cooldown 2  abilitate 2 cooldown 3
+Neutrel2 HP 7
+
+4. Jigglypuff atac normal / Neutrel2 atac normal
+Jigglypuff HP 32 abilitate 1 cooldown 1  abilitate 2 cooldown 2
+Neutrel2 HP 0
+Jigglypuff a castigat!
+name:Jigglypuff hp:38 attack:8 special_attack:null defense:4 special_defense:8 abilities:[ Dmg:4 Stun:true Dodge:false Cd:4,  Dmg:3 Stun:true Dodge:false Cd:4] items:[Vitamine, Pelerina]
+
+Charmander vs Neutrel2
+
+1. Charmander abilitate 1 / Neutrel2 atac normal
+Charmander HP 51 abilitate 1 cooldown 4
+Neutrel2 HP 17 si este stuned
+
+2. Charmander atac normal / Neutrel2 nimic
+Charmander HP 51 abilitate 1 cooldown 3 
+Neutrel2 HP 9
+
+3. Charmander abilitate 2 / Neutrel2 atac normal
+Charmander HP 47 abilitate 1 cooldown 2 abilitate 2 cooldown 6
+Neutrel2 HP 2
+
+4. Charmander atac normal / Neutrel2 atac normal
+Charmander HP 43 abilitate 1 cooldown 1  abilitate 2 cooldown 5
+Neutrel2 HP -6
+Charmander a castigat!
+name:Charmander hp:52 attack:9 special_attack:null defense:5 special_defense:7 abilities:[ Dmg:4 Stun:true Dodge:false Cd:4,  Dmg:7 Stun:false Dodge:false Cd:6] items:[Sabiuta, Pelerina]
+
+Jigglypuff vs Neutrel1
+
+1. Jigglypuff abilitate 2 / Neutrel1 atac normal
+Jigglypuff HP 39 abilitate 2 cooldown 4
+Neutrel1 HP 8 si este stuned
+
+2. Jigglypuff atac normal / Neutrel1 nimic
+Jigglypuff HP 39  abilitate 2 cooldown 3
+Neutrel1 HP 0
+Jigglypuff a castigat!
+name:Jigglypuff hp:39 attack:9 special_attack:null defense:5 special_defense:9 abilities:[ Dmg:4 Stun:true Dodge:false Cd:4,  Dmg:3 Stun:true Dodge:false Cd:4] items:[Vitamine, Pelerina]
+
+Charmander vs Neutrel1
+
+1. Charmander atac normal / Neutrel1 atac normal
+Charmander HP 54 
+Neutrel1 HP 2
+
+2. Charmander atac normal / Neutrel1 atac normal
+Charmander HP 51 
+Neutrel1 HP -7
+Charmander a castigat!
+name:Charmander hp:53 attack:10 special_attack:null defense:6 special_defense:8 abilities:[ Dmg:4 Stun:true Dodge:false Cd:4,  Dmg:7 Stun:false Dodge:false Cd:6] items:[Sabiuta, Pelerina]
+
+Jigglypuff vs Charmander
+
+1. Jigglypuff abilitate 2 / Charmander abilitate 2
+Jigglypuff HP 37    abilitate 2->cooldown: 4
+Charmander HP 56 si este stuned    abilitate 2->cooldown: 6
+
+2. Jigglypuff atac normal / Charmander nimic
+Jigglypuff HP 37   abilitate 2->cooldown: 3
+Charmander HP 47  abilitate 2->cooldown: 5
+
+3. Jigglypuff atac normal / Charmander atac normal
+Jigglypuff HP 27  abilitate 2->cooldown: 2
+Charmander HP 38  abilitate 2->cooldown: 4
+
+4. Jigglypuff atac normal / Charmander abilitate 1
+Jigglypuff HP 23 si este stuned   abilitate 2->cooldown: 1
+Charmander HP 29 abilitate 1->cooldown: 4  abilitate 2->cooldown: 3
+
+5. Jigglypuff nimic / Charmander atac normal
+Jigglypuff HP 13  abilitate 2->cooldown: 0
+Charmander HP 29  abilitate 1->cooldown: 3  abilitate 2->cooldown: 2
+
+6. Jigglypuff abilitate 1 / Charmander atac normal
+Jigglypuff HP 3 abilitate 1->cooldown: 4 
+Charmander HP 25 si este stuned  abilitate 1->cooldown: 2  abilitate 2->cooldown: 1
+
+7. Jigglypuff atac normal / Charmander nimic
+Jigglypuff HP 3 abilitate 1->cooldown: 3 
+Charmander HP 16 abilitate 1->cooldown: 1  abilitate 2->cooldown: 0
+
+8. Jigglypuff atac normal / Charmander atac normal
+Jigglypuff HP -7 abilitate 1->cooldown: 2 
+Charmander HP 7 abilitate 1->cooldown: 0 
+
+Charmander a castigat!
+name:Charmander hp:54 attack:11 special_attack:null defense:7 special_defense:9 abilities:[ Dmg:4 Stun:true Dodge:false Cd:4,  Dmg:7 Stun:false Dodge:false Cd:6] items:[Sabiuta, Pelerina]
+
+DUELUL 3 s-a terminat!
+
+
+Batalia suprema se da intre: Squirtle si Meowth
+Se dueleaza pokemonii:
+name:Squirtle hp:71 attack:null special_attack:7 defense:6 special_defense:6 abilities:[ Dmg:4 Stun:false Dodge:false Cd:3,  Dmg:2 Stun:true Dodge:false Cd:2] items:[Bagheta Magica, Vesta]
+name:Meowth hp:61 attack:13 special_attack:null defense:12 special_defense:10 abilities:[ Dmg:5 Stun:false Dodge:true Cd:4,  Dmg:1 Stun:false Dodge:true Cd:3] items:[Vitamine, Vesta, Bagheta Magica]
+
+Squirtle vs Neutrel2
+
+1. Squirtle abilitate 1 / Neutrel2 atac normal
+Squirtle HP 73 abilitate 1 cooldown 3
+Neutrel2 HP 17
+
+2. Squirtle abilitate 2 / Neutrel2 atac normal
+Squirtle HP 69 abilitate 1 cooldown 2 abilitate 2 cooldown 2
+Neutrel2 HP 15 si este stuned
+
+3. Squirtle atac special / Neutrel2 nimic
+Squirtle HP 69 abilitate 1 cooldown 1  abilitate 2 cooldown 1
+Neutrel2 HP 8
+
+4. Squirtle atac special / Neutrel2 atac normal
+Squirtle HP 65 abilitate 1 cooldown 0  abilitate 2 cooldown 0
+Neutrel2 HP 1
+
+5. Squirtle abilitate 1 / Neutrel2 atac normal
+Squirtle HP 61 abilitate 1 cooldown 3
+Neutrel2 HP -3
+Squirtle a castigat!
+name:Squirtle hp:72 attack:null special_attack:8 defense:7 special_defense:7 abilities:[ Dmg:4 Stun:false Dodge:false Cd:3,  Dmg:2 Stun:true Dodge:false Cd:2] items:[Bagheta Magica, Vesta]
+
+Meowth vs Neutrel2
+
+1. Meowth atac normal / Neutrel2 atac normal
+Meowth HP 69 
+Neutrel2 HP 8
+
+2. Meowth atac normal / Neutrel2 atac normal
+Meowth HP 65 
+Neutrel2 HP -5
+Meowth a castigat!
+name:Meowth hp:62 attack:14 special_attack:null defense:13 special_defense:11 abilities:[ Dmg:5 Stun:false Dodge:true Cd:4,  Dmg:1 Stun:false Dodge:true Cd:3] items:[Vitamine, Vesta, Bagheta Magica]
+
+Squirtle vs Meowth
+
+1. Squirtle atac special / Meowth abilitate 2
+Squirtle HP 78  
+Meowth HP 73 (abilitatea 2 are dodge),   abilitate 2->cooldown: 3
+
+2. Squirtle atac special / Meowth abilitate 1
+Squirtle HP 73  
+Meowth HP 73 (abilitatea 1 are dodge),  abilitate 1->cooldown: 4  abilitate 2->cooldown: 2
+
+3. Squirtle abilitate 2 / Meowth atac normal
+Squirtle HP 59  abilitate 2->cooldown: 2
+Meowth HP 71 si este stuned  abilitate 1->cooldown: 3  abilitate 2->cooldown: 1
+
+4. Squirtle abilitate 1 / Meowth nimic
+Squirtle HP 59 abilitate 1->cooldown: 3  abilitate 2->cooldown: 1
+Meowth HP 67  abilitate 1->cooldown: 2  abilitate 2->cooldown: 0
+
+5. Squirtle atac special / Meowth atac normal
+Squirtle HP 45 abilitate 1->cooldown: 2  abilitate 2->cooldown: 0
+Meowth HP 59 abilitate 1->cooldown: 1 
+
+6. Squirtle atac special / Meowth abilitate 2
+Squirtle HP 44  abilitate 1->cooldown: 1 
+Meowth HP 59 (abilitatea 2 are dodge),  abilitate 1->cooldown: 0  abilitate 2->cooldown: 3
+
+7. Squirtle atac special / Meowth abilitate 1
+Squirtle HP 39  abilitate 1->cooldown: 0 
+Meowth HP 59 (abilitatea 1 are dodge),  abilitate 1->cooldown: 4  abilitate 2->cooldown: 2
+
+8. Squirtle abilitate 2 / Meowth atac normal
+Squirtle HP 25  abilitate 2->cooldown: 2
+Meowth HP 57 si este stuned  abilitate 1->cooldown: 3  abilitate 2->cooldown: 1
+
+9. Squirtle abilitate 1 / Meowth nimic
+Squirtle HP 25 abilitate 1->cooldown: 3  abilitate 2->cooldown: 1
+Meowth HP 53  abilitate 1->cooldown: 2  abilitate 2->cooldown: 0
+
+10. Squirtle atac special / Meowth abilitate 2
+Squirtle HP 24  abilitate 1->cooldown: 2  abilitate 2->cooldown: 0
+Meowth HP 53 (abilitatea 2 are dodge),  abilitate 1->cooldown: 1  abilitate 2->cooldown: 3
+
+11. Squirtle atac special / Meowth atac normal
+Squirtle HP 10 abilitate 1->cooldown: 1 
+Meowth HP 45 abilitate 1->cooldown: 0  abilitate 2->cooldown: 2
+
+12. Squirtle abilitate 2 / Meowth abilitate 1
+Squirtle HP 5   abilitate 1->cooldown: 0  abilitate 2->cooldown: 2
+Meowth HP 45  (abilitatea 1 are dodge),  abilitate 1->cooldown: 4  abilitate 2->cooldown: 1
+
+13. Squirtle abilitate 1 / Meowth atac normal
+Squirtle HP -9 abilitate 1->cooldown: 3  abilitate 2->cooldown: 1
+Meowth HP 41  abilitate 1->cooldown: 3  abilitate 2->cooldown: 0
+
+Meowth a castigat!
+name:Meowth hp:63 attack:15 special_attack:null defense:14 special_defense:12 abilities:[ Dmg:5 Stun:false Dodge:true Cd:4,  Dmg:1 Stun:false Dodge:true Cd:3] items:[Vitamine, Vesta, Bagheta Magica]
+
